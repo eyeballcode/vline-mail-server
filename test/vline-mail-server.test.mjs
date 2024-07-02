@@ -50,4 +50,27 @@ describe('The V/Line Inform Mail Server', () => {
       expect(message).to.contain('Due to Metro and V/Line maintenance works, coaches replace some Gippsland Line trains for all or part of the journey from Friday 12 to Wednesday 17 July.')
     })
   })
+
+  describe('The message cleanup', () => {
+    it('Should replace non-breaking backspaces with regular spaces', () => {
+      expect(VLineMailServer.cleanupMessage('Test\u00A0test')).to.equal('Test test')
+    })
+
+    it('Should replace hyphens of all types with " to "', () => {
+      expect(VLineMailServer.cleanupMessage('Southern Cross - Albury')).to.equal('Southern Cross to Albury')
+      expect(VLineMailServer.cleanupMessage('Southern Cross – Bacchus Marsh')).to.equal('Southern Cross to Bacchus Marsh')
+      expect(VLineMailServer.cleanupMessage('Southern Cross – Traralgon')).to.equal('Southern Cross to Traralgon')
+    })
+
+    it('Should replace non standard whitespace with regular whitespaces', () => {
+      expect(VLineMailServer.cleanupMessage('ABC DEF')).to.equal('ABC DEF')
+      expect(VLineMailServer.cleanupMessage('ABC\u00A0DEF')).to.equal('ABC DEF')
+      expect(VLineMailServer.cleanupMessage('ABC\u2009DEF')).to.equal('ABC DEF')
+    })
+
+    it('Should replace excessive spaces and newlines with just one space, and trim the result', () => {
+      expect(VLineMailServer.cleanupMessage('ABC    DEF  ')).to.equal('ABC DEF')
+      expect(VLineMailServer.cleanupMessage('\u00A0ABC  \n\n\u00A0 \u00A0\n DEF \u00A0\n\u00A0 GHI\n\nJKL')).to.equal('ABC DEF GHI JKL')
+    })
+  })
 })
