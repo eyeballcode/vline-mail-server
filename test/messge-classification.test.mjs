@@ -5,7 +5,8 @@ import {
   isReinstation,
   isNonStop,
   isNoBuffet,
-  isDelay
+  isDelay,
+  isChanged
 } from '../lib/message-classification.mjs'
 
 describe('The message classification functions', () => {
@@ -73,10 +74,28 @@ describe('The message classification functions', () => {
     })
   })
 
-  describe('Delays ', () => {
+  describe('Delays', () => {
     it('Works on the generic test cases', () => {
       expect(isDelay('', 'is delayed 5 min on departure')).to.be.true
       expect(isDelay('', 'will be delayed')).to.be.true
+    })
+  })
+
+  describe('Changes', () => {
+    it('Works on early terminations', () => {
+      expect(isChanged('', 'will terminate early at Ballarat and no longer run to Wendouree.')).to.be.true
+      expect(isChanged('', 'will terminate at Bendigo')).to.be.true
+      expect(isChanged('', 'will terminate at Flinders St and not Southern Cross')).to.be.true
+    })
+
+    it('Works on late originations', () => {
+      expect(isChanged('', 'will originate from Ballarat at 14:20 and not Wendouree.')).to.be.true
+      expect(isChanged('', 'will originate late at Benalla.')).to.be.true
+      expect(isChanged('', 'will start from Ballarat today')).to.be.true
+    })
+
+    it('Words like Woodend should not trigger it', () => {
+      expect(isChanged('', 'will not stop at Woodend today')).to.be.false
     })
   })
 })
