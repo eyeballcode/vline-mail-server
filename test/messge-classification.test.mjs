@@ -6,7 +6,8 @@ import {
   isNonStop,
   isNoBuffet,
   isDelay,
-  isChanged
+  isChanged,
+  isAdditionalStop
 } from '../lib/message-classification.mjs'
 
 describe('The message classification functions', () => {
@@ -98,10 +99,17 @@ describe('The message classification functions', () => {
       expect(isChanged('', 'will not stop at Woodend today')).to.be.false
     })
   })
+
+  describe('Additional stops', () => {
+    it('Works on generic test cases', () => {
+      expect(isAdditionalStop('', 'will make an additional stop at Melton today')).to.be.true
+      expect(isAdditionalStop('', 'will make an extra stop at Wallan today')).to.be.true
+    })
+  })
 })
 
 describe('The overall message classifier', () => {
   it('Correctly classifies reductions', () => {
-    
+
   })
 })
