@@ -4,10 +4,11 @@ import {
   isCancellation,
   isReinstation,
   isNonStop,
-  isNoBuffet
+  isNoBuffet,
+  isDelay
 } from '../lib/message-classification.mjs'
 
-describe('The message classification', () => {
+describe('The message classification functions', () => {
   describe('Service reduction', () => {
     it('Checks the header', () => {
       expect(isReduction('service reduction', '')).to.be.true
@@ -70,5 +71,18 @@ describe('The message classification', () => {
     it('Works on the generic test cases', () => {
       expect(isNoBuffet('', 'will operate without buffet services today')).to.be.true
     })
+  })
+
+  describe('Delays ', () => {
+    it('Works on the generic test cases', () => {
+      expect(isDelay('', 'is delayed 5 min on departure')).to.be.true
+      expect(isDelay('', 'will be delayed')).to.be.true
+    })
+  })
+})
+
+describe('The overall message classifier', () => {
+  it('Correctly classifies reductions', () => {
+    
   })
 })
