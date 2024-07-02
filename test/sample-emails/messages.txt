@@ -754,3 +754,29 @@ CHANGED	The 18:07 South Geelong - Southern Cross service will originate from Gee
 CHANGED	The 17 :18 Southern Cross - Wendouree service will terminate at Ballarat and not Wendouree.
 CHANGED	17:53 Southern Cross - Waurn Ponds service will terminate at Geelong and not Waurn Ponds.
 CHANGED	The 18:56 Southern Cross - South Geelong service will terminate at Geelong and not South Geelong.
+DELAYED	The 13:08 Southern Cross-Warrnambool service will be held in Birregurra awaiting an ambulance.
+CANCELLED	The 07:20 Southern Cross will not run today.
+CANCELLED	The 22:00 Southern Cross - Waurn Ponds service will not run today due to resons still bring investigated.
+DELAYED	The 22:08 Southern Cross - Wendouree service is delayed by 47 minutes due to reasons still being investigated.
+NON_SPECIFIC	[Insert Comms here]
+DELAYED	The 05:09 Shepparton - Southern Cross service is being held at Roxburgh Park due to a police operation.
+REDUCTION	The 12:51 Albury - Southern Cross service will run with a reduced capacity of 3 VLocity carriages due to a train fault. Passengers sitting in carriages D, E and F are advised to board replacement coaches to complete their journey.
+ADD_STOP	The 06:38 Wendouree - Southern Cross service will make an additional stop at Melton at 07:36, Cobblebank at 07:40, and Caroline Springs at 07:49 today.
+ADD_STOP	The 06:13 Ararat - Southern Cross service will make an additional stop at Melton at 08:17 today.
+ADD_STOP	The 06:19 Shepparton - Southern Cross service will make an additional stop at Tallarook at 07:39 today.
+NO_BUFFET	The 18:02 Southern Cross - Albury service will operate without Cafe Bar facilities between Euroa and Albury today. Please consider purchasing your food/beverage prior to departure.
+DELAYED	The 11:06 Southern Cross - Eaglehawk service is delayed near Macedon due to an incident requiring emergency services. 
+REINSTATED	The 10:27 Traralgon - Southern Cross service will now run as scheduled.
+REDUCTION	The 06:45 Melton - Southern Cross service will run with a reduced capacity
+DELAYED	The 19:27 Southern Cross - Traralgon service is 30 minutes due to an unruly passenger.
+NON_SPECIFIC	Services are currently operating at reduced speed due to a police operation at Footscray station. Further travel advice to follow.
+NON_SPECIFIC	Train services will now operate at a reduced speed between Morwell and Bairnsdale. We are sorry for the delay to your journey.
+DELAYED	he 08:19 Melton - Southern Cross service is delayed  on departure by 25 minutes 
+CANCELLED	The 19:16 Southern Cross - Geelong service will not run tonight 
+REDUCTION	The 17:04 Southern Cross - Kyneton service will run at a reduced capacity of 3 VLocity carriages
+NON_STOP	The 16:36 Southern Cross - Seymour service will not stop at Broadmeadows and Craigieburn today due to increased passenger demand.
+NON_SPECIFIC	Albury - Southern Cross services are expected to be delayed by up to 30 minutes due to Tottenham Crossover Upgrade works.
+CHANGED	The 05:36 Eaglehawk - Southern Cross service will originate from Bendigo 
+NO_BUFFET	The 13:35 Swan Hill - Southern Cross service will operate without Cafe Bar facilities today.
+REDUCTION	The 06:19 Shepparton – Southern Cross service will run with a reduced capacity if 3 VLocity carriages 
+DELAYED	The 18:07 Traralgon - Southern Cross service 50 minutes leaving Bunyip station.
