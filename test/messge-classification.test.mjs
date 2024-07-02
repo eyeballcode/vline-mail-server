@@ -121,7 +121,7 @@ describe('The message classification functions', () => {
 })
 
 describe('The overall message classifier', () => {
-  it('Correctly classifies reductions', () => {
+  it('Correctly classifies messages on the test data', () => {
     sampleAlterations.forEach(message => {
       let [type, text] = message.split('\t')
       let cleanedUp = VLineMailServer.processMessage(text).toLowerCase()

@@ -114,5 +114,9 @@ describe('The V/Line Inform Mail Server', () => {
     it('Should remove the due to reason', () => {
       expect(VLineMailServer.standardiseMessage('be delayed due to personal reasons')).to.equal('be delayed')
     })
+
+    it('Should replace Café with Cafe (no french allowed here sorry)', () => {
+      expect(VLineMailServer.standardiseMessage('Café Bar facilities')).to.equal('Cafe Bar facilities')
+    })
   })
 })
