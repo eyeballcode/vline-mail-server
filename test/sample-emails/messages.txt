@@ -1,0 +1,756 @@
+DELAYED	The 20:05 Southern Cross - Seymour service is delayed 22 minutes due to an emergency services request.
+NO_BUFFET	The 06:45 Albury - Southern Cross service will operate without buffet facilities between Albury and Euroa today.
+REDUCTION	The 08:50 Geelong - Southern Cross service will run at a reduced capacity of 3 V/Locity carriages.
+REDUCTION	The 13:30 Southern Cross - Geelong service will run with a reduced capacity of three V/Locity carriages.
+REDUCTION	The 15:36 Southern Cross - Melton service will run with a reduced capacity of three V/Locity carriages.
+NO_BUFFET	The 16:05 Shepparton - Southern Cross service will operate without buffet facilities today.
+REDUCTION	The 16:06 Southern Cross - Bendigo service will run with a reduced capacity of three V/Locity carriages.
+REDUCTION	The 17:42 Southern Cross - Melton service will run with a reduced capacity of three V/Locity carriages.
+REDUCTION	The 17:49 Southern Cross - Bendigo service will run with a reduced capacity of three V/Locity carriages.
+REDUCTION	The 17:58 Southern Cross - Wendouree service will run with a reduced capacity of three V/Locity carriages.
+NO_BUFFET	The 18:33 Southern Cross - Bairnsdale service will operate without buffet facilities today.
+REDUCTION	The 16:46 Southern Cross - Geelong service will run with a reduced capacity of three V/Locity carriages.
+REDUCTION	The 18:53 Southern Cross - Geelong service will run with a reduced capacity of three V/Locity carriages.
+REDUCTION	The 17:53 Southern Cross - Geelong service will run with a reduced capacity of three V/Locity carriages.
+DELAYED	The 16:17 Southern Cross - Traralgon service is delayed 22 minutes due to a train fault.
+DELAYED	The 17:26 Southern Cross - Epsom service is delayed 22 minutes due to a delayed train crew.
+CHANGED	The 17:26 Southern Cross - Epsom service will terminate early at Bendigo and no longer run to Epsom.
+REDUCTION	The 09:32 Geelong - Southern Cross service will run with a reduced capacity of 3 V/Locity Carriages
+NON_SPECIFIC	Coaches replace evening Ballarat Line trains for the entire journey on Friday 14 to Tuesday 18 October. More information at: bit.ly/3SOGRjj
+REDUCTION	The 14:14 Wendouree - Southern Cross service will run at a reduced capacity of 3 V/Locity carriages.
+NON_SPECIFIC	Coaches replace Swan Hill Line trains for part of the journey on Saturday 15 and Sunday 16 October. More information at: bit.ly/3rpFxI7
+DELAYED	The 08:54 Echuca - Southern Cross service is delayed 21 minutes.
+NON_SPECIFIC	Coaches replace Echuca Line trains for part of the journey on Saturday 15 and Sunday 16 October. More information at: bit.ly/3e0QSLC
+REDUCTION	The 19:00 Southern Cross - Geelong service will run at a reduced capacity of 3 V/Locity carriages.
+REDUCTION	The 20:30 Southern Cross - Geelong service will run with a reduced capacity of three V/Locity carriages.
+DELAYED	The 21:45 Southern Cross - Seymour service is delayed 30 minutes due to a train fault.
+NO_BUFFET	The 07:07 Southern Cross - Albury service will operate without buffet facilities between Euroa & Albury today.
+CHANGED	The 05:24 Waurn Ponds - Southern Cross service will terminate early at Lara and no longer run to Southern Cross.
+ADD_STOP	The 05:34 Waurn Ponds - Southern Cross service will make an additional stop at Deer Park today due to an earlier train fault. 
+CANCELLED	The 06:48 Southern Cross - South Geelong service will not run today due to an animal strike.
+CANCELLED	The 08:08 South Geelong - Southern Cross service will not run today due to an animal strike.
+CANCELLED	The 07:05 Southern Cross - South Geelong service will not run today. 
+CANCELLED	The 08:45 South Geelong - Southern Cross service will not run today.
+CHANGED	The 04:25 Traralgon - Southern Cross service will terminate early at Flinders St and no longer run to Southern Cross.
+CHANGED	The 07:17 Southern Cross - Bairnsdale service will originate at Flinders St and not  Southern Cross.
+DELAYED	Services on the Geelong line may experience delays of up to 45 mins this morning.
+CANCELLED	The 07:23 Geelong - Southern Cross service will not run today.
+NON_SPECIFIC	Services on the Geelong Line are currently experiencing delays of up to 45 minutes.  More information at https://bit.ly/3eiIK9r
+NON_SPECIFIC	Coaches are replacing trains between Geelong and Southern Cross due to a disabled train near Tarneit. More information here.
+NON_SPECIFIC	Coaches are continuing to replace trains between Geelong and Southern Cross.  More information at bit.ly/3eiIK9r
+NON_SPECIFIC	Services on the Geelong line have recommenced following a disabled train near Tarneit. More information at https://bit.ly/3eiIK9r
+NON_SPECIFIC	We are sorry for the delay to your journey.
+CHANGED	The 08:49 Geelong - Warrnambool service will terminate early at Camperdown and no longer run to Warrnambool.
+NON_SPECIFIC	Coaches replace some evening Gippsland Line trains from Monday 24 to Thursday 27 October. More information at https://bit.ly/3eaQBWs
+REDUCTION	The 16:06 Southern Cross - Bendigo service will run with a reduced capacity of three V/Locity carriages.
+CHANGED	The 13:16 Southern Cross - Wendouree service will terminate early at Bacchus Marsh and no longer Wendouree
+CANCELLED	The 16:40 Wendouree - Southern Cross service will not run today 
+CANCELLED	The 17:15 Southern Cross - Wyndham Vale service will not run today.
+CANCELLED	The 16:41 Southern Cross - Melton service will not run today.
+CANCELLED	The 18:12 Southern Cross - Geelong service will not run today.
+CANCELLED	The 17:33 Melton - Bacchus Marsh service will not run today.
+CANCELLED	The 16:52 Southern Cross - Eaglehawk service will not run today.
+REDUCTION	The 06:38 South Geelong - Southern Cross service will run with a reduced capacity of 3 V/Locity carriages.
+REDUCTION	The 06:55 Wendouree - Southern Cross service will run with a reduced capacity of 3 V/Locity carriages.
+REDUCTION	The 07:35 Wyndham Vale - Southern Cross service will run with a reduced capacity of 3 V/Locity carriages.
+REDUCTION	The 08:03 Melton - Southern Cross service will run with a reduced capacity of 3 V/Locity carriages.
+REDUCTION	The 08:14 Wyndham Vale - Southern Cross service will run with a reduced capacity of 3 V/Locity carriages.
+REDUCTION	The 08:12 Waurn Ponds - Southern Cross service will run with a reduced capacity of 3 V/Locity carriages.
+DELAYED	The 06:14 Bairnsdale to Southern Cross service is delayed by more than 60 minutes due to a safety incident.
+DELAYED	The 07:17 Southern Cross - Bairnsdale service is delayed by up to 50 minutes due to an earlier safety incident.
+NO_BUFFET	The 12:36 Southern Cross - Shepparton service will operate without buffet facilities today.
+DELAYED	The 12:04 Southern Cross - Albury service is delayed on departure.
+DELAYED	The 12:04 Southern Cross - Albury service is now delayed 31 minutes.
+CHANGED	The 13:13 Southern Cross - South Geelong service will terminate early at Geelong and no longer run to South Geelong.
+CHANGED	The 14:45 South Geelong - Southern Cross service will originate from Geelong at 14:50 and not Geelong.
+NO_BUFFET	The 16:05 Shepparton - Southern Cross service will operate without buffet facilities today.
+REDUCTION	The 16:14 Southern Cross - Wendouree service will run at a reduced capacity of 3 V/Locity carriages.
+REDUCTION	The 17:05 Southern Cross - Seymour service will run at a reduced capacity of 3 Sprinter carriages.
+CANCELLED	The 17:01 Southern Cross - Melton service will not run today.
+NO_BUFFET	The 19:07 Southern Cross - Shepparton service will operate without buffet facilities today.
+NON_STOP	The 17:15 Southern Cross - Wyndham Vale service will not stop at Footscray & Sunshine today.
+DELAYED	The 17:06 Southern Cross - Warrnambool service is delayed on departure by 31+ minutes.
+DELAYED	The 16:22 Traralgon - Southern Cross service is currently delayed 20+ minutes.
+NO_BUFFET	The 05:55 Southern Cross - Shepparton service will operate without buffet facilities today.
+CHANGED	The 06:44 Epsom - Southern Cross service will originate from Bendigo at 06:53 and not Epsom.
+REDUCTION	The 07:35 Wyndham Vale - Southern Cross service will run with a reduced capacity of 3 V/Locity carriages.
+REDUCTION	The 08:03 Melton - Southern Cross service will run with a reduced capacity of 3 V/Locity carriages.
+REDUCTION	The 08:12 Waurn Ponds - Southern Cross service will run with a reduced capacity of 3 V/Locity carriages.
+REDUCTION	The 08:58 Waurn Ponds - Southern Cross service will run with a reduced capacity of 3 V/Locity carriages.
+NO_BUFFET	The 09:44 Shepparton - Southern Cross service will operate without buffet facilities today.
+DELAYED	The 11:36 Southern Cross - Seymour service is delayed 20 minutes.
+REDUCTION	The 15:06 Southern Cross - Echuca service will run with a reduced capacity of three V/Locity carriages.
+REDUCTION	The 14:10 Southern Cross - Waurn Ponds service will run at a reduced capacity of 3 V/Locity carriages.
+REDUCTION	The 15:30 Southern Cross - Waurn Ponds service will run at a reduced capacity of 3 V/Locity carriages.
+REDUCTION	The 16:37 Southern Cross - Seymour service will run with a reduced capacity of two Sprinter carriages.
+CANCELLED	The 15:58 Southern Cross - Wendouree service will not run today.
+REDUCTION	The 16:17 Southern Cross - Wendouree service will run at a reduced capacity of 3 V/Locity carriages.
+NO_BUFFET	The 18:33 Southern Cross - Bairnsdale service will operate without buffet facilities today.
+REDUCTION	The 17:18 Southern Cross - Wendouree service will run with a reduced capacity of 3 V/Locity carriages.
+CHANGED	The 16:17 Southern Cross - Wendouree service will terminate at Ballarat and no longer run to Wendouree.
+CANCELLED	The 18:12 Southern Cross - Geelong service will not run today.
+CANCELLED	The 18:37 Southern Cross - Kyneton service will not run today.
+DELAYED	The 18:21 Southern Cross - Bacchus Marsh service is delayed 31 minutes.
+CANCELLED	The 06:30 Kyneton - Southern Cross service will not run today.
+NO_BUFFET	The 05:55 Southern Cross - Shepparton service will operate without buffet facilities today.
+CANCELLED	The 06:19 Bacchus Marsh - Southern Cross service will not run today.
+CANCELLED	The 06:31 Southern Cross - Wendouree service will not run today.
+CANCELLED	The 07:46 Southern Cross - Warrnambool service will not run today.
+CANCELLED	The 08:38 Wendouree - Southern Cross service will not run today.
+CANCELLED	The 06:45 Albury - Southern Cross service will not run today.
+CANCELLED	The 07:07 Southern Cross - Albury service will not run today.
+CANCELLED	The 09:33 Warrnambool - Southern Cross service will not run today.
+NO_BUFFET	The 09:44 Shepparton - Southern Cross service will operate without buffet facilities today.
+NON_SPECIFIC	Coaches replace all Ararat Line trains on Saturday 29 and Sunday 30 October. More information at https://bit.ly/3EzTUkH
+NON_SPECIFIC	Coaches are replacing trains between Albury and Seymour in both directions until further notice. More information at https://bit.ly/3Mp8c9W
+NON_SPECIFIC	Coaches are replacing trains between Shepparton and Seymour in both directions.  More information at https://bit.ly/3yYAGSz
+NON_SPECIFIC	Coaches are replacing trains between Bendigo and Echuca in both directions until further notice. More information at https://bit.ly/3SWKioH
+NON_SPECIFIC	Coaches are replacing trains between Bendigo and Eaglehawk/Swan Hill in both directions. More information at https://bit.ly/3Cu9KLl
+CHANGED	The 11:56 Southern Cross - Wendouree service will terminate at Ballarat and no longer run to Wendouree.
+CANCELLED	The 13:58 Wendouree - Southern Cross service will not run today.
+CHANGED	The 12:15 Warrnambool - Southern Cross service will terminate at Colac and no longer run to Southern Cross.
+CANCELLED	The 19:47 Southern Cross - Bendigo service will not run today.
+CANCELLED	The 05:18 Wendouree - Southern Cross service will not run today.
+ADD_STOP	The 05:56 service will make an additional stop at Melton today.
+REINSTATED	The 05:18 Wendouree - Southern Cross service has been reinstated and will run as scheduled.
+CANCELLED	The 06:20 Eaglehawk - Southern Cross service will not run today.
+NON_SPECIFIC	Services between Warrnambool and Geelong today are cancelled until further notice.  More information at https://bit.ly/3S1bnpg
+NON_SPECIFIC	NO TRAIN OR COACH services are operating between Southern Cross and Seymour / Shepparton / Albury today. More information at https://bit.ly/3S1bnpg
+CANCELLED	The 10:47 Ballarat - Maryborough service will not run today.
+CANCELLED	The 14:57 Maryborough - Ballarat service will not run today.
+NON_SPECIFIC	Coaches replace all Gippsland Line trains from Saturday 5 to Sunday 13 November. More information at https://bit.ly/3g2Qg8Z
+NON_SPECIFIC	Coaches replace some evening Geelong Line trains from Sunday 30 October to Tuesday 1 November. More information at https://bit.ly/3rIvtdk
+REDUCTION	The 17:01 Southern Cross - Melton service will run a reduced capacity of three V/Locity carriages.
+NON_SPECIFIC	Train services have resumed between Warrnambool and Waurn Ponds. 
+NON_SPECIFIC	We are sorry for the delay to your journey.
+NON_SPECIFIC	Select train services are resuming between Southern Cross and Seymour. Albury and Shepparton services remain cancelled.
+CHANGED	The 16:31 Southern Cross - Geelong service will terminate at Lara and no longer run to Geelong.
+CHANGED	The 17:18 Southern Cross - Wendouree service will terminate at Ballarat and no longer run to Wendouree.
+CHANGED	The 17:12 Southern Cross - South Geelong service will terminate at Geelong and no longer run to South Geelong.
+CHANGED	The 18:54 South Geelong - Southern Cross service will originate from Geelong at 19:00 and not South Geelong.
+CHANGED	The 17:32 Southern Cross - Geelong service will terminate at Geelong and no longer run to Geelong.
+CHANGED	The 17:32 Southern Cross - South Geelong service will terminate at Geelong and no longer run to Geelong.
+CHANGED	The 17:53 Southern Cross - Waurn Ponds service will terminate at Geelong and no longer run to Waurn Ponds.
+DELAYED	The 17:39 Warrnambool - Southern Cross service is delayed 23 minutes.
+DELAYED	The 17:39 Warrnambool - Southern Cross service is delayed 50 minutes.
+DELAYED	The 13:00 Southern Cross - Warrnambool service is delayed 51 minutes due to an unruly passenger.
+NON_SPECIFIC	Coaches replace some evening Seymour Line trains for the entire journey from Sunday 23 to Wednesday 26 October. More information at: bit.ly/3M5502R
+CHANGED	The 05:56 Wendouree - Southern Cross service will originate from Ballarat and not Wendouree today.
+NON_SPECIFIC	Coaches are replacing trains between Southern Cross and Pakenham. More information at https://bit.ly/3D4gRvw
+NON_SPECIFIC	Services have resumed on the Gippsland line following an earlier disruption with delays of up to 90 minutes. We are sorry for the delay to your journey.
+CHANGED	The 10:05 South Geelong - Southern Cross service will originate from Geelong at 10:10 and not South Geelong.
+CANCELLED	The 10:47 Ballarat - Maryborough service will not run this morning.
+CANCELLED	The 14:57 Maryborough - Ballarat service will not run today.
+DELAYED	The 12:04 Southern Cross - Albury service is delayed 33 minutes due to track congestion.
+REDUCTION	The 16:46 Southern Cross - Waurn Ponds service will run with a reduced capacity of 3 V/Locity carriages.
+REDUCTION	The 17:38 Southern Cross - Wendouree service will run with a reduced capacity of 3 V/Locity carriages.
+CANCELLED	The 17:06 Southern Cross - Warrnambool service will not run today.
+CHANGED	The 19:16 Southern Cross - Waurn Ponds service will terminate early at Geelong and no longer Waurn Ponds
+CANCELLED	The 05:24 Waurn Ponds - Southern Cross service will not run today.
+NO_BUFFET	The 06:45 Albury - Southern Cross service will operate without buffet facilities between Albury & Euroa today.
+NO_BUFFET	The 07:07 Southern Cross - Albury service will operate without buffet facilities between Euroa & Albury today.
+REDUCTION	The 16:49 Southern Cross - South Geelong service will run with a reduced capacity of 3 V/Locity carriages.
+NO_BUFFET	The 18:33 Southern Cross - Bairnsdale service will operate without buffet facilities today.
+REDUCTION	The 17:21 Southern Cross - Melton service will run with a reduced capacity of 3 V/Locity carriages.
+NON_SPECIFIC	There will be additional coaches operating on the Bendigo Line from tomorrow morning. More information at https://bit.ly/3VDUh47
+NON_SPECIFIC	There will be additional coaches operating on the Seymour Line from tomorrow morning. More information at https://bit.ly/3VDUh47
+NON_SPECIFIC	Due to ongoing flood related impacts, there will be cancellations and service changes in place across various parts of the V/Line network. For more information, visit bit.ly/3VsR5YG
+NON_SPECIFIC	Due to ongoing flood related impacts, there will be cancellations and service changes in place across various parts of the V/Line network. For more information, visit bit.ly/3VsR5YG
+NON_SPECIFIC	Due to ongoing flood related impacts, there will be cancellations and service changes in place across various parts of the V/Line network. For more information, visit bit.ly/3VsR5YG
+NON_SPECIFIC	There will be additional coaches operating on the Seymour Line today. More information at https://bit.ly/3VDUh47
+NON_SPECIFIC	There will be additional coaches operating on the Bendigo Line today. More information at https://bit.ly/3VDUh47
+CHANGED	The 17:46 Southern Cross - Waurn Ponds service will terminate early at Sunshine and no longer run to Waurn Ponds.
+CANCELLED	The 17:53 Southern Cross - Waurn Ponds service will not run today.
+CHANGED	The 04:48 Southern Cross - Waurn Ponds service will terminate at Geelong and no longer run to Waurn Ponds.
+CHANGED	The 06:18 Waurn Ponds - Southern Cross service will originate from Geelong at 06:33 and not Waurn Ponds.
+NON_SPECIFIC	Shepparton train services will resume as coach replacements and some scheduled coach services will also recommence from Thursday 20 October.
+NON_SPECIFIC	Due to ongoing flood related impacts, there will be additional coaches and alternative transport in place for Bendigo, Epsom and Eaglehawk passengers.
+CANCELLED	The 08:36 Wyndham Vale - Southern Cross service will not run today.
+CANCELLED	The 08:36 Wyndham Vale - Southern Cross service will not run today.
+NON_SPECIFIC	Coaches are replacing trains between Pakenham and Traralgon due to a person struck by train near Oakleigh. More information at https://bit.ly/3VHuEiH
+CANCELLED	The 09:10 Southern Cross - South Geelong service will not run today.
+CANCELLED	The 10:45 South Geelong - Southern Cross service will not run today.
+NON_SPECIFIC	Services have resumed on the Gippsland line. We are sorry for the delay to your journey.
+CANCELLED	The 11:27 Traralgon - Southern Cross service will not run today. 
+CANCELLED	The 10:56 Southern Cross - Melton service will not run today.
+CANCELLED	The 12:16 Southern Cross - Melton service will not run today.
+CANCELLED	The 13:06 Southern Cross - Bendigo service will not run today.
+CANCELLED	The 13:36 Southern Cross - Melton service will not run today.
+CANCELLED	The 14:06 Southern Cross - Bendigo service will not run today.
+CANCELLED	The 05:28 Bacchus Marsh - Southern Cross service will not run today.
+CANCELLED	The 08:08 Bacchus Marsh - Southern Cross service will not run today
+REDUCTION	The 08:12 Waurn Ponds - Southern Cross service will run at a reduced capacity of 3 V/Locity carriages.
+REINSTATED	The 08:08 Bacchus Marsh - Southern Cross service has been reinstated and will run as scheduled today.
+CANCELLED	The 14:10 Southern Cross - Waurn Ponds service will not run today.
+CANCELLED	The 15:38 Waurn Ponds - Southern Cross service will not run today.
+REINSTATED	The 14:10 Southern Cross - Waurn Ponds service has been reinstated and will run as scheduled.
+REINSTATED	The 15:38 Waurn Ponds - Southern Cross service has been reinstated and will run as scheduled.
+NON_SPECIFIC	From Sunday 23 October, a new timetable will start on the Shepparton line with coaches continuing to replace trains. Seymour and Shepparton line passengers please check before you travel. For more: https://bit.ly/3TGzKd8
+CANCELLED	The 20:27 Southern Cross - Traralgon service will not run today
+CANCELLED	The 23:43 Southern Cross - Seymour service will not run today
+CHANGED	The 21:43 Southern Cross - Seymour service will terminate early at Kilmore East and no longer Seymour.
+CHANGED	The 21:56 Seymour -Southern Cross will terminate at Broadford and no longer run to Southern Cross
+CANCELLED	The 06:17 Seymour - Southern Cross service will not run today.
+CANCELLED	The 07:16 Southern Cross - Seymour service will not run today.
+CANCELLED	The 09:37 Seymour - Southern Cross service will not run today.
+CANCELLED	The 09:18 Waurn Ponds - Southern Cross service will not run today.
+REDUCTION	The 09:18 Waurn Ponds - Southern Cross service will run at a reduced capacity of 3 V/Locity carriages.
+CANCELLED	The 10:36 Southern Cross - Seymour service will not run today.
+DELAYED	The 06:45 Albury - Southern Cross service is delayed 30 minutes.
+CANCELLED	The 10:57 Seymour - Southern Cross service will not run today.
+DELAYED	The 06:45 Albury - Southern Cross service is delayed 60 minutes.
+DELAYED	The 07:54 Southern Cross - Bairnsdale service is delayed 30 minutes.
+CANCELLED	The 11:36 Southern Cross - Seymour service will not run today.
+CANCELLED	The 12:17 Seymour - Southern Cross service will not run today.
+DELAYED	The 12:04 Southern Cross - Albury service is delayed 60 minutes.
+DELAYED	The 07:34 Bairnsdale - Southern Cross service will be delayed up to 30 minutes upon departure.
+NON_SPECIFIC	Due to ongoing flood related impacts, there are service changes in place across parts of the V/Line network. More information at bit.ly/3VsR5YG
+NON_SPECIFIC	Due to ongoing flood related impacts, there are service changes in place across parts of the V/Line network. More information at bit.ly/3VsR5YG
+NON_SPECIFIC	Due to ongoing flood related impacts, service changes are in place across parts of the V/Line network. For more information, visit bit.ly/3VsR5YG
+NON_SPECIFIC	Due to ongoing flood related impacts, service changes are in place across parts of the V/Line network. For more information, visit bit.ly/3VsR5YG
+CHANGED	The 06:16 Melton - Southern Cross service will originate from Caroline Springs at 06:29 and not Melton.
+CANCELLED	The 06:16 Melton - Southern Cross service will not run today.
+NON_SPECIFIC	Coaches replace evening trains on the Bendigo Line for all of the journey from Tuesday 25 October to Thursday 3 November. More information at: bit.ly/3S0tuM8
+REDUCTION	The 17:26 Southern Cross - Bendigo service will run with a reduced capacity of 3 V/Locity carriages.
+NO_BUFFET	The 18:02 Southern Cross - Albury service will run without buffet facilities today.
+REDUCTION	The 17:04 Southern Cross - Kyneton service will run with a reduced capacity of 3 V/Locity carriages.
+NO_BUFFET	The 18:33 Southern Cross - Bairnsdale service will run without buffet facilities today. 
+CANCELLED	The 17:01 Southern Cross - Melton service will not run today.
+NO_BUFFET	The 17:27 Albury - Southern Cross service will run without buffet facilities today between Albury and Euroa.
+NO_BUFFET	The 19:12 Southern Cross - Warrnambool service will run without buffet facilities today.
+CANCELLED	The 18:04 Southern Cross - Melton service will not run today.
+CANCELLED	The 07:46 Southern Cross - Warrnambool service will not run today.
+CANCELLED	The 06:09 Warrnambool - Southern Cross service will not run today.
+CHANGED	The 07:21 Waurn Ponds to Southern Cross will originate from Geelong at 07:36 and not Waurn Ponds.
+CANCELLED	The 09:33 Warrnambool - Southern Cross service will not run today.
+CANCELLED	The 08:14 Wyndham Vale - Southern Cross service will not run today.
+ADD_STOP	The 07:40 Waurn Ponds - Southern Cross service will make an additional stop at Tarneit today.
+DELAYED	The 09:33 Warrnambool - Southern Cross service will be delayed on departure by 40+ minutes.
+CANCELLED	The 12:15 Warrnambool - Southern Cross service will not run today.
+REDUCTION	The 17:26 Southern Cross - Bendigo service will run with a reduced capacity of 3 V/Locity carriages.
+CANCELLED	The 19:12 Southern Cross - Warrnambool service will not run today.
+CHANGED	The 06:28 Southern Cross to Waurn Ponds will terminate early at Marshall and no longer run to Waurn Ponds.
+CHANGED	The 08:12 Waurn Ponds to Southern Cross will originate from Marshall at 08:17 and not Waurn Ponds.
+CHANGED	The 07:50 Southern Cross - South Geelong service will terminate early at Geelong and no longer run to South Geelong.
+CHANGED	The 09:25 South Geelong - Southern Cross service will originate from Geelong at 9:30 and not South Geelong.
+CHANGED	The 08:10 Southern Cross - Waurn Ponds service will terminate early at Marshall and no longer run to Waurn Ponds.
+CHANGED	The 09:38 Waurn Ponds - Southern Cross service will originate from Marshall at 09:43 and not Waurn Ponds.
+CHANGED	The 08:30 Southern Cross to South Geelong will terminate early at Geelong and no longer run to South Geelong.
+NON_SPECIFIC	Coaches replace trains on the Geelong Line for all or part of the journey from Saturday 5 November to Saturday 3 December. More info at: bit.ly/3Vqk53k
+NON_SPECIFIC	Coaches replace trains on the Warrnambool Line for part of the journey from Friday night 4 November to Saturday 3 December. More info: https://bit.ly/3TDf8Tp
+CHANGED	The 14:23 Southern Cross - Traralgon service will terminate early at Warragul and no longer Traralgon
+CHANGED	The 19:16 Southern Cross - Waurn Ponds service will terminate early at Geelong and no longer Waurn Ponds.
+DELAYED	The 07:46 Southern Cross - Warrnambool service is delayed on departure by 42+ minutes.
+CANCELLED	The 13:10 Melton - Southern Cross service will not run today
+CANCELLED	The 18:01 Ballarat - Maryborough service will not run today.
+NON_STOP	Seymour service will not stop at Essendon today due to flooding.
+NON_SPECIFIC	Services are delayed due to a train fault near Footscray.  More information at https://bit.ly/3FiEUbx
+NON_SPECIFIC	Services are delayed due to a train fault near Footscray.  More information at https://bit.ly/3fcDrJ8
+NON_SPECIFIC	Services are delayed due to a train fault near Footscray.  More information at https://bit.ly/3D9sgJf
+DELAYED	The 19:08 Southern Cross - Bendigo service is delayed by 40 minutes due to an emergency services request at Woodend.
+CHANGED	The 20:35 Southern Cross - Waurn Ponds service will terminate early at Geelong and no longer run to Waurn Ponds.
+NON_SPECIFIC	Due to a track fault near Little River, some trains will be replaced by coaches to and from Southern Cross.
+CHANGED	The 11:16 Southern Cross - Ararat service will terminate at Ballarat and no longer run to Ararat.
+CHANGED	The 14:28 Ararat - Southern Cross service will originate from Ballarat today.
+CANCELLED	The 14:57 Maryborough - Ballarat service will not run today.
+NON_SPECIFIC	Coaches replace evening trains on the Bendigo Line for all of the journey from Sunday 6 to Thursday 17 November. For more information visit: bit.ly/3DEorgm
+NON_SPECIFIC	Train services have resumed between Southern Cross - Waurn Ponds.
+CHANGED	The 14:10 Southern Cross - Waurn Ponds service will terminate at Geelong and no longer run to Waurn Ponds.
+CHANGED	The 15:38 Waurn Ponds - Southern Cross service will originate from Geelong at 15:52 and not Waurn Ponds.
+NON_SPECIFIC	Coaches are replacing some trains between Southern Cross and Waurn Ponds due to a rail equipment fault near North Geelong.
+NON_STOP	The 17:53 Southern Cross - Waurn Ponds service will not stop at Marshall today.
+DELAYED	The 19:01 Bendigo - Southern Cross service is delayed 20 minutes.
+CHANGED	The 07:09 Maryborough - Ballarat service will originate at Ballarat at 08:20 and not Maryborough.
+CANCELLED	The 19:48 Ballarat - Maryborough service will not run today.
+CHANGED	The 08:09 Maryborough - Ballarat service will originate at Ballarat at 09:20 and not Maryborough.
+CHANGED	The 07:50 Southern Cross - Waurn Ponds service will terminate early at Wyndham Vale and no longer run to Waurn Ponds.
+CANCELLED	The 09:18 Waurn Ponds - Southern Cross service will not run today.
+NON_SPECIFIC	Coaches replace evening Ballarat Line trains from Sunday 13 to Tuesday 15 November. More information at https://bit.ly/3gIc75L
+DELAYED	The 12:51 Albury - Southern Cross service is delayed 30 minutes.
+REDUCTION	The 16:14 Southern Cross - Wendouree service will run at a reduced capacity of 3 V/Locity carriages.
+CHANGED	The 17:06 Southern Cross - Bendigo service will terminate at Sunshine and no longer run to Bendigo.
+CANCELLED	The 19:48 Ballarat - Maryborough service will not run today.
+DELAYED	The 19:14 Southern Cross - Wendouree service is delayed on departure by 26 minutes due to a emergency services request.
+CANCELLED	The 20:15 Southern Cross - Seymour service will not run today.
+CANCELLED	The 05:56 Wendouree - Southern Cross service will not run today.
+CHANGED	The 06:01 Epsom - Southern Cross service will originate at Bendigo and no longer Epsom
+CHANGED	The 06:16 Ararat - Southern Cross service will originate at Wendouree and no longer Ararat 
+NON_SPECIFIC	Coaches are replacing trains between Wendouree and Ballan due to a track equipment fault near Ballan. 
+NON_SPECIFIC	Services have resumed between Wendouree & Ballan. We are sorry for the delay to your journey.
+CHANGED	The 11:48 Ararat - Southern Cross service will originate from Wendouree and no longer Ararat. 
+CHANGED	The 11:58 Wendouree - Southern Cross service will originate at Ballarat and no longer Wendouree.
+CANCELLED	The 11:16 Seymour - Southern Cross service will not run today
+CANCELLED	The 11:16 Seymour - Southern Cross service will not run today.
+CHANGED	The 11:16 Southern Cross - Ararat service will terminate at Wendouree and no longer Ararat.
+NON_SPECIFIC	Coaches replace trains on the Geelong Line for all or part of the journey from Saturday 5 November to Saturday 3 December. More info at: bit.ly/3Vqk53k
+REDUCTION	The 15:06 Southern Cross - Bendigo service will run with a reduced capcity of 3 V/Locity carriages.
+REDUCTION	The 15:10 Southern Cross - South Geelong service will run with a reduced capcity of 3 V/Locity carriages.
+REDUCTION	The 17:29 Southern Cross - Waurn Ponds service will run with a reduced capacity of 3 V/Locity carriages.
+NON_SPECIFIC	Coaches replace trains on the Warrnambool Line for part of the journey from Friday night 4 November to Saturday 3 December. More info: https://bit.ly/3TDf8Tp
+REDUCTION	The 17:18 Southern Cross - Wendouree service will run with a reduced capacity of 3 V/Locity carriages.
+REDUCTION	The 17:04 Southern Cross - Kyneton service will run with a reduced capacity of 3 V/Locity carriages.
+CHANGED	The 17:17 Ararat - Southern Cross service will terminate early at Ballarat and no longer run to Southern Cross.
+NO_BUFFET	The 18:02 Southern Cross - Albury service will operate without buffet facilities in the back 3 carriages.
+DELAYED	The 17:27 Albury - Southern Cross service is delayed 35 minutes.
+DELAYED	The 12:14 - Southern Cross - Ararat service is delayed 25+ minutes.
+CANCELLED	The 23:45 Southern Cross - Seymour service will not run today.
+CANCELLED	The 06:40 Waurn Ponds - Southern Cross service will not run today.
+CANCELLED	The 04:33 Waurn Ponds - Southern Cross service will not run today
+NON_SPECIFIC	Services are currently delayed due to a rail equipment fault between Waurn Ponds & Marshall. More information at https://bit.ly/3TWzV4M
+REDUCTION	The 07:35 Wyndham Vale - Southern Cross service will run with a reduced capacity of 3 V/Locity Carriages
+NON_SPECIFIC	Services have resumed between Waurn Ponds & Marshall. We are sorry for the delay to your journey.
+CHANGED	The 07:50 Southern Cross - South Geelong service will terminate early at Geelong and no longer South Geelong.
+CANCELLED	The 09:10 Southern Cross - South Geelong service will not run today
+CANCELLED	The 10:45 South Geelong - Southern Cross service will not run today
+ADD_STOP	The 12:18 Waurn Ponds - Southern Cross service will make an additional stop at Corio & Little River today.
+CANCELLED	The 12:50 Southern Cross - Waurn Ponds service will not run today.
+REDUCTION	The 16:06 Southern Cross - Bendigo service will run at a reduced capacity of 3 V/Locity carriages.
+REDUCTION	The 16:09 Southern Cross - Waurn Ponds service will run with a reduced capacity of 3 V/Locity carriages.
+REDUCTION	The 16:06 Southern Cross - Bendigo service will run with 3 V/Locity carriages.
+REDUCTION	The 17:33 Southern Cross - Seymour service will run with a reduced capacity of 2 Sprinter carriages.
+REDUCTION	The 17:01 Southern Cross - Melton service will run with a reduced capacity of 3 V/Locity carriages.
+REDUCTION	The 16:39 Southern Cross - Wendouree service will run with a reduced capacity of 3 V/Locity carriages.
+REDUCTION	The 17:58 Southern Cross - Wendouree service will run with a reduced capacity of 3 V/Locity carriages.
+REDUCTION	The 17:29 Southern Cross - Waurn Ponds service will run with a reduced capacity of 3 V/Locity carriages.
+CANCELLED	The 18:01 Ballarat - Maryborough service will not run today.
+REDUCTION	The 17:26 Southern Cross - Bendigo service will run with a reduced capacity of 3 V/Locity carriages.
+CANCELLED	The 17:39 Warrnambool - Southern Cross service will not run today.
+CANCELLED	The 19:12 Southern Cross - Warrnambool service will not run today.
+NO_BUFFET	The 18:02 Southern Cross - Albury service will operate with buffet facilities only in the back three carriages.
+CHANGED	The 19:28 Wendouree - Southern Cross service will originate from Ballarat at 19:35 and not Wendouree.
+CANCELLED	The 05:56 Geelong - Southern Cross service will not run today.
+REDUCTION	The 07:35 Wyndham Vale - Southern Cross service will run at a reduced capacity of 3 V/Locity carriages.
+CANCELLED	The 07:06 Traralgon - Southern Cross service will not run today.
+CANCELLED	The 09:33 Warrnambool - Southern Cross service will not run today.
+CHANGED	The 14:36 Southern Cross - Ararat service will terminate early at Ballarat and no longer Ararat
+CANCELLED	The 14:16 Southern Cross - Melton service will not run today.
+CHANGED	The 17:17 Ararat - Southern Cross service will originate at Ballarat and no longer Ararat
+REDUCTION	The 16:49 Southern Cross - South Geelong service will run with a reduced capacity of 3 V/Locity carriages.
+REDUCTION	The 16:06 Southern Cross - Bendigo service will run with a reduced capacity of 3 V/Locity carriages.
+REDUCTION	The 16:09 Southern Cross - Waurn Ponds service will run with a reduced capacity of 3 V/Locity carriages.
+NON_SPECIFIC	Commencing Friday 4 November, Echuca services will be reinstated to run as trains for the entire journey. More information at bit.ly/3gwzwHo
+REDUCTION	The 18:53 Southern Cross - South Geelong service will run with a reduced capacity of 3 V/Locity carriages.
+NO_BUFFET	The 18:02 Southern Cross - Albury service will operate without buffet facilities between Euroa and Albury today.
+CANCELLED	The 19:12 Southern Cross - Warrnambool service will not run today.
+REDUCTION	The 17:53 Southern Cross - Waurn Ponds service will run with a reduced capacity of 3 V/Locity carriages.
+NO_BUFFET	The 18:02 Southern Cross - Albury service will operate without buffet facilities in the back 3 carriages.
+CHANGED	The 21:43 Southern Cross - Seymour service will terminate at Broadmeadows and no longer run to Seymour.
+CANCELLED	The 05:03 Seymour - Southern Cross service will not run today.
+REDUCTION	The 08:45 South Geelong - Southern Cross service will run with a reduced capacity of 3 V/Locity carriages.
+NON_SPECIFIC	Coaches replace evening trains on the Bendigo Line for all of the journey from Sunday 6 to Thursday 17 November. For more information visit: bit.ly/3DEorgm
+REDUCTION	The 13:50 Southern Cross - South Geelong service will run with a reduced capacity of 3 V/Locity carriages.
+REDUCTION	The 14:30 Southern Cross - South Geelong service will run with a reduced capacity of 3 V/Locity carriages.
+NO_BUFFET	The 17:39 Warrnambool - Southern Cross service will operate without buffet facilities today.
+CHANGED	The 16:39 Southern Cross – Wendouree service will terminate early at Ballan and no longer run to Wendouree.
+CANCELLED	The 18:01 Ballarat - Maryborough service will not run today.
+DELAYED	The 17:26 Wendouree - Southern Cross service is delayed 26 minutes.
+DELAYED	The 18:47 Wendouree - Southern Cross service is delayed 25 minutes.
+CHANGED	The 20:25 Southern Cross - Epsom service will terminate at Bendigo and no longer run to Epsom.
+CHANGED	The 07:15 Echuca - Southern Cross service will originate from Bendigo today.
+CHANGED	The 06:20 Wendouree - Southern Cross service will originate at Ballarat and no longer Wendouree.
+NO_BUFFET	The 12:04 Southern Cross - Albury service will operate without buffet facilities today in the back 3 carriages.
+REDUCTION	The 14:30 Southern Cross - Geelong service will run with a reduced capacity of 3 V/Locity carriages.
+NO_BUFFET	The 18:02 Southern Cross - Albury service will operate without buffet facilities today between Euroa and Albury.
+REDUCTION	The 11:14 Southern Cross - Wendouree service will run with a reduced capacity of 3 V/Locity carriages.
+REDUCTION	The 11:14 Southern Cross - Wendouree service will run with a reduced capacity of 3 V/Locity carriages.
+NO_BUFFET	The 12:51 Albury - Southern Cross service will operate without buffet facilities in the back 3 carriages.
+NON_STOP	The 00:10 Southern Cross - Geelong service will not stop at Footscray and Sunshine today.
+CANCELLED	The 06:48 Southern Cross - Geelong service will not run this morning.
+CANCELLED	The 13:56 Southern Cross - Wendouree service will not run today.
+CHANGED	The 15:44 Wendouree - Southern Cross service will originate at Ballarat.
+REDUCTION	The 16:13 Southern Cross - Wyndham Vale service will run with a reduced capacity of 3 carriages.
+REDUCTION	The 16:55 Southern Cross - Wyndham Vale service will run with a reduced capacity of 6 carriages.
+REDUCTION	The 18:34 Southern Cross - Wyndham Vale service will run with a reduced capacity of 3 carriages.
+CANCELLED	The 16:01 Bendigo - Southern Cross service will not run today.
+CANCELLED	The 17:27 Albury to Southern Cross will not run today.
+CANCELLED	The 18:02 Southern Cross - Albury service will not run today.
+CANCELLED	The 06:45 Albury - Southern Cross service will not run today.
+CANCELLED	The 07:07 Southern Cross - Albury service will not run today.
+CHANGED	The 08:08 Bacchus Marsh – Southern Cross service will terminate early at Caroline Springs and no longer run to Southern Cross.
+CANCELLED	The 12:04 Southern Cross - Albury service will not run today.
+CANCELLED	The 12:51 Albury - Southern Cross service will not run today.
+NON_SPECIFIC	Due to an emergency services request, service cancellations and significant delays are expected until the line is cleared.
+NON_SPECIFIC	Services have now been cleared to operate through the Footscray area. We anticipate service changes and significant delays exceeding 60 minutes.
+NON_SPECIFIC	Services have now been cleared to operate through the Footscray area. We anticipate service changes and significant delays exceeding 60 minutes.
+REDUCTION	The 15:16 Southern Cross - Wendouree service will run at a reduced capacity.
+CANCELLED	The 16:13 Southern Cross - Wyndham Vale service will not run today.
+CHANGED	The 17:26 Southern Cross - Epsom service will terminate early at Bendigo.
+REINSTATED	The 17:26 Southern Cross - Epsom service has been reinstated and will run as scheduled.
+CANCELLED	The 06:45 Albury - Southern Cross service will not run today.
+CANCELLED	The 07:07 Southern Cross - Albury service will not run today.
+CHANGED	The 05:17 Bendigo - Southern Cross service will terminate early at Sunshine and no longer Southern Cross
+CHANGED	The 05:17 Bendigo - Southern Cross service will terminate early at Sunshine and no longer Southern Cross.
+CANCELLED	The 12:04 Southern Cross - Albury service will not run today.
+CANCELLED	The 12:51 Albury - Southern Cross service will not run today.
+CANCELLED	The 17:27 Albury - Southern Cross service will not run today.
+CANCELLED	The 18:02 Southern Cross - Albury service will not run today.
+CANCELLED	The 06:45 Albury - Southern Cross service will not run today. 
+CANCELLED	The 07:07 Southern Cross - Albury service will not run today.
+CANCELLED	The 12:04 Southern Cross - Albury service will not run today.
+CANCELLED	The 12:51 Albury - Southern Cross service will not run today.
+CANCELLED	The 14:38 Wendouree - Southern Cross service will not run today.
+CANCELLED	The 17:27 Albury - Southern Cross service will not run today.
+CANCELLED	The 18:02 Southern Cross - Albury service will not run today.
+CANCELLED	The 17:29 Bendigo - Southern Cross service will not run today.
+REINSTATED	The 17:29 Bendigo - Southern Cross service has been reinstated.
+CHANGED	The 06:01 Epsom - Southern Cross service will originate at Bendigo at 06:10 today and not Epsom.
+CANCELLED	The 06:45 Albury - Southern Cross service will not run today. 
+CANCELLED	The 07:07 Southern Cross - Albury service will not run today.
+CHANGED	The 07:09 Maryborough - Southern Cross service will originate at Ballarat and no longer Maryborough
+CANCELLED	The 10:47 Ballarat - Maryborough service will not run today
+CANCELLED	The 12:04 Southern Cross - Albury service will not run today.
+CHANGED	The 12:17 Epsom - Southern Cross service will originate from Bendigo at 12:26 and not Epsom.
+CANCELLED	The 12:51 Albury - Southern Cross service will not run today.
+CHANGED	The 13:06 Southern Cross - Epsom service will terminate at Bendigo and no longer run to Epsom.
+CHANGED	The 15:17 Epsom - Southern Cross service will originate from Bendigo at 15:26 and not Epsom.
+CANCELLED	The 17:27 Albury - Southern Cross service will not run today.
+CANCELLED	The 18:02 Southern Cross - Albury service will not run today.
+DELAYED	The 17:29 Bendigo - Southern Cross service is delayed 20 minutes.
+DELAYED	The 17:26 Wendouree - Southern Cross service is delayed 30 minutes.
+NON_SPECIFIC	Commencing Saturday, 12 November, all Swan Hill services will be reinstated to run as trains for the entire journey. 
+CANCELLED	The 06:45 Albury - Southern Cross service will not run today. Passengers can board replacement coaches to complete their journey.  
+CANCELLED	The 07:07 Southern Cross - Albury service will not run today. Passengers can board replacement coaches to complete their journey.
+CANCELLED	The 12:04 Southern Cross - Albury service will not run today. Passengers can board replacement coaches to complete their journey.
+CANCELLED	The 12:51 Albury - Southern Cross service will not run today. Passengers can board replacement coaches to complete their journey.
+CANCELLED	The 18:02 Southern Cross - Albury service will not run today. Passengers can board replacement coaches to complete their journey.
+CANCELLED	The 17:27 Albury - Southern Cross service will not run today. Passengers can board replacement coaches to complete their journey.
+CHANGED	The 16:06 Southern Cross - Bendigo service will terminate at Castlemaine and no longer run to Bendigo. 
+CHANGED	The 18:29 Bendigo - Southern Cross service will originate from Castlemaine at 18:52 and not Bendigo.
+CANCELLED	The 06:45 Albury - Southern Cross service will not run today. Passengers can board replacement coaches to complete their journey.  
+CANCELLED	The 07:07 Southern Cross - Albury service will not run today. Passengers can board replacement coaches to complete their journey.
+NO_BUFFET	The 06:54 Swan Hill - Southern Cross service will operate without buffet facilities between Swan Hill and Castlemaine today.
+REDUCTION	The 11:14 Ararat - Southern Cross service will run with a reduced capacity of 3 V/Locity carriages.
+NON_SPECIFIC	Coaches replace some evening Seymour Line trains for the entire journey from Sunday 20 to Wednesday 23 November.
+NON_SPECIFIC	For more information: bit.ly/3DZXTqd
+CANCELLED	The 12:04 Southern Cross - Albury service will not run today. Passengers can board replacement coaches to complete their journey.
+CANCELLED	The 12:51 Albury - Southern Cross service will not run today. Passengers can board replacement coaches to complete their journey.
+CANCELLED	The 18:02 Southern Cross - Albury service will not run today. Passengers can board replacement coaches to complete their journey.
+CANCELLED	The 17:27 Albury - Southern Cross service will not run today. Passengers can board replacement coaches to complete their journey.
+CANCELLED	The 06:45 Albury - Southern Cross service will not run today. Passengers can board replacement coaches to complete their journey.  
+CANCELLED	The 07:07 Southern Cross - Albury service will not run today. Passengers can board replacement coaches to complete their journey.
+CANCELLED	The 07:26 Bacchus Marsh - Southern Cross service will not run today
+DELAYED	The 05:55 Southern Cross - Shepparton service is delayed by 47 minutes due to an emergency services request.
+CANCELLED	The 12:04 Southern Cross - Albury service will not run today. Passengers can board replacement coaches to complete their journey.
+CANCELLED	The 12:51 Albury - Southern Cross service will not run today. Passengers can board replacement coaches to complete their journey.
+CHANGED	The 11:06 Southern Cross - Eaglehawk service will terminate at Bendigo and no longer run to Eaglehawk.
+CHANGED	The 13:16 Eaglehawk - Southern Cross service will originate from Bendigo at 13:26 and not Eaglehawk.
+CANCELLED	The 16:41 Southern Cross - Melton service will not run today.
+CANCELLED	The 18:02 Southern Cross - Albury service will not run today. Passengers can board replacement coaches to complete their journey.
+NO_BUFFET	The 18:33 Southern Cross - Bairnsdale service will operate without buffet facilities today.
+CANCELLED	The 17:27 Albury - Southern Cross service will not run today. Passengers can board replacement coaches to complete their journey.
+DELAYED	The 20:27 Southern Cross - Traralgon service is delayed 35 minutes due to a track fault.
+CANCELLED	The 06:45 Albury - Southern Cross service will not run today. Passengers can board replacement coaches to complete their journey.  
+CANCELLED	The 07:07 Southern Cross - Albury service will not run today. Passengers can board replacement coaches to complete their journey.
+REDUCTION	The 07:29 Southern Cross - Geelong service will run with a reduced capacity of 3 V/Locity carriages.
+CANCELLED	The 07:06 Traralgon - Southern Cross service will not run today.
+REDUCTION	The 09:12 Geelong - Southern Cross service will run with a reduced capacity of 3 V/Locity carriages.
+CANCELLED	The 07:35 Wyndham Vale - Southern Cross service will not run today.
+NON_STOP	The 07:20 Melton - Southern Cross service will not stop at Ardeer today.
+NON_SPECIFIC	Coaches replace evening trains on the Bendigo Line for all of the journey from Tuesday 22 November to Thursday 1 December. For more information: bit.ly/3FXTSnA
+CANCELLED	The 12:04 Southern Cross - Albury service will not run today. Passengers can board replacement coaches to complete their journey.
+CANCELLED	The 12:51 Albury - Southern Cross service will not run today. Passengers can board replacement coaches to complete their journey.
+NON_SPECIFIC	Coaches replace some Gippsland Line trains from Sunday 27 November to Wednesday 7 December. More information at https://bit.ly/3UIBtQp
+DELAYED	The 12:36 Southern Cross - Shepparton service is delayed 20 minutes.
+CANCELLED	The 18:02 Southern Cross - Albury service will not run today. Passengers can board replacement coaches to complete their journey.
+NO_BUFFET	The 18:33 Southern Cross - Bairnsdale service will operate without buffet facilities today.
+CHANGED	The 16:41 Southern Cross - Melton service will terminate early at Footscray and no longer run to Melton.
+CANCELLED	The 17:33 Melton - Bacchus Marsh service will not run today.
+ADD_STOP	The 17:18 Southern Cross - Wendouree service will make an extra stop at Melton today.
+CANCELLED	The 17:27 Albury - Southern Cross service will not run today. Passengers can board replacement coaches to complete their journey.
+DELAYED	The 17:33 Southern Cross - Seymour service is delayed 20 minutes.
+DELAYED	The 20:05 Southern Cross - Seymour service is delayed by 22 minutes due to a train fault.
+DELAYED	The 11:18 Wendouree - Southern Cross service is delayed 20 minutes.
+NON_SPECIFIC	Coaches are replacing trains between Gisborne and Kyneton. More information at http://bit.ly/3GhsTn1
+NON_SPECIFIC	Services have resumed between Gisborne and Kyneton.
+NON_SPECIFIC	We are sorry for the delay to your journey.
+NO_BUFFET	The 18:33 Southern Cross - Bairnsdale service will operate without buffet facilities today.
+CANCELLED	The 18:01 Ballarat - Maryborough service will not run today.
+CANCELLED	The 17:12 Southern Cross - Geelong service will not run today.
+CHANGED	The 17:38 Southern Cross - Wendouree service will terminate at Ballarat and no longer run to Wendouree.
+CHANGED	The 19:28 Wendouree - Southern Cross service will originate from Ballarat at 19:35 and not Wendouree.
+NO_BUFFET	The 18:08 Southern Cross - Swan Hill service will operate without buffet facilities today.
+CHANGED	The 00:15 Southern Cross - Geelong service will terminate early at Footscray and no longer run to Geelong.
+CHANGED	The 07:09 Maryborough - Southern Cross service will originate from Ballarat at 08:19 and not Maryborough.
+DELAYED	The 05:38 Seymour - Southern Cross service is delayed by 31 minutes due to an animal strike
+CANCELLED	The 05:38 Seymour - Southern Cross service will not run today. 
+CHANGED	The 05:16 Shepparton - Southern Cross service will terminate at Seymour. 
+NON_SPECIFIC	Coaches are replacing select trains between Kimore East and Seymour due to an animal strike near Dysart.
+CHANGED	The 06:16 Ararat - Southern Cross service will terminate early at Wendouree and no longer Southern Cross
+CANCELLED	The 10:47 Ballarat - Maryborough service will not run today due to a signal fault.
+NON_SPECIFIC	Services have resumed between Seymour & Kilmore East.
+CANCELLED	The 11:36 Southern Cross - Seymour service will not run today
+NO_BUFFET	The 13:35 Swan Hill - Southern Cross service will operate without buffet facilities today.
+CANCELLED	The 14:57 Maryborough - Ballarat service will not run today due to a rail equipment fault.
+CHANGED	The 13:06 Southern Cross - Epsom service is delayed 20 minutes and will terminate at Bendigo today.
+CHANGED	The 15:17 Epsom - Southern Cross service will originate from Bendigo at 15:26 and not Epsom.
+CHANGED	The 17:17 Ararat - Southern Cross service will not terminate early at Ballarat and not Southern Cross.
+CANCELLED	The 18:01 Ballarat - Maryborough service will not run today. 
+CANCELLED	The 22:08 Southern Cross - Wendouree service will not run today.
+REDUCTION	The 20:35 Southern Cross - Geelong service will run with a reduced capacity of three V/Locity carriages.
+CANCELLED	The 05:03 Seymour - Southern Cross service will not run today.
+REDUCTION	The 09:30 Geelong to Southern Cross will run with a reduced capacity of 3 V/Locity carriages.
+REDUCTION	The 08:50 Geelong to Southern service will run with a reduced capacity of three V/Locity carriages.
+CANCELLED	The 10:47 Ballarat - Maryborough service will not run today. 
+CANCELLED	The 11:12 Geelong - Southern Cross service will not run today
+CANCELLED	The 13:30 Southern Cross - Geelong service will not run today
+CANCELLED	The 12:56 Southern Cross - Melton service will not run today.
+REINSTATED	The 12:56 Southern Cross - Melton service has been reinstated and will run as scheduled today.
+CANCELLED	The 15:12 Geelong - Southern Cross service will not run today.
+CANCELLED	The 14:57 Maryborough - Ballarat service will not run today.
+CANCELLED	The 15:12 Geelong - Southern Cross service will not run today
+NON_SPECIFIC	Coaches replace Shepparton Line trains on Saturday 3 and Sunday 4 December. More information at https://bit.ly/3EGWTYh
+NON_SPECIFIC	Coaches replace Seymour Line trains from 11.45pm Saturday 3 December to last service Sunday 4 December. More information at https://bit.ly/3Xa09Tp
+NON_SPECIFIC	Albury line train services will resume on Saturday 19 November.  More information at https://bit.ly/3hNgJbr
+CANCELLED	The 16:02 Southern Cross - Melton service will not run today.
+CANCELLED	The 18:01 Ballarat - Maryborough service will not run today.
+CANCELLED	The 17:00 Melton - Southern Cross service will not run today.
+CANCELLED	The 20:08 Southern Cross - Wendouree service will not run today.
+CANCELLED	The 22:57 Southern Cross - Bendigo service will not run today.
+CHANGED	The 07:09 Maryborough - Southern Cross service will originate from Ballarat at 08:20 and not Maryborough.
+CANCELLED	The 07:54 Southern Cross – Bairnsdale service will not run today
+REINSTATED	The 07:54 Southern Cross - Bairnsdale service has been reinstated. 
+NON_SPECIFIC	Services are currently operating at a reduced speed through Sunshine and experiencing delays of up to 20 minutes.
+NON_SPECIFIC	Delays are clearing following an earlier rail equipment fault at Sunshine.
+NON_SPECIFIC	We are sorry for the delay to your journey.
+CANCELLED	The 19:48 Ballarat - Maryborough service will not run today.
+DELAYED	The 17:25 Traralgon - Southern Cross service is delayed 20 minutes.
+DELAYED	The 18:02 Southern Cross - Albury service is delayed 30 minutes due to track congestion in the metropolitan region.
+NO_BUFFET	The 06:45 Albury - Southern Cross service will operate without buffet facilities in the back 3 carriages today.
+REDUCTION	The 16:14 Southern Cross - Wendouree service will run at a reduced capacity of 3 V/Locity carriages.
+CANCELLED	The 19:48 Ballarat - Maryborough service will not run today. More information at  rb.gy/epzhha.
+DELAYED	The 22:56 Southern Cross - Wendouree service is delayed 30 minutes due to a trespasser between Rockbank and Cobblebank.
+CHANGED	The 22:56 Southern Cross - Wendouree service will terminate early at Cobblebank and no longer run to Wendouree.
+NO_BUFFET	The 12:04 Southern Cross - Albury service will operate without buffet facilities between Benalla and Albury today.
+NO_BUFFET	The 12:51 Albury - Southern Cross service will operate without buffet facilities between Albury and Benalla today.
+NON_SPECIFIC	Coaches are replacing trains between Southern Cross and Seymour due to a tree across tracks at Coolaroo.
+NON_SPECIFIC	Coaches are replacing trains between Southern Cross and Seymour due to a tree across tracks at Coolaroo.
+NON_SPECIFIC	Coaches are replacing trains between Craigieburn and Seymour due to an obstruction on the tracks at Coolaroo. More information at https://bit.ly/3V8mvCO
+CANCELLED	The 15:58 Southern Cross - Wendouree service will not run today.
+DELAYED	The 16:02 Southern Cross - Melton service is delayed 20 minutes.
+CANCELLED	The 16:30 Melton - Southern Cross service will not run today.
+CHANGED	The 14:23 Southern Cross - Traralgon service will terminate at Morwell and no longer run to Traralgon.
+CHANGED	The 17:20 Traralgon - Southern Cross service will originate from Morwell at 17:28 and not Traralgon.
+CHANGED	The 18:47 Wendouree - Southern Cross service will originate from Ballarat at 18:54 and not Wendouree.
+CHANGED	The 15:24 Southern Cross - Traralgon service will terminate at Morwell and no longer run to Traralgon.
+CHANGED	The 17:20 Traralgon - Southern Cross service will originate from Morwell at 17:28 and not Traralgon.
+NON_SPECIFIC	Train services have resumed between Southern Cross - Deer Park. We anticipate delays of up to 60 minutes following an earlier rail equipment fault in Deer Park. 
+NON_SPECIFIC	Train services have resumed between Southern Cross - Deer Park. We anticipate delays of up to 60 minutes following an earlier rail equipment fault in Deer Park.
+CHANGED	The 18:07 Traralgon - Southern Cross service will originate from Morwell at 17:28 and not Traralgon.
+CHANGED	The 18:07 Traralgon - Southern Cross service will originate from Morwell at 17:28 and not Traralgon.
+NON_STOP	The 20:05 Southern Cross - Seymour service will not stop at North Melbourne today.
+NON_SPECIFIC	Coaches are replacing trains between Morwell and Traralgon.  More information at bit.ly/3i3S6qU
+CANCELLED	The 21:07 Southern Cross - Eaglehawk service will not run today.
+NON_SPECIFIC	Services have resumed between Morwell and Traralgon. We are sorry for the delay to your journey.
+CHANGED	The 06:14 Bairnsdale - Southern Cross service will originate from Traralgon at 07:46 and not Bairnsdale.
+CHANGED	The 06:20 Eaglehawk - Southern Cross service will originate from Bendigo at 06:30 and not Eaglehawk.
+CANCELLED	The 06:28 Southern Cross - Geelong service will not run today due to a train fault.
+NO_BUFFET	The 07:07 Southern Cross - Albury service will operate without buffet facilities today.
+NO_BUFFET	The 06:54 Swan Hill - Southern Cross service will operate without buffet facilities today.
+CANCELLED	The 08:27 Geelong - Southern Cross service will not run today due to a train fault.
+CANCELLED	The 07:20 Melton - Southern Cross service will not run today due to an earlier train fault.
+CHANGED	The 10:06 Southern Cross - Epsom service will terminate early at Bendigo and no longer run to Epsom.
+NO_BUFFET	The 12:51 Albury - Southern Cross service will operate without buffet facilities today.
+REDUCTION	The 15:55 Southern Cross - Wyndham Vale service will run at a reduced capacity of 3 V/Locity carriages.
+DELAYED	The 22:59 Southern Cross - Traralgon service will be delayed on departure by 34+ minutes.
+NO_BUFFET	The 06:45 Albury - Southern Cross service will operate without buffet facilities today.
+CANCELLED	The 08:50 Geelong - Southern Cross service will not run today
+CHANGED	The 10:06 Southern Cross - Epsom service will terminate early at Bendigo and no longer run to Epsom
+CHANGED	The 12:17 Epsom - Southern Cross service will originate from Bendigo at 12:26 and not Epsom.
+DELAYED	The 13:27 Traralgon - Southern Cross service will be delayed 35 minutes at Drouin due to a safety incident.
+DELAYED	The 12:23 Southern Cross - Traralgon service will be delayed 35 minutes at Longwarry due to a safety incident.
+REDUCTION	The 16:06 Southern Cross - Bendigo service will run with a reduced capacity of 3 V/Locity carriages.
+REDUCTION	The 16:02 Southern Cross - Melton service will run with a reduced capacity of 3 V/Locity carriages.
+REDUCTION	The 16:37 Southern Cross - Seymour service will run with a reduced capacity of 2 Sprinter carriages.
+NO_BUFFET	The 18:33 Southern Cross - Bairnsdale service will operate without buffet facilities  today.
+NO_BUFFET	The 18:33 Southern Cross - Bairnsdale service will operate without buffet facilities between Southern Cross and Bairnsdale today. 
+REDUCTION	The 17:05 Southern Cross - Seymour service will run with a reduced capacity of 2 Sprinter carriages.
+NO_BUFFET	The 18:02 Southern Cross - Albury service will operate without buffet facilities between Southern Cross and Seymour today.
+REDUCTION	The 17:58 Southern Cross - Wendouree service will run with a reduced capacity of 3 V/Locity carriages.
+DELAYED	The 16:17 Southern Cross - Traralgon service is delayed 21 minutes due to an earlier safety incident.
+DELAYED	The 17:04 Southern Cross - Kyneton service is delayed 24 minutes due to a track fault in the metropolitan region.
+CANCELLED	The 04:47 Geelong - Southern Cross service will not run today.
+CHANGED	The 04:48 Southern Cross - Geelong service will terminate early at Wyndham Vale and no longer run to Geelong.
+CHANGED	The 05:06 Geelong - Southern Cross service will originate from Wyndham Vale at 05:35 and not Geelong.
+CANCELLED	The 07:05 Southern Cross - Geelong service will not run today.
+DELAYED	The 05:28 Geelong - Southern Cross service is delayed by 30 minutes due to an earlier rail equipment fault.
+CHANGED	The 07:20 Melton - Southern Cross service will originate from Caroline Springs at 07:31 and not Melton.
+CANCELLED	The 07:50 Wyndham Vale - Southern Cross service will not run today.
+CANCELLED	The 08:50 Geelong - Southern Cross service will not run today.
+CHANGED	The 20:05 Southern Cross - Seymour service will return to Southern Cross and no longer run to Seymour.
+CANCELLED	The 21:56 Seymour - Southern Cross service will not run today.
+CHANGED	The 19:53 Seymour - Southern Cross service will terminate at Craigieburn and no longer run to Southern Cross.
+CHANGED	The 05:16 Shepparton - Southern Cross service will terminate early at Seymour and no longer run to Southern Cross.
+CHANGED	The 10:06 Southern Cross - Epsom service will terminate early at Bendigo and no longer run to Epsom.
+CHANGED	The 12:17 Bendigo - Southern Cross service will originate from Bendigo at 12:26 and not Epsom.
+CANCELLED	The 14:10 Southern Cross - Geelong service will not run today.
+CANCELLED	The 13:13 Southern Cross - Geelong service will not run today.
+NON_SPECIFIC	Coaches replace some Gippsland Line trains from Friday 9 to Wednesday 14 December. More information at https://bit.ly/3OBQzER
+CANCELLED	The 15:52 Geelong - Southern Cross service will not run today
+NON_SPECIFIC	Services have resumed on the Traralgon Line with delays of up to 60 minutes. We are sorry for the delay to your journey.
+CANCELLED	The 16:41 Southern Cross - Melton service will not run today
+CANCELLED	The 15:30 Southern Cross - Waurn Ponds service will not run today.
+CANCELLED	The 17:33 Melton - Bacchus Marsh service will not run today 
+CANCELLED	The 17:46 Southern Cross - Geelong service will not run today
+CANCELLED	The 18:28 Southern Cross - Seymour service will not run today
+CANCELLED	The 19:27 Southern Cross - Traralgon service will not run today.
+CANCELLED	The 18:37 Southern Cross - Kyneton service will not run today.
+NO_BUFFET	The 18:08 Southern Cross - Swan Hill service will operate without buffet facilities between Kyneton and Swan Hill today.
+CANCELLED	The 19:30 Geelong - Southern Cross service will not run today
+NO_BUFFET	The 18:08 Southern Cross - Bairnsdale service will operate without buffet facilities today.
+CANCELLED	The 20:48 Southern Cross - Wendouree service will not run today.
+CANCELLED	The 19:47 Southern Cross - Bendigo service will not run today
+CANCELLED	The 20:48 Southern Cross - Wendouree service will not run today
+CANCELLED	The 22:59 Southern Cross - Traralgon service will not run today.
+CANCELLED	The 22:47 Wendouree - Southern Cross service will not run today 
+CANCELLED	The 21:56 Seymour - Southern Cross service will not run today.
+CANCELLED	The 07:08 Traralgon - Southern Cross service will not run today.
+DELAYED	The 09:16 Southern Cross - Shepperton service is delayed 46 minutes.
+NO_BUFFET	The 12:04 Southern Cross - Albury service will operate without buffet facilities between Southern Cross and Euroa today.
+NO_BUFFET	The 12:51 Albury - Southern Cross service will operate without buffet facilities between Euroa and Southern Cross today.
+NO_BUFFET	The 13:35 Swan Hill - Southern Cross service will operate without buffet facilities between Swan Hill and Bendigo today.
+CHANGED	The 12:36 Southern Cross - Shepparton service will terminate early at Seymour and no longer run to Shepparton.
+CHANGED	The 16:08 Shepparton - Southern Cross service will originate from Seymour at 17:16 and not Shepparton.
+DELAYED	The 12:04 Southern Cross - Albury service is delayed 35 minutes due to earlier track congestion in the metropolitan region.
+REDUCTION	The 14:30 Southern Cross - Geelong service will run with a reduced capacity of 3 V/Locity carriages.
+CANCELLED	The 17:25 Traralgon - Southern Cross service will not run today.
+CANCELLED	The 16:36 Southern Cross - Seymour service will not run today.
+NO_BUFFET	The 18:43 Southern Cross - Swan Hill service will operate without buffet facilities today.
+CANCELLED	The 15:23 Southern Cross - Traralgon service will not run today.
+DELAYED	The 14:23 Southern Cross - Traralgon service is delayed by 98 minutes due to an earlier obstruction on the track.
+DELAYED	The 16:23 Southern Cross - Traralgon service is delayed by 22 minutes due to an earlier obstruction on the track.
+DELAYED	The 12:54 Bairnsdale - Southern Cross service is delayed by 58 minutes due to an earlier track fault.
+CANCELLED	The 19:14 Southern Cross - Wendouree service will not run today.
+CANCELLED	The 19:14 Southern Cross - Wendouree service will not run today.
+CANCELLED	The 21:12 Wendouree - Southern Cross service will not run today.
+CANCELLED	The 21:27 Southern Cross - Traralgon service will not run today.
+CANCELLED	The 21:45 Southern Cross - Seymour service will not run today.
+CANCELLED	The 21:27 Southern Cross - Traralgon service will not run today.
+CANCELLED	The 23:45 Southern Cross - Seymour service will not run today.
+CANCELLED	The 00:16 Southern Cross - Wendouree service will not run today.
+CANCELLED	The 01:10 Southern Cross - Geelong service will not run today.
+NON_SPECIFIC	Coaches are replacing trains between Southern Cross & Pakenham due to a person struck by a train near Pakenham.  More information at https://bit.ly/3gEXDUO
+NON_SPECIFIC	Services have resumed between Southern Cross & Pakenham. We are sorry for the delay to your journey.
+CANCELLED	The 05:33 Southern Cross - Geelong service will not run today.
+REDUCTION	The 07:35 Wyndham Vale - Southern Cross service will run with a reduced capacity of 3 V/Locity carriages.
+REDUCTION	The 12:04 Southern Cross - Albury service will run with a reduced capacity of 3 V/Locity carriages.
+CHANGED	The 13:16 Southern Cross - Wendouree service will terminate early at Ballarat and no longer run to Wendouree.
+CANCELLED	The 14:23 Southern Cross - Traralgon service will not run today.
+CANCELLED	The 15:33 Southern Cross - Seymour service will not run today.
+CANCELLED	The 15:36 Southern Cross - Melton service will not run today.
+CANCELLED	The 14:23 Southern Cross - Traralgon service will not run today.
+CHANGED	The 16:40 Wendouree - Southern Cross service will originate from Ballarat at 16:44 and not Wendouree.
+CANCELLED	The 17:26 Southern Cross - Epsom service will not run today.
+CANCELLED	The 18:07 Traralgon - Southern Cross service will not run today.
+NO_BUFFET	The 18:08 Southern Cross - Swan Hill service will operate without buffet facilities today.
+CANCELLED	The 18:16 Seymour - Southern Cross service will not run today.
+NO_BUFFET	The 18:33 Southern Cross - Bairnsdale service will operate without buffet facilities today.
+CHANGED	The 16:39 Southern Cross - Wendouree service will terminate at Ballarat and no longer run to Wendouree. 
+CANCELLED	The 16:55 Southern Cross - Wyndham Vale service will not run today.
+CANCELLED	The 19:28 Southern Cross - Wendouree service will not run today.
+CANCELLED	The 18:07 Traralgon - Southern Cross service will not run today.
+CANCELLED	The 21:27 Wendouree - Southern Cross service will not run today.
+CANCELLED	The 06:05 Southern Cross - Traralgon service will not run today.
+CANCELLED	The 09:22 Traralgon - Southern Cross – Traralgon service will not run today.
+CANCELLED	The 09:26 Southern Cross - Shepparton service will not run today.
+CHANGED	The 12:57 Shepparton - Southern Cross service will originate from Seymour at 14:05 and not Shepparton.
+CHANGED	The 10:06 Southern Cross – Bendigo service will terminate early at Bendigo and no longer run to Epsom.
+CHANGED	The 12:17 Epsom - Southern Cross service will originate from Bendigo at 12:26 and not Epsom.
+CANCELLED	The 17:15 Southern Cross - Wyndham Vale service will not run today.
+NO_BUFFET	The 06:45 Albury - Southern Cross service will operate without buffet facilities between Albury and Euroa today.
+CANCELLED	The 06:30 Kyneton – Southern Cross service will not run today.
+CANCELLED	The 07:50 Wyndham Vale – Southern Cross service will not run today.
+NO_BUFFET	The 07:07 Southern Cross - Albury service will operate without buffet facilities between Southern Cross and Seymour today.
+CANCELLED	The 10:50 Southern Cross - Geelong service will not run today.
+NO_BUFFET	The 12:04 Southern Cross - Albury service will operate without buffet facilities between Benalla and Albury today.
+NO_BUFFET	The 12:51 Albury - Southern Cross service will operate without buffet facilities between Albury and Benalla today.
+CHANGED	The 13:06 Southern Cross - Epsom service will terminate at Bendigo.
+CHANGED	The 15:17 Epsom - Southern Cross service will originate from Bendigo at 15:26 and not Epsom.
+CANCELLED	The 15:50 Southern Cross - Geelong service will not run today.
+CANCELLED	The 18:12 Southern Cross - Geelong service will not run today.
+CANCELLED	The 17:29 Geelong - Southern Cross service will not run today.
+CANCELLED	The 16:30 Melton - Southern Cross service will not run today.
+CHANGED	The 16:39 Southern Cross - Wendouree service will terminate at Ballarat and no longer run to Wendouree. 
+CHANGED	The 16:29 Southern Cross - Epsom service will terminate at Bendigo and no longer run to Epsom.
+CHANGED	The 18:50 Epsom - Southern Cross service will originate from Bendigo at 19:01 and not Epsom.
+NON_SPECIFIC	 
+CANCELLED	The 05:55 Southern Cross – Shepparton service will not run today.
+NO_BUFFET	The 06:45 Albury - Southern Cross service will operate without buffet facilities between Albury and Euroa today.
+CANCELLED	The 07:05 Seymour - Southern Cross service will not run today.
+CANCELLED	The 09:05 Shepparton - Southern Cross service will not run today.
+NO_BUFFET	The 07:07 Southern Cross - Albury service will operate without buffet facilities today. 
+CHANGED	The 06:14 Bairnsdale-Southern Cross service will terminate early at Yarragon and no longer run to Southern Cross.
+CHANGED	The 09:56 Southern Cross-Wendouree service will terminate early at Caroline Springs and no longer run to Wendouree.
+NO_BUFFET	The 12:04 Southern Cross-Albury service will operate without buffet facilities today between Southern Cross and Euroa.
+NO_BUFFET	The 12:51 Albury-Southern Cross service will operate without buffet facilities today between Euroa and Southern Cross.
+CANCELLED	The 17:38 Southern Cross - Wendouree service will not run today.
+CANCELLED	The 16:25 Southern Cross - Geelong service will not run today.
+CANCELLED	The 19:28 Wendouree - Southern Cross service will not run today.
+NO_BUFFET	The 17:27 Albury - Southern Cross service will operate without buffet facilities between Seymour and Southern Cross today.
+NO_BUFFET	The 18:02 Southern Cross - Albury service will operate without buffet facilities between Southern Cross and Seymour today.
+NO_BUFFET	The 18:08 Southern Cross - Swan Hill service will operate without buffet facilities between Southern Cross and Kyneton today.
+CANCELLED	The 19:27 Southern Cross - Traralgon service will not run today
+CHANGED	The 17:20 Traralgon - Southern Cross service will terminate at Flinders St and no longer Southern Cross 
+NO_BUFFET	The 18:02 Southern Cross - Albury service will operate without buffet facilities between Southern Cross and Seymour today.
+NON_SPECIFIC	Coaches will replace trains for the part of the journey on the Ararat and Maryborough lines on Saturday 10 and Sunday 11 December. More info: bit.ly/3OrZIQv
+NON_SPECIFIC	Coaches replace trains on the Warrnambool Line for the entire journey from Saturday 10 to Sunday 11 December. More information at: http://bit.ly/3V9xlsw
+NON_SPECIFIC	Coaches will replace trains on the Ballarat line for all or part of the journey from Friday night 9 to Tuesday 13 December. More info at: bit.ly/3Oqy3PK
+NON_SPECIFIC	Coaches replace evening trains on the Bendigo Line for the entire journey from Sunday 4 to Tuesday 6 December. More information at: http://bit.ly/3TKxrph
+NON_SPECIFIC	Coaches will replace Geelong line trains for all or part of the journey from Friday night 9 December until on Sunday 11 December. More info: bit.ly/3UWPvxP
+NON_SPECIFIC	Coaches are replacing trains between Ballarat & Wendouree.  More information at https://bit.ly/3OQRaCG
+NON_SPECIFIC	Services have resumed between Wendouree & Ballarat. We are sorry for the delay to your journey.
+CANCELLED	The 07:50 Wyndham Vale – Southern Cross service will not run today.
+NON_SPECIFIC	Bendigo line services may be delayed until further notice due to a level crossing fault at Woodend.
+NON_SPECIFIC	Bendigo line services have now resumed following an earlier level crossing fault at Woodend. Minimal delays are anticipated.
+DELAYED	The 07:39 Southern Cross-Swan Hill service is delayed 22 minutes due to a train fault.
+NO_BUFFET	The 12:04 Southern Cross - Albury service will operate without buffet facilities between Benalla and Albury today.
+NO_BUFFET	The 12:51 Albury - Southern Cross service will operate without buffet facilities between Albury and Benalla today.
+CANCELLED	The 14:10 Southern Cross-Geelong service will not run today.
+REDUCTION	The 12:51 Albury - Southern Cross service will run at a reduced capacity of 3 V/Locity carriages.
+CANCELLED	The 15:33 Southern Cross - Seymour service will not run today.
+REDUCTION	The 16:07 Southern Cross - Shepparton service will run at a reduced capacity of 3 V/Locity carriages.
+CANCELLED	The 17:46 Southern Cross - Geelong service will not run today.
+NO_BUFFET	The 18:02 Southern Cross - Albury service will operate without buffet facilities between Benalla and Albury today.
+NO_BUFFET	The 18:08 Southern Cross - Swan Hill service will operate without buffet facilities today.
+CHANGED	The 18:18 Southern Cross - Ararat service will terminate at Ballarat and no longer run to Ararat.
+CANCELLED	The 17:18 Southern Cross - Wendouree service will not run today.
+CANCELLED	The 17:29 Southern Cross - Geelong service will not run today.
+CANCELLED	The 18:36 Geelong - Southern Cross service will not run today.
+CHANGED	The 16:17 Southern Cross - Wendouree service will terminate at Ballarat and no longer run to Wendouree.
+CANCELLED	The 19:28 Southern Cross - Wendouree service will not run today.
+DELAYED	The 18:04 Southern Cross - Melton service is delayed 20 minutes.
+CANCELLED	The 20:25 Southern Cross - Epsom service will not run today.
+CANCELLED	The 18:53 Traralgon - Southern Cross service will not run today.
+CHANGED	The 21:07 Southern Cross - Eaglehawk service will terminate at Bendigo and no longer run to Eaglehawk.
+NON_STOP	The 20:05 Southern Cross - Seymour service will not stop at North Melbourne today.
+CHANGED	The 20:35 Southern Cross - Geelong service will terminate at Sunshine and no longer Geelong
+CANCELLED	The 21:43 Southern Cross - Seymour service will not run today
+CANCELLED	The 22:22 Geelong - Southern Cross service will not run today
+CHANGED	The 18:33 Southern Cross - Bairnsdale service will terminate early at Sale and no longer Bairnsdale
+NO_BUFFET	The 06:45 Albury - Southern Cross service will operate without buffet facilities today.
+NO_BUFFET	The 12:51 Albury - Southern Cross service will operate without buffet facilities between Albury and Benalla today.
+NO_BUFFET	The 12:04 Southern Cross - Albury service will operate without buffet facilities between Benalla and Albury today.
+DELAYED	The 12:04 Southern Cross - Albury service is delayed 30 minutes.
+NO_BUFFET	The 18:02 Southern Cross - Albury service will operate without buffet facilities between Euroa and Albury today.
+DELAYED	The 17:10 Southern Cross - Geelong service is delayed 20 minutes.
+CANCELLED	The 07:07 Southern Cross - Albury service will not run today.
+NO_BUFFET	The 06:45 Albury - Southern Cross service will operate without buffet facilities between Albury and Euroa today.
+NO_BUFFET	The 06:45 Albury - Southern Cross service will operate without buffet facilities today.
+CANCELLED	The 12:51 Albury - Southern Cross service will not run today.
+REDUCTION	The 15:14 Southern Cross - Wendouree service will run with a reduced capacity of 3 V/Locity carriages.
+CHANGED	The 14:14 Wendouree - Southern Cross service will originate from Ballarat at 14:20 and not Wendouree.
+REDUCTION	The 15:50 Southern Cross - Waurn Ponds service will run with a reduced capacity of 3 V/Locity carriages.
+REDUCTION	The 16:30 Southern Cross - Waurn Ponds service will run at a reduced capacity of 3 V/Locity carriages.
+REDUCTION	The 16:30 Southern Cross - Waurn Ponds service will run at a reduced capacity of 3 V/Locity carriages.
+CHANGED	The 06:20 Eaglehawk - Southern Cross service will originate from 06:30 at Bendigo and not Eaglehawk.
+CANCELLED	The 06:16 Ararat - Southern Cross service will not run today.
+DELAYED	The 09:25 Southern Cross - Traralgon service is delayed 25 minutes.
+NON_SPECIFIC	Coaches replace some evening Traralgon Line trains from Monday 19 and Tuesday 20 December. More information at https://bit.ly/3W82zAL
+NON_SPECIFIC	Services are currently disrupted due to a person struck by a train in the metropolitan region. More information at https://bit.ly/3B7hUZW
+CHANGED	The 16:52 Southern Cross - Eaglehawk service will terminate early at Bendigo and no longer run to Eaglehawk.
+NON_SPECIFIC	Services have resumed between Southern Cross and Craigieburn. We are sorry for the delay to your journey.
+CANCELLED	The 17:15 Southern Cross - Wyndham Vale service will not run today.
+CHANGED	The 16:49 Southern Cross - South Geelong service will terminate at Geelong and no longer run to South Geelong.
+CHANGED	The 18:07 South Geelong - Southern Cross service will originate from Geelong at 18:12 and not South Geelong.
+CHANGED	The 17 :18 Southern Cross - Wendouree service will terminate at Ballarat and not Wendouree.
+CHANGED	17:53 Southern Cross - Waurn Ponds service will terminate at Geelong and not Waurn Ponds.
+CHANGED	The 18:56 Southern Cross - South Geelong service will terminate at Geelong and not South Geelong.

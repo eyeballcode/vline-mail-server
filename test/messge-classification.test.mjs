@@ -1,3 +1,7 @@
+import fs from 'fs/promises'
+import path from 'path'
+import url from 'url'
+
 import { expect } from 'chai'
 import {
   isReduction,
@@ -9,6 +13,13 @@ import {
   isChanged,
   isAdditionalStop
 } from '../lib/message-classification.mjs'
+
+import getMessageType from '../lib/message-classification.mjs'
+
+const __filename = url.fileURLToPath(import.meta.url)
+const __dirname = path.dirname(__filename)
+
+const sampleAlterations = (await fs.readFile(path.join(__dirname, 'sample-emails', 'messages.txt'))).toString().split('\n')
 
 describe('The message classification functions', () => {
   describe('Service reduction', () => {
@@ -110,6 +121,9 @@ describe('The message classification functions', () => {
 
 describe('The overall message classifier', () => {
   it('Correctly classifies reductions', () => {
-
+    sampleAlterations.forEach(message => {
+      let [type, text] = message.split('\t')
+      expect(type, text).to.equal(getMessageType('', text))
+    })
   })
 })
