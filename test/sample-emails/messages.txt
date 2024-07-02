@@ -33,7 +33,7 @@ CANCELLED	The 07:05 Southern Cross - South Geelong service will not run today.
 CANCELLED	The 08:45 South Geelong - Southern Cross service will not run today.
 CHANGED	The 04:25 Traralgon - Southern Cross service will terminate early at Flinders St and no longer run to Southern Cross.
 CHANGED	The 07:17 Southern Cross - Bairnsdale service will originate at Flinders St and not  Southern Cross.
-DELAYED	Services on the Geelong line may experience delays of up to 45 mins this morning.
+NON_SPECIFIC	Services on the Geelong line may experience delays of up to 45 mins this morning.
 CANCELLED	The 07:23 Geelong - Southern Cross service will not run today.
 NON_SPECIFIC	Services on the Geelong Line are currently experiencing delays of up to 45 minutes.  More information at https://bit.ly/3eiIK9r
 NON_SPECIFIC	Coaches are replacing trains between Geelong and Southern Cross due to a disabled train near Tarneit. More information here.

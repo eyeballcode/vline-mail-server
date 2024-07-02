@@ -15,6 +15,7 @@ import {
 } from '../lib/message-classification.mjs'
 
 import getMessageType from '../lib/message-classification.mjs'
+import VLineMailServer from '../lib/index.mjs'
 
 const __filename = url.fileURLToPath(import.meta.url)
 const __dirname = path.dirname(__filename)
@@ -123,7 +124,9 @@ describe('The overall message classifier', () => {
   it('Correctly classifies reductions', () => {
     sampleAlterations.forEach(message => {
       let [type, text] = message.split('\t')
-      expect(type, text).to.equal(getMessageType('', text))
+      let cleanedUp = VLineMailServer.processMessage(text).toLowerCase()
+
+      expect(getMessageType('', cleanedUp), text).to.equal(type)
     })
   })
 })
