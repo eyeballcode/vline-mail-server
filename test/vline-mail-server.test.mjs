@@ -73,4 +73,37 @@ describe('The V/Line Inform Mail Server', () => {
       expect(VLineMailServer.cleanupMessage('\u00A0ABC  \n\n\u00A0 \u00A0\n DEF \u00A0\n\u00A0 GHI\n\nJKL')).to.equal('ABC DEF GHI JKL')
     })
   })
+
+  describe('The standardisation of names in the message', () => {
+    it('Should replace SCS, SXS and SSS with Southern Cross', () => {
+      expect(VLineMailServer.standardiseNames('SCS to Ballan')).to.equal('Southern Cross to Ballan')
+      expect(VLineMailServer.standardiseNames('SXS to Warragul')).to.equal('Southern Cross to Warragul')
+      expect(VLineMailServer.standardiseNames('SSS to Wandong')).to.equal('Southern Cross to Wandong')
+    })
+
+    it('Should replace Melbourne with Southern Cross, unless it is North Melbourne', () => {
+      expect(VLineMailServer.standardiseNames('Melbourne to Seymour')).to.equal('Southern Cross to Seymour')
+      expect(VLineMailServer.standardiseNames('Seymour to Melb')).to.equal('Seymour to Southern Cross')
+    })
+
+    it('Should not replace Melbourne in North Melbourne', () => {
+      expect(VLineMailServer.standardiseNames('Seymour to North Melbourne')).to.equal('Seymour to North Melbourne')
+    })
+
+    it('Should replace Flinders St with an optional colon with just Flinders Street', () => {
+      expect(VLineMailServer.standardiseNames('Flinders St to Traralgon')).to.equal('Flinders Street to Traralgon')
+      expect(VLineMailServer.standardiseNames('Flinders St. to Bairnsdale')).to.equal('Flinders Street to Bairnsdale')
+      expect(VLineMailServer.standardiseNames('Morwell to Flinders Street')).to.equal('Morwell to Flinders Street')
+    })
+
+    it('Should replace Jct with Junction', () => {
+      expect(VLineMailServer.standardiseNames('terminate early at Heathcote Jct')).to.equal('terminate early at Heathcote Junction')
+      expect(VLineMailServer.standardiseNames('Heathcote Jct.')).to.equal('Heathcote Junction')
+      expect(VLineMailServer.standardiseNames('Heathcote Junct')).to.equal('Heathcote Junction')
+    })
+
+    it('Should replace Nth with North', () => {
+      expect(VLineMailServer.standardiseNames('originate from Nth Melbourne')).to.equal('originate from North Melbourne')
+    })
+  })
 })
