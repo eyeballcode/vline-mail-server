@@ -1093,3 +1093,17 @@ REDUCTION	The 16:46 Southern Cross to Geelong service will run at a reduced capa
 REDUCTION	The 18:12 Geelong to Southern Cross service will run at a reduced capacity of 3 carriages.
 DELAYED	The 18:07 Traralgon - Southern Cross service 50 minutes leaving Bunyip station.
 DELAYED	The 18:33 Southern Cross to Bairnsdale service is delayed by 23 minutes.
+DELAYED	The 16:07 Southern Cross - Shepparton service is delayed 141 minutes.
+CHANGED	The 19:07 Southern Cross - Shepparton service is delayed 66 minutes. This service will terminate at Seymour this evening.
+DELAYED	The 19:53 Seymour-Southern Cross service is delayed 50 minutes.
+CHANGED	The 04:21 Traralgon to Southern Cross service will terminate at Caulfield and no longer run to Southern Cross.
+CHANGED	The 05:15 Traralgon to Flinders Street service will terminate at Springvale and no longer run to Flinders Street.
+CANCELLED	The 07:39 Flinders Street to Traralgon service will not run today.
+CHANGED	The 06:10 Bairnsdale to Southern Cross service will terminate at Traralgon and no longer run to Southern Cross.
+CHANGED	The 07:39 Flinders Street to Traralgon service will run now and originate from Westall at 08:04.
+CHANGED	The 05:43 Traralgon to Southern Cross service will terminate at Springvale and no longer run to Southern Cross.
+DELAYED	The 06:10 Bairnsdale to Southern Cross is delayed by 30 minutes due to a Metro track fault.
+DELAYED	The 09:22 Traralgon to Southern Cross service is delayed by 20 minutes due to an earlier Metro track fault.
+REDUCTION	The 14:36 Southern Cross to Seymour service will run at a reduced capacity of 2 Sprinter carriages.
+CHANGED	The 12:50 Shepparton to Southern Cross will terminate early at Kilmore East and no longer run to Southern Cross.
+NO_BUFFET	The 18:33 Southern Cross to Bairnsdale service will operate without Cafe Bar facilities between Southern Cross & Warragul today.

@@ -11,6 +11,7 @@ const sampleAlteration = await fs.readFile(path.join(__dirname, 'sample-emails',
 const sampleCancellation = await fs.readFile(path.join(__dirname, 'sample-emails', 'cancellation.html'))
 const sampleDelay = await fs.readFile(path.join(__dirname, 'sample-emails', 'delay.html'))
 const sampleWorks = await fs.readFile(path.join(__dirname, 'sample-emails', 'works-alert.html'))
+const sampleExtraBracket = await fs.readFile(path.join(__dirname, 'sample-emails', 'extra-bracket.html'))
 
 describe('The V/Line Inform Mail Server', () => {
   it('Should validate emails sent to it based on the To address', () => {
@@ -48,6 +49,11 @@ describe('The V/Line Inform Mail Server', () => {
     it('Works on the sample works alert', () => {
       let { message } = VLineMailServer.getMessageContent({ subject: '', html: sampleWorks })
       expect(message).to.contain('Due to Metro and V/Line maintenance works, coaches replace some Gippsland Line trains for all or part of the journey from Friday 12 to Wednesday 17 July.')
+    })
+
+    it('Removes extra junk characters at the start of the message', () => {
+      let { message } = VLineMailServer.getMessageContent({ subject: '', html: sampleExtraBracket })
+      expect(message).to.equal('The 05:43 Traralgon - Southern Cross service will terminate at Springvale and no longer run to Southern Cross.')
     })
   })
 
