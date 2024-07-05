@@ -1,0 +1,14 @@
+DELAYED	30	The 18:02 Southern Cross - Albury service is delayed 30 minutes due to track congestion in the metropolitan region.
+DELAYED	30	The 22:56 Southern Cross - Wendouree service is delayed 30 minutes due to a trespasser between Rockbank and Cobblebank.
+DELAYED	20	The 16:02 Southern Cross - Melton service is delayed 20 minutes.
+DELAYED	34	The 22:59 Southern Cross - Traralgon service will be delayed on departure by 34+ minutes.
+DELAYED	35	The 13:27 Traralgon - Southern Cross service will be delayed 35 minutes at Drouin due to a safety incident.
+DELAYED	35	The 12:23 Southern Cross - Traralgon service will be delayed 35 minutes at Longwarry due to a safety incident.
+DELAYED	Birregurra	The 13:08 Southern Cross-Warrnambool service will be held in Birregurra awaiting an ambulance.
+DELAYED	Roxburgh Park	The 05:09 Shepparton - Southern Cross service is being held at Roxburgh Park due to a police operation.
+DELAYED	Macedon	The 11:06 Southern Cross - Eaglehawk service is delayed near Macedon due to an incident requiring emergency services. 
+DELAYED	30	The 19:27 Southern Cross - Traralgon service is 30 minutes due to an unruly passenger.
+DELAYED	10	17:29 The Southern Cross to Waurn Ponds is delayed 10 minutes due to delayed train crew. The 17:32 Southern Cross to Geelong service has departed in front of the 17:29 Southern Cross to Waurn Ponds service.
+DELAYED	Southern Cross	The 12:04 Southern Cross to Albury service is delayed on departure
+DELAYED	53	The 17:42 Southern Cross to Melton service is delayed by 53 minutes
+DELAYED	25	The 12:14 - Southern Cross - Ararat service is delayed 25+ minutes.
