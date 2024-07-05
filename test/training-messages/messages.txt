@@ -1107,3 +1107,4 @@ DELAYED	The 09:22 Traralgon to Southern Cross service is delayed by 20 minutes d
 REDUCTION	The 14:36 Southern Cross to Seymour service will run at a reduced capacity of 2 Sprinter carriages.
 CHANGED	The 12:50 Shepparton to Southern Cross will terminate early at Kilmore East and no longer run to Southern Cross.
 NO_BUFFET	The 18:33 Southern Cross to Bairnsdale service will operate without Cafe Bar facilities between Southern Cross & Warragul today.
+CHANGED	The 18:33 Southern Cross - Bairnsdale service will terminate at Carnegie and no longer run to Bairnsdale due to a police operation.

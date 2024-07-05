@@ -20,7 +20,7 @@ import VLineMailServer from '../lib/index.mjs'
 const __filename = url.fileURLToPath(import.meta.url)
 const __dirname = path.dirname(__filename)
 
-const sampleAlterations = (await fs.readFile(path.join(__dirname, 'sample-emails', 'messages.txt'))).toString().split('\n')
+const sampleMessages = (await fs.readFile(path.join(__dirname, 'training-messages', 'messages.txt'))).toString().split('\n')
 
 describe('The message classification functions', () => {
   describe('Service reduction', () => {
@@ -122,7 +122,7 @@ describe('The message classification functions', () => {
 
 describe('The overall message classifier', () => {
   it('Correctly classifies messages on the test data', () => {
-    sampleAlterations.forEach(message => {
+    sampleMessages.forEach(message => {
       let [type, text] = message.split('\t')
       let cleanedUp = VLineMailServer.processMessage(text).toLowerCase()
 
