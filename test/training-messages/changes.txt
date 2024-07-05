@@ -145,7 +145,7 @@
 18:07	South Geelong	Southern Cross	[{"type":"originate","location":"Geelong"}]	The 18:07 South Geelong to Southern Cross will originate from Geelong at 18:12
 16:29	Southern Cross	Epsom	[{"type":"terminate","location":"Bendigo"}]	The 16:29 Southern Cross to Epsom will terminate at Bendigo and no longer run to Epsom.
 15:30	Southern Cross	Waurn Ponds	[{"type":"terminate","location":"Geelong"}]	The 15.30 Southern Cross to Waurn Ponds will terminate at Geelong and no longer run to Waurn Ponds.
-20:07	Wendouree	Southern Cross	[{"type":"originate","location":"Bacchus March"}]	The 20:07 Wendouree to Southern cross will originate from Bacchus March at 20:54 and not Wendouree
+20:07	Wendouree	Southern Cross	[{"type":"originate","location":"Bacchus Marsh"}]	The 20:07 Wendouree to Southern cross will originate from Bacchus March at 20:54 and not Wendouree
 09:58	Wendouree	Southern Cross	[{"type":"originate","location":"Ballarat"}]	The 09:58 Wendouree to Southern Cross will originate from Ballarat at 10:04 and not Wendouree.
 07:39	Flinders Street	Traralgon	[{"type":"terminate","location":"Morwell"}]	The 07:39 Flinders Street to Traralgon will terminate at Morwell and no longer run to Traralgon.
 10:23	Traralgon	Southern Cross	[{"type":"originate","location":"Morwell"}]	The 10:23 Traralgon to Southern Cross will originate from Morwell at 10:31 and not Traralgon.
@@ -163,8 +163,6 @@
 11:06	Southern Cross	Eaglehawk	[{"type":"terminate","location":"Bendigo"}]	The 11:06 Southern Cross to Eaglehawk will terminate at Bendigo and no longer run to Eaglehawk.
 13:16	Eaglehawk	Southern Cross	[{"type":"originate","location":"Bendigo"}]	The 13:16 Eaglehawk to Southern Cross will originate from Bendigo at 13:26 and not Eaglehawk.
 16:52	Southern Cross	Eaglehawk	[{"type":"terminate","location":"Bendigo"}]	The 16:52 Southern Cross to Eaglehawk will terminate at Bendigo and no longer run to Eaglehawk
-17:50	Epsom	Southern Cross	[{"type":"terminate","location":"Bendigo"}]	The 17:50 Epsom to Southern Cross is cancelled between Epsom and Bendigo today.
-17:26	Southern Cross	Epsom	[{"type":"terminate","location":"Bendigo"}]	The 17:26 Southern Cross to Epsom is cancelled between Bendigo and Epsom tonight.
 17:26	Southern Cross	Epsom	[{"type":"terminate","location":"Bendigo"}]	The 17:26 Southern Cross to Epsom will terminate at Bendigo and no longer run to Epsom
 21:07	Southern Cross	Epsom	[{"type":"terminate","location":"Bendigo"}]	The 21:07 Southern Cross to Espom will terminate early at Bendigo and no longer run to Espom
 07:39	Flinders Street	Traralgon	[{"type":"terminate","location":"Morwell"}]	07:39 Flinders Street to Traralgon will terminate at Morwell and no longer run to Traralgon.
@@ -185,4 +183,6 @@
 05:43	Traralgon	Southern Cross	[{"type":"terminate","location":"Springvale"}]	The 05:43 Traralgon to Southern Cross will terminate at Springvale and no longer run to Southern Cross.
 12:50	Shepparton	Southern Cross	[{"type":"terminate","location":"Kilmore East"}]	The 12:50 Shepparton to Southern Cross will terminate early at Kilmore East and no longer run to Southern Cross.
 18:33	Southern Cross	Bairnsdale	[{"type":"terminate","location":"Carnegie"}]	The 18:33 Southern Cross to Bairnsdale will terminate at Carnegie and no longer run to Bairnsdale. Customers can board the 18:45 Southern Cross to Traralgon service instead.
-05:15	Traralgon	Flinders Street	[{"type":"terminate","location":"Springvale"}]	The 05:15 Traralgon to Flinders Street will originate late from Warragul and terminate at Pakenham today.
+05:15	Traralgon	Flinders Street	[{"type":"originate","location":"Warragul"},{"type":"terminate","location":"Westall"}]	The 05:15 Traralgon to Flinders Street will originate late from Warragul and terminate at Westall today.
+17:50	Epsom	Southern Cross	[{"type":"originate","location":"Bendigo"}]	The 17:50 Epsom to Southern Cross is cancelled between Epsom and Bendigo today.
+17:26	Southern Cross	Epsom	[{"type":"terminate","location":"Bendigo"}]	The 17:26 Southern Cross to Epsom is cancelled between Bendigo and Epsom tonight.
