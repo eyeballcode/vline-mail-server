@@ -41,4 +41,12 @@ describe('The service removal function', () => {
     expect(serviceData.matchedText).to.equal('18:33 Southern Cross to Bairnsdale')
     expect(removeServiceData(text, serviceData)).to.equal('will terminate at Carnegie and no longer run to Bairnsdale. Customers can board the')
   })
+
+  it('Should not remove too much information from the message', () => {
+    let text = 'The 13:06 Southern Cross to Epsom is delayed 20 minutes and will terminate at Bendigo today.'
+    let serviceData = identifyService(text, { vlineStations })
+
+    expect(serviceData.matchedText).to.equal('13:06 Southern Cross to Epsom')
+    expect(removeServiceData(text, serviceData)).to.equal('is delayed 20 minutes and will terminate at Bendigo today.')
+  })
 })
