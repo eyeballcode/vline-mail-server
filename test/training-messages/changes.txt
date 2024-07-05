@@ -1,186 +1,188 @@
-17:26	Southern Cross	Epsom	[{"type":"terminate","changePoint":"Bendigo"}]	The 17:26 Southern Cross to Epsom will terminate early at Bendigo and no longer run to Epsom.
-05:24	Waurn Ponds	Southern Cross	[{"type":"terminate","changePoint":"Lara"}]	The 05:24 Waurn Ponds to Southern Cross will terminate early at Lara and no longer run to Southern Cross.
-04:25	Traralgon	Southern Cross	[{"type":"terminate","changePoint":"Flinders Street"}]	The 04:25 Traralgon to Southern Cross will terminate early at Flinders Street and no longer run to Southern Cross.
-07:17	Southern Cross	Bairnsdale	[{"type":"originate","changePoint":"Flinders Street"}]	The 07:17 Southern Cross to Bairnsdale will originate at Flinders Street and not Southern Cross.
-08:49	Geelong	Warrnambool	[{"type":"terminate","changePoint":"Camperdown"}]	The 08:49 Geelong to Warrnambool will terminate early at Camperdown and no longer run to Warrnambool.
-13:16	Southern Cross	Wendouree	[{"type":"terminate","changePoint":"Bacchus Marsh"}]	The 13:16 Southern Cross to Wendouree will terminate early at Bacchus Marsh and no longer Wendouree
-13:13	Southern Cross	South Geelong	[{"type":"terminate","changePoint":"Geelong"}]	The 13:13 Southern Cross to South Geelong will terminate early at Geelong and no longer run to South Geelong.
-14:45	South Geelong	Southern Cross	[{"type":"originate","changePoint":"Geelong"}]	The 14:45 South Geelong to Southern Cross will originate from Geelong at 14:50 and not Geelong.
-06:44	Epsom	Southern Cross	[{"type":"originate","changePoint":"Bendigo"}]	The 06:44 Epsom to Southern Cross will originate from Bendigo at 06:53 and not Epsom.
-16:17	Southern Cross	Wendouree	[{"type":"terminate","changePoint":"Ballarat"}]	The 16:17 Southern Cross to Wendouree will terminate at Ballarat and no longer run to Wendouree.
-11:56	Southern Cross	Wendouree	[{"type":"terminate","changePoint":"Ballarat"}]	The 11:56 Southern Cross to Wendouree will terminate at Ballarat and no longer run to Wendouree.
-12:15	Warrnambool	Southern Cross	[{"type":"terminate","changePoint":"Colac"}]	The 12:15 Warrnambool to Southern Cross will terminate at Colac and no longer run to Southern Cross.
-16:31	Southern Cross	Geelong	[{"type":"terminate","changePoint":"Lara"}]	The 16:31 Southern Cross to Geelong will terminate at Lara and no longer run to Geelong.
-17:18	Southern Cross	Wendouree	[{"type":"terminate","changePoint":"Ballarat"}]	The 17:18 Southern Cross to Wendouree will terminate at Ballarat and no longer run to Wendouree.
-17:12	Southern Cross	South Geelong	[{"type":"terminate","changePoint":"Geelong"}]	The 17:12 Southern Cross to South Geelong will terminate at Geelong and no longer run to South Geelong.
-18:54	South Geelong	Southern Cross	[{"type":"originate","changePoint":"Geelong"}]	The 18:54 South Geelong to Southern Cross will originate from Geelong at 19:00 and not South Geelong.
-17:32	Southern Cross	Geelong	[{"type":"terminate","changePoint":"Geelong"}]	The 17:32 Southern Cross to Geelong will terminate at Geelong and no longer run to Geelong.
-17:32	Southern Cross	South Geelong	[{"type":"terminate","changePoint":"Geelong"}]	The 17:32 Southern Cross to South Geelong will terminate at Geelong and no longer run to Geelong.
-17:53	Southern Cross	Waurn Ponds	[{"type":"terminate","changePoint":"Geelong"}]	The 17:53 Southern Cross to Waurn Ponds will terminate at Geelong and no longer run to Waurn Ponds.
-05:56	Wendouree	Southern Cross	[{"type":"originate","changePoint":"Ballarat"}]	The 05:56 Wendouree to Southern Cross will originate from Ballarat and not Wendouree today.
-10:05	South Geelong	Southern Cross	[{"type":"originate","changePoint":"Geelong"}]	The 10:05 South Geelong to Southern Cross will originate from Geelong at 10:10 and not South Geelong.
-19:16	Southern Cross	Waurn Ponds	[{"type":"terminate","changePoint":"Geelong"}]	The 19:16 Southern Cross to Waurn Ponds will terminate early at Geelong and no longer Waurn Ponds
-17:46	Southern Cross	Waurn Ponds	[{"type":"terminate","changePoint":"Sunshine"}]	The 17:46 Southern Cross to Waurn Ponds will terminate early at Sunshine and no longer run to Waurn Ponds.
-04:48	Southern Cross	Waurn Ponds	[{"type":"terminate","changePoint":"Geelong"}]	The 04:48 Southern Cross to Waurn Ponds will terminate at Geelong and no longer run to Waurn Ponds.
-06:18	Waurn Ponds	Southern Cross	[{"type":"originate","changePoint":"Geelong"}]	The 06:18 Waurn Ponds to Southern Cross will originate from Geelong at 06:33 and not Waurn Ponds.
-21:43	Southern Cross	Seymour	[{"type":"terminate","changePoint":"Kilmore East"}]	The 21:43 Southern Cross to Seymour will terminate early at Kilmore East and no longer Seymour.
-21:56	Seymour	Southern Cross	[{"type":"terminate","changePoint":"Broadford"}]	The 21:56 Seymour to Southern Cross will terminate at Broadford and no longer run to Southern Cross
-06:16	Melton	Southern Cross	[{"type":"originate","changePoint":"Caroline Springs"}]	The 06:16 Melton to Southern Cross will originate from Caroline Springs at 06:29 and not Melton.
-07:21	Waurn Ponds	Southern Cross	[{"type":"originate","changePoint":"Geelong"}]	The 07:21 Waurn Ponds to Southern Cross will originate from Geelong at 07:36 and not Waurn Ponds.
-06:28	Southern Cross	Waurn Ponds	[{"type":"terminate","changePoint":"Marshall"}]	The 06:28 Southern Cross to Waurn Ponds will terminate early at Marshall and no longer run to Waurn Ponds.
-08:12	Waurn Ponds	Southern Cross	[{"type":"originate","changePoint":"Marshall"}]	The 08:12 Waurn Ponds to Southern Cross   will originate from Marshall at 08:17 and not Waurn Ponds.
-07:50	Southern Cross	South Geelong	[{"type":"terminate","changePoint":"Geelong"}]	The 07:50 Southern Cross to South Geelong will terminate early at Geelong and no longer run to South Geelong.
-09:25	South Geelong	Southern Cross	[{"type":"originate","changePoint":"Geelong"}]	The 09:25 South Geelong to Southern Cross will originate from Geelong at 9:30 and not South Geelong.
-08:10	Southern Cross	Waurn Ponds	[{"type":"terminate","changePoint":"Marshall"}]	The 08:10 Southern Cross to Waurn Ponds will terminate early at Marshall and no longer run to Waurn Ponds.
-09:38	Waurn Ponds	Southern Cross	[{"type":"originate","changePoint":"Marshall"}]	The 09:38 Waurn Ponds to Southern Cross will originate from Marshall at 09:43 and not Waurn Ponds.
-08:30	Southern Cross	South Geelong	[{"type":"terminate","changePoint":"Geelong"}]	The 08:30 Southern Cross to South Geelong will terminate early at Geelong and no longer run to South Geelong.
-14:23	Southern Cross	Traralgon	[{"type":"terminate","changePoint":"Warragul"}]	The 14:23 Southern Cross to Traralgon will terminate early at Warragul and no longer Traralgon
-19:16	Southern Cross	Waurn Ponds	[{"type":"terminate","changePoint":"Geelong"}]	The 19:16 Southern Cross to Waurn Ponds will terminate early at Geelong and no longer Waurn Ponds.
-20:35	Southern Cross	Waurn Ponds	[{"type":"terminate","changePoint":"Geelong"}]	The 20:35 Southern Cross to Waurn Ponds will terminate early at Geelong and no longer run to Waurn Ponds.
-11:16	Southern Cross	Ararat	[{"type":"terminate","changePoint":"Ballarat"}]	The 11:16 Southern Cross to Ararat will terminate at Ballarat and no longer run to Ararat.
-14:28	Ararat	Southern Cross	[{"type":"originate","changePoint":"Ballarat"}]	The 14:28 Ararat to Southern Cross will originate from Ballarat today.
-14:10	Southern Cross	Waurn Ponds	[{"type":"terminate","changePoint":"Geelong"}]	The 14:10 Southern Cross to Waurn   Ponds will terminate at Geelong and no longer run to Waurn Ponds.
-15:38	Waurn Ponds	Southern Cross	[{"type":"originate","changePoint":"Geelong"}]	The 15:38 Waurn Ponds to Southern Cross will originate from Geelong at 15:52 and not Waurn Ponds.
-07:09	Maryborough	Ballarat	[{"type":"originate","changePoint":"Ballarat"}]	The 07:09 Maryborough   to Ballarat will originate at Ballarat at 08:20 and not Maryborough.
-08:09	Maryborough	Ballarat	[{"type":"originate","changePoint":"Ballarat"}]	The 08:09 Maryborough to  Ballarat will originate at Ballarat at 09:20 and not Maryborough.
-07:50	Southern Cross	Waurn Ponds	[{"type":"terminate","changePoint":"Wyndham Vale"}]	The 07:50 Southern Cross to Waurn Ponds will terminate early at Wyndham Vale and no longer run to Waurn Ponds.
-17:06	Southern Cross	Bendigo	[{"type":"terminate","changePoint":"Sunshine"}]	The 17:06 Southern Cross to Bendigo will terminate at Sunshine and no longer run to Bendigo.
-06:01	Epsom	Southern Cross	[{"type":"originate","changePoint":"Bendigo"}]	The 06:01 Epsom to Southern Cross will originate at Bendigo and no longer Epsom
-06:16	Ararat	Southern Cross	[{"type":"originate","changePoint":"Wendouree"}]	The 06:16 Ararat to Southern Cross will originate at Wendouree and no longer Ararat
-11:48	Ararat	Southern Cross	[{"type":"originate","changePoint":"Wendouree"}]	The 11:48 Ararat to Southern Cross will originate from Wendouree and no longer Ararat.
-11:58	Wendouree	Southern Cross	[{"type":"originate","changePoint":"Ballarat"}]	The 11:58 Wendouree to Southern Cross will originate at Ballarat and no longer Wendouree.
-11:16	Southern Cross	Ararat	[{"type":"terminate","changePoint":"Wendouree"}]	The 11:16 Southern Cross to Ararat will terminate at Wendouree and no longer Ararat.
-17:17	Ararat	Southern Cross	[{"type":"terminate","changePoint":"Ballarat"}]	The 17:17 Ararat to Southern Cross will terminate early at Ballarat and no longer run to Southern Cross.
-07:50	Southern Cross	South Geelong	[{"type":"terminate","changePoint":"Geelong"}]	The 07:50 Southern Cross to South Geelong will terminate early at Geelong and no longer South Geelong.
-19:28	Wendouree	Southern Cross	[{"type":"originate","changePoint":"Ballarat"}]	The 19:28 Wendouree to Southern Cross will originate from Ballarat at 19:35 and not Wendouree.
-14:36	Southern Cross	Ararat	[{"type":"terminate","changePoint":"Ballarat"}]	The 14:36 Southern Cross to Ararat will terminate early at Ballarat and no longer Ararat
-17:17	Ararat	Southern Cross	[{"type":"originate","changePoint":"Ballarat"}]	The 17:17 Ararat to Southern Cross will originate at Ballarat and no longer Ararat
-21:43	Southern Cross	Seymour	[{"type":"terminate","changePoint":"Broadmeadows"}]	The 21:43 Southern Cross to Seymour will terminate at Broadmeadows and no longer run to Seymour.
-16:39	Southern Cross	Wendouree	[{"type":"terminate","changePoint":"Ballan"}]	The 16:39 Southern Cross to Wendouree will terminate early at Ballan and no longer run to Wendouree.
-20:25	Southern Cross	Epsom	[{"type":"terminate","changePoint":"Bendigo"}]	The 20:25 Southern Cross to Epsom will terminate at Bendigo and no longer run to Epsom.
-07:15	Echuca	Southern Cross	[{"type":"originate","changePoint":"Bendigo"}]	The 07:15 Echuca to Southern Cross will originate from Bendigo today.
-06:20	Wendouree	Southern Cross	[{"type":"originate","changePoint":"Ballarat"}]	The 06:20 Wendouree to Southern Cross will originate at Ballarat and no longer Wendouree.
-15:44	Wendouree	Southern Cross	[{"type":"originate","changePoint":"Ballarat"}]	The   15:44 Wendouree to Southern Cross will originate at Ballarat.
-08:08	Bacchus Marsh	Southern Cross	[{"type":"terminate","changePoint":"Caroline Springs"}]	The 08:08 Bacchus Marsh to Southern Cross will terminate early at Caroline Springs and no longer run to Southern Cross.
-17:26	Southern Cross	Epsom	[{"type":"terminate","changePoint":"Bendigo"}]	The 17:26 Southern Cross to Epsom will terminate early at Bendigo.
-05:17	Bendigo	Southern Cross	[{"type":"terminate","changePoint":"Sunshine"}]	The 05:17   Bendigo to Southern Cross will terminate early at Sunshine and no longer Southern Cross
-05:17	Bendigo	Southern Cross	[{"type":"terminate","changePoint":"Sunshine"}]	The 05:17 Bendigo to Southern Cross will terminate early at Sunshine and no longer Southern Cross.
-06:01	Epsom	Southern Cross	[{"type":"originate","changePoint":"Bendigo"}]	The 06:01 Epsom to Southern Cross will originate at Bendigo at 06:10 today and not Epsom.
-07:09	Maryborough	Southern Cross	[{"type":"originate","changePoint":"Ballarat"}]	The 07:09 Maryborough to Southern Cross will originate at Ballarat and no longer Maryborough
-12:17	Epsom	Southern Cross	[{"type":"originate","changePoint":"Bendigo"}]	The 12:17 Epsom to Southern Cross will originate from Bendigo at 12:26 and not Epsom.
-13:06	Southern Cross	Epsom	[{"type":"terminate","changePoint":"Bendigo"}]	The 13:06 Southern Cross to Epsom will terminate at Bendigo and no longer run to Epsom.
-15:17	Epsom	Southern Cross	[{"type":"originate","changePoint":"Bendigo"}]	The 15:17 Epsom to Southern Cross will originate from Bendigo at 15:26 and not Epsom.
-16:06	Southern Cross	Bendigo	[{"type":"terminate","changePoint":"Castlemaine"}]	The 16:06 Southern Cross to Bendigo will terminate at Castlemaine and no longer run to Bendigo.
-18:29	Bendigo	Southern Cross	[{"type":"originate","changePoint":"Castlemaine"}]	The 18:29 Bendigo to Southern Cross will originate from Castlemaine at 18:52 and not Bendigo.
-11:06	Southern Cross	Eaglehawk	[{"type":"terminate","changePoint":"Bendigo"}]	The 11:06 Southern Cross to Eaglehawk will terminate at Bendigo and no longer run to Eaglehawk.
-13:16	Eaglehawk	Southern Cross	[{"type":"originate","changePoint":"Bendigo"}]	The 13:16 Eaglehawk to Southern Cross will originate from Bendigo at 13:26 and not Eaglehawk.
-16:41	Southern Cross	Melton	[{"type":"terminate","changePoint":"Footscray"}]	The 16:41 Southern Cross to Melton will terminate early at Footscray and no longer run to Melton.
-17:38	Southern Cross	Wendouree	[{"type":"terminate","changePoint":"Ballarat"}]	The 17:38 Southern Cross to Wendouree will terminate at Ballarat and no longer run to Wendouree.
-19:28	Wendouree	Southern Cross	[{"type":"originate","changePoint":"Ballarat"}]	The 19:28 Wendouree to Southern Cross will originate from Ballarat at 19:35 and not Wendouree.
-00:15	Southern Cross	Geelong	[{"type":"terminate","changePoint":"Footscray"}]	The 00:15 Southern Cross to Geelong will terminate early at Footscray and no longer run to Geelong.
-07:09	Maryborough	Southern Cross	[{"type":"originate","changePoint":"Ballarat"}]	The 07:09 Maryborough to Southern Cross will originate from Ballarat at 08:19 and not Maryborough.
-05:16	Shepparton	Southern Cross	[{"type":"terminate","changePoint":"Seymour"}]	The 05:16 Shepparton to Southern Cross will terminate at Seymour.
-06:16	Ararat	Southern Cross	[{"type":"terminate","changePoint":"Wendouree"}]	The 06:16 Ararat to Southern Cross will terminate early at Wendouree and no longer Southern Cross
-13:06	Southern Cross	Epsom	[{"type":"terminate","changePoint":"Bendigo"}]	The 13:06 Southern Cross to Epsom is delayed 20 minutes and will terminate at Bendigo today.
-15:17	Epsom	Southern Cross	[{"type":"originate","changePoint":"Bendigo"}]	The 15:17 Epsom to Southern Cross will originate from Bendigo at 15:26 and not Epsom.
-07:09	Maryborough	Southern Cross	[{"type":"originate","changePoint":"Ballarat"}]	The 07:09 Maryborough to Southern Cross will originate from Ballarat at 08:20 and not Maryborough.
-22:56	Southern Cross	Wendouree	[{"type":"terminate","changePoint":"Cobblebank"}]	The 22:56 Southern Cross to Wendouree will terminate early at Cobblebank and no longer run to Wendouree.
-14:23	Southern Cross	Traralgon	[{"type":"terminate","changePoint":"Morwell"}]	The 14:23 Southern Cross to Traralgon will terminate at Morwell and no longer run to Traralgon.
-17:20	Traralgon	Southern Cross	[{"type":"originate","changePoint":"Morwell"}]	The 17:20 Traralgon to Southern Cross will originate from Morwell at 17:28 and not Traralgon.
-18:47	Wendouree	Southern Cross	[{"type":"originate","changePoint":"Ballarat"}]	The 18:47 Wendouree to Southern Cross will originate from Ballarat at 18:54 and not Wendouree.
-15:24	Southern Cross	Traralgon	[{"type":"terminate","changePoint":"Morwell"}]	The 15:24 Southern Cross to Traralgon will terminate at Morwell and no longer run to Traralgon.
-17:20	Traralgon	Southern Cross	[{"type":"originate","changePoint":"Morwell"}]	The 17:20 Traralgon to Southern Cross will originate from Morwell at 17:28 and not Traralgon.
-18:07	Traralgon	Southern Cross	[{"type":"originate","changePoint":"Morwell"}]	The 18:07 Traralgon to Southern Cross will originate from Morwell at 17:28 and not Traralgon.
-18:07	Traralgon	Southern Cross	[{"type":"originate","changePoint":"Morwell"}]	The 18:07 Traralgon to Southern Cross will originate from Morwell at 17:28 and not Traralgon.
-06:14	Bairnsdale	Southern Cross	[{"type":"originate","changePoint":"Traralgon"}]	The 06:14 Bairnsdale to Southern Cross will originate from Traralgon at 07:46 and not Bairnsdale.
-06:20	Eaglehawk	Southern Cross	[{"type":"originate","changePoint":"Bendigo"}]	The 06:20 Eaglehawk to Southern Cross will originate from Bendigo at 06:30 and not Eaglehawk.
-10:06	Southern Cross	Epsom	[{"type":"terminate","changePoint":"Bendigo"}]	The 10:06 Southern Cross to Epsom will terminate early at Bendigo and no longer run to Epsom.
-10:06	Southern Cross	Epsom	[{"type":"terminate","changePoint":"Bendigo"}]	The 10:06 Southern Cross to Epsom will terminate early at Bendigo and no longer run to Epsom
-12:17	Epsom	Southern Cross	[{"type":"originate","changePoint":"Bendigo"}]	The 12:17 Epsom to Southern Cross will originate from Bendigo at 12:26 and not Epsom.
-04:48	Southern Cross	Geelong	[{"type":"terminate","changePoint":"Wyndham Vale"}]	The 04:48 Southern Cross to Geelong will terminate early at Wyndham Vale and no longer run to Geelong.
-05:06	Geelong	Southern Cross	[{"type":"originate","changePoint":"Wyndham Vale"}]	The 05:06 Geelong to Southern Cross will originate from Wyndham Vale at 05:35 and not Geelong.
-07:20	Melton	Southern Cross	[{"type":"originate","changePoint":"Caroline Springs"}]	The 07:20 Melton to Southern Cross will originate from Caroline Springs at 07:31 and not Melton.
-19:53	Seymour	Southern Cross	[{"type":"terminate","changePoint":"Craigieburn"}]	The 19:53 Seymour to Southern Cross will terminate at Craigieburn and no longer run to Southern Cross.
-05:16	Shepparton	Southern Cross	[{"type":"terminate","changePoint":"Seymour"}]	The 05:16 Shepparton to Southern Cross will terminate early at Seymour and no longer run to Southern Cross.
-10:06	Southern Cross	Epsom	[{"type":"terminate","changePoint":"Bendigo"}]	The 10:06 Southern Cross to Epsom will terminate early at Bendigo and no longer run to Epsom.
-12:17	Bendigo	Southern Cross	[{"type":"originate","changePoint":"Bendigo"}]	The 12:17 Bendigo to Southern Cross will originate from Bendigo at 12:26 and not Epsom.
-12:36	Southern Cross	Shepparton	[{"type":"terminate","changePoint":"Seymour"}]	The 12:36 Southern Cross to Shepparton will terminate early at Seymour and no longer run to Shepparton.
-16:08	Shepparton	Southern Cross	[{"type":"originate","changePoint":"Seymour"}]	The 16:08 Shepparton to Southern Cross will originate from Seymour at 17:16 and not Shepparton.
-13:16	Southern Cross	Wendouree	[{"type":"terminate","changePoint":"Ballarat"}]	The 13:16 Southern Cross to Wendouree will terminate early at Ballarat and no longer run to Wendouree.
-16:40	Wendouree	Southern Cross	[{"type":"originate","changePoint":"Ballarat"}]	The 16:40 Wendouree to Southern Cross will originate from Ballarat at 16:44 and not Wendouree.
-16:39	Southern Cross	Wendouree	[{"type":"terminate","changePoint":"Ballarat"}]	The 16:39 Southern Cross to Wendouree will terminate at Ballarat and no longer run to Wendouree.
-12:57	Shepparton	Southern Cross	[{"type":"originate","changePoint":"Seymour"}]	The 12:57 Shepparton to Southern Cross will originate from Seymour at 14:05 and not Shepparton.
-10:06	Southern Cross	Bendigo	[{"type":"terminate","changePoint":"Bendigo"}]	The 10:06 Southern Cross to Bendigo will terminate early at Bendigo and no longer run to Epsom.
-12:17	Epsom	Southern Cross	[{"type":"originate","changePoint":"Bendigo"}]	The 12 :17 Epsom to Southern Cross will originate from Bendigo at 12:26 and not Epsom.
-13:06	Southern Cross	Epsom	[{"type":"terminate","changePoint":"Bendigo"}]	The 13:06 Southern Cross to Epsom will terminate at Bendigo.
-15:17	Epsom	Southern Cross	[{"type":"originate","changePoint":"Bendigo"}]	The 15:17 Epsom to Southen Cross will originate from Bendigo at 15:26 and not Epsom.
-16:39	Southern Cross	Wendouree	[{"type":"terminate","changePoint":"Ballarat"}]	The 16:39 Southern Cross to Wendouree will terminate at Ballarat and no longer run to Wendouree.
-16:29	Southern Cross	Epsom	[{"type":"terminate","changePoint":"Bendigo"}]	The 16:29 Southern Cross to Epsom will terminate at Bendigo and no longer run to Epsom.
-18:50	Epsom	Southern Cross	[{"type":"originate","changePoint":"Bendigo"}]	The 18:50 Epsom to Southern Cross will originate from Bendigo at 19:01 and not Epsom.
-06:14	Bairnsdale	Southern Cross	[{"type":"terminate","changePoint":"Yarragon"}]	The 06:14 Bairnsdale to Southern Cross will terminate early at Yarragon and no longer run to Southern Cross.
-09:56	Southern Cross	Wendouree	[{"type":"terminate","changePoint":"Caroline Springs"}]	The 09:56 Southern Cross to Wendouree will terminate early at Caroline Springs and no longer run to Wendouree.
-17:20	Traralgon	Southern Cross	[{"type":"terminate","changePoint":"Flinders Street"}]	The 17:20 Traralgon to Southern Cross will terminate at Flinders Street and no longer Southern Cross
-18:18	Southern Cross	Ararat	[{"type":"terminate","changePoint":"Ballarat"}]	The 18:18 Southern Cross to Ararat will terminate at Ballarat and no longer run to Ararat.
-16:17	Southern Cross	Wendouree	[{"type":"terminate","changePoint":"Ballarat"}]	The 16:17 Southern Cross to Wendouree will terminate at Ballarat and no longer run to Wendouree.
-21:07	Southern Cross	Eaglehawk	[{"type":"terminate","changePoint":"Bendigo"}]	The 21:07 Southern Cross to Eaglehawk will terminate at Bendigo and no longer run to Eaglehawk.
-20:35	Southern Cross	Geelong	[{"type":"terminate","changePoint":"Sunshine"}]	The 20:35 Southern Cross to Geelong will terminate at Sunshine and no longer Geelong
-18:33	Southern Cross	Bairnsdale	[{"type":"terminate","changePoint":"Sale"}]	The 18:33 Southern Cross to Bairnsdale will terminate early at Sale and no longer Bairnsdale
-14:14	Wendouree	Southern Cross	[{"type":"originate","changePoint":"Ballarat"}]	The 14:14 Wendouree to Southern Cross will originate from Ballarat at 14:20 and not Wendouree.
-16:52	Southern Cross	Eaglehawk	[{"type":"terminate","changePoint":"Bendigo"}]	The 16:52 Southern Cross to Eaglehawk will terminate early at Bendigo and no longer run to Eaglehawk.
-16:49	Southern Cross	South Geelong	[{"type":"terminate","changePoint":"Geelong"}]	The 16:49 Southern Cross to South Geelong will terminate at Geelong and no longer run to South Geelong.
-18:07	South Geelong	Southern Cross	[{"type":"originate","changePoint":"Geelong"}]	The 18:07 South Geelong to Southern Cross will originate from Geelong at 18:12 and not South Geelong.
-17:53	Southern Cross	Waurn Ponds	[{"type":"terminate","changePoint":"Geelong"}]	17:53 Southern Cross to Waurn Ponds will terminate at Geelong and not Waurn Ponds.
-18:56	Southern Cross	South Geelong	[{"type":"terminate","changePoint":"Geelong"}]	The 18:56 Southern Cross to South Geelong will terminate at Geelong and not South Geelong.
-05:36	Eaglehawk	Southern Cross	[{"type":"originate","changePoint":"Bendigo"}]	The 05:36 Eaglehawk to Southern Cross will originate from Bendigo
-06:54	Swan Hill	Southern Cross	[{"type":"originate","changePoint":"Bendigo"}]	The 06:54 Swan Hill to Southern Cross will originate at Bendigo at 09:20 and not Swan Hill.
-13:50	Southern Cross	South Geelong	[{"type":"terminate","changePoint":"Geelong"}]	The 13:50 Southern Cross to South Geelong will terminate at Geelong and no longer run to South Geelong
-17:18	Southern Cross	Wendouree	[{"type":"terminate","changePoint":"Ballarat"}]	The 17:18 Southern Cross to Wendouree will terminate at Ballarat and no longer run to Wendouree
-19:12	Southern Cross	Warrnambool	[{"type":"terminate","changePoint":"Waurn Ponds"}]	The 19:12 Southern Cross to Warrnambool will terminate early at Waurn Ponds and no longer run to Warnambool
-06:12	Warrnambool	Southern Cross	[{"type":"originate","changePoint":"Geelong"}]	The 06:12 Warrnambool to Southern Cross will originate at Geelong at 08:39
-06:12	Warrnambool	Southern Cross	[{"type":"originate","changePoint":"Geelong"}]	The 06:12 Warrnambool to Southern Cross will originate at Geelong at 08:39
-14:58	Waurn Ponds	Southern Cross	[{"type":"originate","changePoint":"Marshall"}]	The 14:58 Waurn Ponds to Southern Cross will originate from Marshall at 15:03
-16:49	Southern Cross	South Geelong	[{"type":"terminate","changePoint":"Geelong"}]	The 16:49 Southern Cross to South Geelong will terminate early at Geelong
-18:07	South Geelong	Southern Cross	[{"type":"originate","changePoint":"Geelong"}]	The 18:07 South Geelong to Southern Cross will originate from Geelong at 18:12
-18:07	South Geelong	Southern Cross	[{"type":"originate","changePoint":"Geelong"}]	The 18:07 South Geelong to Southern Cross will originate from Geelong at 18:12
-18:07	South Geelong	Southern Cross	[{"type":"originate","changePoint":"Geelong"}]	The 18:07 South Geelong to Southern Cross will originate from Geelong at 18:12
-16:29	Southern Cross	Epsom	[{"type":"terminate","changePoint":"Bendigo"}]	The 16:29 Southern Cross to Epsom will terminate at Bendigo and no longer run to Epsom.
-15:30	Southern Cross	Waurn Ponds	[{"type":"terminate","changePoint":"Geelong"}]	The 15.30 Southern Cross to Waurn Ponds will terminate at Geelong and no longer run to Waurn Ponds.
-20:07	Wendouree	Southern Cross	[{"type":"originate","changePoint":"Bacchus March"}]	The 20:07 Wendouree to Southern cross will originate from Bacchus March at 20:54 and not Wendouree
-09:58	Wendouree	Southern Cross	[{"type":"originate","changePoint":"Ballarat"}]	The 09:58 Wendouree to Southern Cross will originate from Ballarat at 10:04 and not Wendouree.
-07:39	Flinders Street	Traralgon	[{"type":"terminate","changePoint":"Morwell"}]	The 07:39 Flinders Street to Traralgon will terminate at Morwell and no longer run to Traralgon.
-10:23	Traralgon	Southern Cross	[{"type":"originate","changePoint":"Morwell"}]	The 10:23 Traralgon to Southern Cross will originate from Morwell at 10:31 and not Traralgon.
-10:10	Southern Cross	Marshall	[{"type":"terminate","changePoint":"Geelong"}]	The 10:10 Southern Cross to Marshall will terminate at Geelong and no longer run to Marshall.
-11:49	Marshall	Southern Cross	[{"type":"originate","changePoint":"Geelong"}]	The 11:49 Marshall to Southern Cross will originate from Geelong at 11:58 and not Marshall.
-10:36	Southern Cross	Wendouree	[{"type":"terminate","changePoint":"Ballarat"}]	The 10:36 Southern Cross to Wendouree will terminate at Ballarat and no longer run to Wendouree.
-13:50	Southern Cross	South Geelong	[{"type":"terminate","changePoint":"Geelong"}]	The 13:50 Southern Cross to South Geelong will terminate at Geelong and no longer run to South Geelong.
-15:25	South Geelong	Southern Cross	[{"type":"originate","changePoint":"Geelong"}]	The 15:25 South Geelong to Southern Cross will originate from Geelong at 15:30 and not South Geelong.
-15:24	Southern Cross	Traralgon	[{"type":"terminate","changePoint":"Morwell"}]	The 15:24 Southern Cross to Traralgon will terminate at Morwell and no longer run to Traralgon.
-18:07	Traralgon	Southern Cross	[{"type":"originate","changePoint":"Morwell"}]	The 18:07 Traralgon to Southern Cross will originate from Morwell at 18:15 and not Traralgon.
-18:48	Southern Cross	Wendouree	[{"type":"terminate","changePoint":"Ballarat"}]	The 18:48 Southern Cross to Wendouree will terminate at Ballarat
-20:47	Wendouree	Southern Cross	[{"type":"originate","changePoint":"Ballarat"}]	The 20:47 Wendouree to Southern Cross will now originate out of Ballarat at 20:54
-17:18	Southern Cross	Wendouree	[{"type":"terminate","changePoint":"Ballarat"}]	The 17:18 Southern Cross to Wendouree will terminate early at Ballarat and no longer run to Wendouree
-05:36	Eaglehawk	Southern Cross	[{"type":"originate","changePoint":"Bendigo"}]	The 05:36 Eaglehawk to Southern Cross will originate from Bendigo
-11:06	Southern Cross	Eaglehawk	[{"type":"terminate","changePoint":"Bendigo"}]	The 11:06 Southern Cross to Eaglehawk will terminate at Bendigo and no longer run to Eaglehawk.
-13:16	Eaglehawk	Southern Cross	[{"type":"originate","changePoint":"Bendigo"}]	The 13:16 Eaglehawk to Southern Cross will originate from Bendigo at 13:26 and not Eaglehawk.
-16:52	Southern Cross	Eaglehawk	[{"type":"terminate","changePoint":"Bendigo"}]	The 16:52 Southern Cross to Eaglehawk will terminate at Bendigo and no longer run to Eaglehawk
-17:26	Southern Cross	Epsom	[{"type":"terminate","changePoint":"Bendigo"}]	The 17:26 Southern Cross to Epsom will terminate at Bendigo and no longer run to Epsom
-17:26	Southern Cross	Epsom	[{"type":"terminate","changePoint":"Bendigo"}]	The 17:26 Southern Cross to Epsom will terminate at Bendigo and no longer run to Epsom
-21:07	Southern Cross	Epsom	[{"type":"terminate","changePoint":"Bendigo"}]	The 21:07 Southern Cross to Espom will terminate early at Bendigo and no longer run to Espom
-07:39	Flinders Street	Traralgon	[{"type":"terminate","changePoint":"Morwell"}]	07:39 Flinders Street to Traralgon will terminate at Morwell and no longer run to Traralgon.
-10:27	Traralgon	Southern Cross	[{"type":"originate","changePoint":"Morwell"}]	The 10:27 Traralgon to Southern Cross will originate from Morwell at 10:31 and not Traralgon.
-06:10	Bairnsdale	Southern Cross	[{"type":"terminate","changePoint":"Flinders Street"}]	The 06:10 Bairnsdale to Southern Cross will terminate at Flinders Street and no longer run to Southern Cross.
-06:10	Bairnsdale	Southern Cross	[{"type":"terminate","changePoint":"Flinders Street"}]	The 06:10 Bairnsdale to Southern Cross will terminate at Flinders Street and no longer run to Southern Cross.
-06:14	Bairnsdale	Southern Cross	[{"type":"terminate","changePoint":"Traralgon"}]	The 06:14 Bairnsdale to Southern Cross will terminate at Traralgon and no longer run to Southern Cross.
-11:06	Southern Cross	Eaglehawk	[{"type":"terminate","changePoint":"Bendigo"}]	The 11:06 Southern Cross to Eaglehawk will terminate at Bendigo and no longer run to Eaglehawk.
-06:48	Southern Cross	South Geelong	[{"type":"terminate","changePoint":"Corio"}]	The 06 : 48 Southern Cross to South Geelong will terminate at Corio and no longer run to South Geelong.
-07:05	Southern Cross	South Geelong	[{"type":"terminate","changePoint":"Lara"}]	The 07:05 Southern Cross to South Geelong will terminate at Lara and no longer run to South Geelong.
-07:29	Southern Cross	Waurn Ponds	[{"type":"terminate","changePoint":"Lara"}]	The 07:29 Southern Cross to Waurn Ponds will terminate at Lara and no longer run to Geelong.
-07:50	Southern Cross	South Geelong	[{"type":"terminate","changePoint":"Lara"}]	The 07:50 Southern Cross to South Geelong will terminate at Lara and no longer run to South Geelong.
-08:45	South Geelong	Southern Cross	[{"type":"originate","changePoint":"Lara"}]	The 08:45 South Gelong to Southern Cross will originate from Lara at 09:03 and not South Geelong.
-08:45	South Geelong	Southern Cross	[{"type":"originate","changePoint":"Lara"}]	The 08:45 South Geelong to Southern Cross will originate from Lara at 09:25 and not South Geelong.
-04:21	Traralgon	Southern Cross	[{"type":"terminate","changePoint":"Caulfield"}]	The 04:21 Traralgon to Southern Cross will terminate at Caulfield and no longer run to Southern Cross.
-05:15	Traralgon	Flinders Street	[{"type":"terminate","changePoint":"Springvale"}]	The 05:15 Traralgon to Flinders Street will terminate at Springvale and no longer run to Flinders Street.
-06:10	Bairnsdale	Southern Cross	[{"type":"terminate","changePoint":"Traralgon"}]	The 06:10 Bairnsdale to Southern Cross will terminate at Traralgon and no longer run to Southern Cross.
-05:43	Traralgon	Southern Cross	[{"type":"terminate","changePoint":"Springvale"}]	The 05:43 Traralgon to Southern Cross will terminate at Springvale and no longer run to Southern Cross.
-12:50	Shepparton	Southern Cross	[{"type":"terminate","changePoint":"Kilmore East"}]	The 12:50 Shepparton to Southern Cross will terminate early at Kilmore East and no longer run to Southern Cross.
-18:33	Southern Cross	Bairnsdale	[{"type":"terminate","changePoint":"Carnegie"}]	The 18:33 Southern Cross to Bairnsdale will terminate at Carnegie and no longer run to Bairnsdale. Customers can board the 18:45 Southern Cross to Traralgon service instead.
+17:26	Southern Cross	Epsom	[{"type":"terminate","location":"Bendigo"}]	The 17:26 Southern Cross to Epsom will terminate early at Bendigo and no longer run to Epsom.
+05:24	Waurn Ponds	Southern Cross	[{"type":"terminate","location":"Lara"}]	The 05:24 Waurn Ponds to Southern Cross will terminate early at Lara and no longer run to Southern Cross.
+04:25	Traralgon	Southern Cross	[{"type":"terminate","location":"Flinders Street"}]	The 04:25 Traralgon to Southern Cross will terminate early at Flinders Street and no longer run to Southern Cross.
+07:17	Southern Cross	Bairnsdale	[{"type":"originate","location":"Flinders Street"}]	The 07:17 Southern Cross to Bairnsdale will originate at Flinders Street and not Southern Cross.
+08:49	Geelong	Warrnambool	[{"type":"terminate","location":"Camperdown"}]	The 08:49 Geelong to Warrnambool will terminate early at Camperdown and no longer run to Warrnambool.
+13:16	Southern Cross	Wendouree	[{"type":"terminate","location":"Bacchus Marsh"}]	The 13:16 Southern Cross to Wendouree will terminate early at Bacchus Marsh and no longer Wendouree
+13:13	Southern Cross	South Geelong	[{"type":"terminate","location":"Geelong"}]	The 13:13 Southern Cross to South Geelong will terminate early at Geelong and no longer run to South Geelong.
+14:45	South Geelong	Southern Cross	[{"type":"originate","location":"Geelong"}]	The 14:45 South Geelong to Southern Cross will originate from Geelong at 14:50 and not Geelong.
+06:44	Epsom	Southern Cross	[{"type":"originate","location":"Bendigo"}]	The 06:44 Epsom to Southern Cross will originate from Bendigo at 06:53 and not Epsom.
+16:17	Southern Cross	Wendouree	[{"type":"terminate","location":"Ballarat"}]	The 16:17 Southern Cross to Wendouree will terminate at Ballarat and no longer run to Wendouree.
+11:56	Southern Cross	Wendouree	[{"type":"terminate","location":"Ballarat"}]	The 11:56 Southern Cross to Wendouree will terminate at Ballarat and no longer run to Wendouree.
+12:15	Warrnambool	Southern Cross	[{"type":"terminate","location":"Colac"}]	The 12:15 Warrnambool to Southern Cross will terminate at Colac and no longer run to Southern Cross.
+16:31	Southern Cross	Geelong	[{"type":"terminate","location":"Lara"}]	The 16:31 Southern Cross to Geelong will terminate at Lara and no longer run to Geelong.
+17:18	Southern Cross	Wendouree	[{"type":"terminate","location":"Ballarat"}]	The 17:18 Southern Cross to Wendouree will terminate at Ballarat and no longer run to Wendouree.
+17:12	Southern Cross	South Geelong	[{"type":"terminate","location":"Geelong"}]	The 17:12 Southern Cross to South Geelong will terminate at Geelong and no longer run to South Geelong.
+18:54	South Geelong	Southern Cross	[{"type":"originate","location":"Geelong"}]	The 18:54 South Geelong to Southern Cross will originate from Geelong at 19:00 and not South Geelong.
+17:32	Southern Cross	Geelong	[{"type":"terminate","location":"Geelong"}]	The 17:32 Southern Cross to Geelong will terminate at Geelong and no longer run to Geelong.
+17:32	Southern Cross	South Geelong	[{"type":"terminate","location":"Geelong"}]	The 17:32 Southern Cross to South Geelong will terminate at Geelong and no longer run to Geelong.
+17:53	Southern Cross	Waurn Ponds	[{"type":"terminate","location":"Geelong"}]	The 17:53 Southern Cross to Waurn Ponds will terminate at Geelong and no longer run to Waurn Ponds.
+05:56	Wendouree	Southern Cross	[{"type":"originate","location":"Ballarat"}]	The 05:56 Wendouree to Southern Cross will originate from Ballarat and not Wendouree today.
+10:05	South Geelong	Southern Cross	[{"type":"originate","location":"Geelong"}]	The 10:05 South Geelong to Southern Cross will originate from Geelong at 10:10 and not South Geelong.
+19:16	Southern Cross	Waurn Ponds	[{"type":"terminate","location":"Geelong"}]	The 19:16 Southern Cross to Waurn Ponds will terminate early at Geelong and no longer Waurn Ponds
+17:46	Southern Cross	Waurn Ponds	[{"type":"terminate","location":"Sunshine"}]	The 17:46 Southern Cross to Waurn Ponds will terminate early at Sunshine and no longer run to Waurn Ponds.
+04:48	Southern Cross	Waurn Ponds	[{"type":"terminate","location":"Geelong"}]	The 04:48 Southern Cross to Waurn Ponds will terminate at Geelong and no longer run to Waurn Ponds.
+06:18	Waurn Ponds	Southern Cross	[{"type":"originate","location":"Geelong"}]	The 06:18 Waurn Ponds to Southern Cross will originate from Geelong at 06:33 and not Waurn Ponds.
+21:43	Southern Cross	Seymour	[{"type":"terminate","location":"Kilmore East"}]	The 21:43 Southern Cross to Seymour will terminate early at Kilmore East and no longer Seymour.
+21:56	Seymour	Southern Cross	[{"type":"terminate","location":"Broadford"}]	The 21:56 Seymour to Southern Cross will terminate at Broadford and no longer run to Southern Cross
+06:16	Melton	Southern Cross	[{"type":"originate","location":"Caroline Springs"}]	The 06:16 Melton to Southern Cross will originate from Caroline Springs at 06:29 and not Melton.
+07:21	Waurn Ponds	Southern Cross	[{"type":"originate","location":"Geelong"}]	The 07:21 Waurn Ponds to Southern Cross will originate from Geelong at 07:36 and not Waurn Ponds.
+06:28	Southern Cross	Waurn Ponds	[{"type":"terminate","location":"Marshall"}]	The 06:28 Southern Cross to Waurn Ponds will terminate early at Marshall and no longer run to Waurn Ponds.
+08:12	Waurn Ponds	Southern Cross	[{"type":"originate","location":"Marshall"}]	The 08:12 Waurn Ponds to Southern Cross   will originate from Marshall at 08:17 and not Waurn Ponds.
+07:50	Southern Cross	South Geelong	[{"type":"terminate","location":"Geelong"}]	The 07:50 Southern Cross to South Geelong will terminate early at Geelong and no longer run to South Geelong.
+09:25	South Geelong	Southern Cross	[{"type":"originate","location":"Geelong"}]	The 09:25 South Geelong to Southern Cross will originate from Geelong at 9:30 and not South Geelong.
+08:10	Southern Cross	Waurn Ponds	[{"type":"terminate","location":"Marshall"}]	The 08:10 Southern Cross to Waurn Ponds will terminate early at Marshall and no longer run to Waurn Ponds.
+09:38	Waurn Ponds	Southern Cross	[{"type":"originate","location":"Marshall"}]	The 09:38 Waurn Ponds to Southern Cross will originate from Marshall at 09:43 and not Waurn Ponds.
+08:30	Southern Cross	South Geelong	[{"type":"terminate","location":"Geelong"}]	The 08:30 Southern Cross to South Geelong will terminate early at Geelong and no longer run to South Geelong.
+14:23	Southern Cross	Traralgon	[{"type":"terminate","location":"Warragul"}]	The 14:23 Southern Cross to Traralgon will terminate early at Warragul and no longer Traralgon
+19:16	Southern Cross	Waurn Ponds	[{"type":"terminate","location":"Geelong"}]	The 19:16 Southern Cross to Waurn Ponds will terminate early at Geelong and no longer Waurn Ponds.
+20:35	Southern Cross	Waurn Ponds	[{"type":"terminate","location":"Geelong"}]	The 20:35 Southern Cross to Waurn Ponds will terminate early at Geelong and no longer run to Waurn Ponds.
+11:16	Southern Cross	Ararat	[{"type":"terminate","location":"Ballarat"}]	The 11:16 Southern Cross to Ararat will terminate at Ballarat and no longer run to Ararat.
+14:28	Ararat	Southern Cross	[{"type":"originate","location":"Ballarat"}]	The 14:28 Ararat to Southern Cross will originate from Ballarat today.
+14:10	Southern Cross	Waurn Ponds	[{"type":"terminate","location":"Geelong"}]	The 14:10 Southern Cross to Waurn   Ponds will terminate at Geelong and no longer run to Waurn Ponds.
+15:38	Waurn Ponds	Southern Cross	[{"type":"originate","location":"Geelong"}]	The 15:38 Waurn Ponds to Southern Cross will originate from Geelong at 15:52 and not Waurn Ponds.
+07:09	Maryborough	Ballarat	[{"type":"originate","location":"Ballarat"}]	The 07:09 Maryborough   to Ballarat will originate at Ballarat at 08:20 and not Maryborough.
+08:09	Maryborough	Ballarat	[{"type":"originate","location":"Ballarat"}]	The 08:09 Maryborough to  Ballarat will originate at Ballarat at 09:20 and not Maryborough.
+07:50	Southern Cross	Waurn Ponds	[{"type":"terminate","location":"Wyndham Vale"}]	The 07:50 Southern Cross to Waurn Ponds will terminate early at Wyndham Vale and no longer run to Waurn Ponds.
+17:06	Southern Cross	Bendigo	[{"type":"terminate","location":"Sunshine"}]	The 17:06 Southern Cross to Bendigo will terminate at Sunshine and no longer run to Bendigo.
+06:01	Epsom	Southern Cross	[{"type":"originate","location":"Bendigo"}]	The 06:01 Epsom to Southern Cross will originate at Bendigo and no longer Epsom
+06:16	Ararat	Southern Cross	[{"type":"originate","location":"Wendouree"}]	The 06:16 Ararat to Southern Cross will originate at Wendouree and no longer Ararat
+11:48	Ararat	Southern Cross	[{"type":"originate","location":"Wendouree"}]	The 11:48 Ararat to Southern Cross will originate from Wendouree and no longer Ararat.
+11:58	Wendouree	Southern Cross	[{"type":"originate","location":"Ballarat"}]	The 11:58 Wendouree to Southern Cross will originate at Ballarat and no longer Wendouree.
+11:16	Southern Cross	Ararat	[{"type":"terminate","location":"Wendouree"}]	The 11:16 Southern Cross to Ararat will terminate at Wendouree and no longer Ararat.
+17:17	Ararat	Southern Cross	[{"type":"terminate","location":"Ballarat"}]	The 17:17 Ararat to Southern Cross will terminate early at Ballarat and no longer run to Southern Cross.
+07:50	Southern Cross	South Geelong	[{"type":"terminate","location":"Geelong"}]	The 07:50 Southern Cross to South Geelong will terminate early at Geelong and no longer South Geelong.
+19:28	Wendouree	Southern Cross	[{"type":"originate","location":"Ballarat"}]	The 19:28 Wendouree to Southern Cross will originate from Ballarat at 19:35 and not Wendouree.
+14:36	Southern Cross	Ararat	[{"type":"terminate","location":"Ballarat"}]	The 14:36 Southern Cross to Ararat will terminate early at Ballarat and no longer Ararat
+17:17	Ararat	Southern Cross	[{"type":"originate","location":"Ballarat"}]	The 17:17 Ararat to Southern Cross will originate at Ballarat and no longer Ararat
+21:43	Southern Cross	Seymour	[{"type":"terminate","location":"Broadmeadows"}]	The 21:43 Southern Cross to Seymour will terminate at Broadmeadows and no longer run to Seymour.
+16:39	Southern Cross	Wendouree	[{"type":"terminate","location":"Ballan"}]	The 16:39 Southern Cross to Wendouree will terminate early at Ballan and no longer run to Wendouree.
+20:25	Southern Cross	Epsom	[{"type":"terminate","location":"Bendigo"}]	The 20:25 Southern Cross to Epsom will terminate at Bendigo and no longer run to Epsom.
+07:15	Echuca	Southern Cross	[{"type":"originate","location":"Bendigo"}]	The 07:15 Echuca to Southern Cross will originate from Bendigo today.
+06:20	Wendouree	Southern Cross	[{"type":"originate","location":"Ballarat"}]	The 06:20 Wendouree to Southern Cross will originate at Ballarat and no longer Wendouree.
+15:44	Wendouree	Southern Cross	[{"type":"originate","location":"Ballarat"}]	The   15:44 Wendouree to Southern Cross will originate at Ballarat.
+08:08	Bacchus Marsh	Southern Cross	[{"type":"terminate","location":"Caroline Springs"}]	The 08:08 Bacchus Marsh to Southern Cross will terminate early at Caroline Springs and no longer run to Southern Cross.
+17:26	Southern Cross	Epsom	[{"type":"terminate","location":"Bendigo"}]	The 17:26 Southern Cross to Epsom will terminate early at Bendigo.
+05:17	Bendigo	Southern Cross	[{"type":"terminate","location":"Sunshine"}]	The 05:17   Bendigo to Southern Cross will terminate early at Sunshine and no longer Southern Cross
+05:17	Bendigo	Southern Cross	[{"type":"terminate","location":"Sunshine"}]	The 05:17 Bendigo to Southern Cross will terminate early at Sunshine and no longer Southern Cross.
+06:01	Epsom	Southern Cross	[{"type":"originate","location":"Bendigo"}]	The 06:01 Epsom to Southern Cross will originate at Bendigo at 06:10 today and not Epsom.
+07:09	Maryborough	Southern Cross	[{"type":"originate","location":"Ballarat"}]	The 07:09 Maryborough to Southern Cross will originate at Ballarat and no longer Maryborough
+12:17	Epsom	Southern Cross	[{"type":"originate","location":"Bendigo"}]	The 12:17 Epsom to Southern Cross will originate from Bendigo at 12:26 and not Epsom.
+13:06	Southern Cross	Epsom	[{"type":"terminate","location":"Bendigo"}]	The 13:06 Southern Cross to Epsom will terminate at Bendigo and no longer run to Epsom.
+15:17	Epsom	Southern Cross	[{"type":"originate","location":"Bendigo"}]	The 15:17 Epsom to Southern Cross will originate from Bendigo at 15:26 and not Epsom.
+16:06	Southern Cross	Bendigo	[{"type":"terminate","location":"Castlemaine"}]	The 16:06 Southern Cross to Bendigo will terminate at Castlemaine and no longer run to Bendigo.
+18:29	Bendigo	Southern Cross	[{"type":"originate","location":"Castlemaine"}]	The 18:29 Bendigo to Southern Cross will originate from Castlemaine at 18:52 and not Bendigo.
+11:06	Southern Cross	Eaglehawk	[{"type":"terminate","location":"Bendigo"}]	The 11:06 Southern Cross to Eaglehawk will terminate at Bendigo and no longer run to Eaglehawk.
+13:16	Eaglehawk	Southern Cross	[{"type":"originate","location":"Bendigo"}]	The 13:16 Eaglehawk to Southern Cross will originate from Bendigo at 13:26 and not Eaglehawk.
+16:41	Southern Cross	Melton	[{"type":"terminate","location":"Footscray"}]	The 16:41 Southern Cross to Melton will terminate early at Footscray and no longer run to Melton.
+17:38	Southern Cross	Wendouree	[{"type":"terminate","location":"Ballarat"}]	The 17:38 Southern Cross to Wendouree will terminate at Ballarat and no longer run to Wendouree.
+19:28	Wendouree	Southern Cross	[{"type":"originate","location":"Ballarat"}]	The 19:28 Wendouree to Southern Cross will originate from Ballarat at 19:35 and not Wendouree.
+00:15	Southern Cross	Geelong	[{"type":"terminate","location":"Footscray"}]	The 00:15 Southern Cross to Geelong will terminate early at Footscray and no longer run to Geelong.
+07:09	Maryborough	Southern Cross	[{"type":"originate","location":"Ballarat"}]	The 07:09 Maryborough to Southern Cross will originate from Ballarat at 08:19 and not Maryborough.
+05:16	Shepparton	Southern Cross	[{"type":"terminate","location":"Seymour"}]	The 05:16 Shepparton to Southern Cross will terminate at Seymour.
+06:16	Ararat	Southern Cross	[{"type":"terminate","location":"Wendouree"}]	The 06:16 Ararat to Southern Cross will terminate early at Wendouree and no longer Southern Cross
+13:06	Southern Cross	Epsom	[{"type":"terminate","location":"Bendigo"}]	The 13:06 Southern Cross to Epsom is delayed 20 minutes and will terminate at Bendigo today.
+15:17	Epsom	Southern Cross	[{"type":"originate","location":"Bendigo"}]	The 15:17 Epsom to Southern Cross will originate from Bendigo at 15:26 and not Epsom.
+07:09	Maryborough	Southern Cross	[{"type":"originate","location":"Ballarat"}]	The 07:09 Maryborough to Southern Cross will originate from Ballarat at 08:20 and not Maryborough.
+22:56	Southern Cross	Wendouree	[{"type":"terminate","location":"Cobblebank"}]	The 22:56 Southern Cross to Wendouree will terminate early at Cobblebank and no longer run to Wendouree.
+14:23	Southern Cross	Traralgon	[{"type":"terminate","location":"Morwell"}]	The 14:23 Southern Cross to Traralgon will terminate at Morwell and no longer run to Traralgon.
+17:20	Traralgon	Southern Cross	[{"type":"originate","location":"Morwell"}]	The 17:20 Traralgon to Southern Cross will originate from Morwell at 17:28 and not Traralgon.
+18:47	Wendouree	Southern Cross	[{"type":"originate","location":"Ballarat"}]	The 18:47 Wendouree to Southern Cross will originate from Ballarat at 18:54 and not Wendouree.
+15:24	Southern Cross	Traralgon	[{"type":"terminate","location":"Morwell"}]	The 15:24 Southern Cross to Traralgon will terminate at Morwell and no longer run to Traralgon.
+17:20	Traralgon	Southern Cross	[{"type":"originate","location":"Morwell"}]	The 17:20 Traralgon to Southern Cross will originate from Morwell at 17:28 and not Traralgon.
+18:07	Traralgon	Southern Cross	[{"type":"originate","location":"Morwell"}]	The 18:07 Traralgon to Southern Cross will originate from Morwell at 17:28 and not Traralgon.
+18:07	Traralgon	Southern Cross	[{"type":"originate","location":"Morwell"}]	The 18:07 Traralgon to Southern Cross will originate from Morwell at 17:28 and not Traralgon.
+06:14	Bairnsdale	Southern Cross	[{"type":"originate","location":"Traralgon"}]	The 06:14 Bairnsdale to Southern Cross will originate from Traralgon at 07:46 and not Bairnsdale.
+06:20	Eaglehawk	Southern Cross	[{"type":"originate","location":"Bendigo"}]	The 06:20 Eaglehawk to Southern Cross will originate from Bendigo at 06:30 and not Eaglehawk.
+10:06	Southern Cross	Epsom	[{"type":"terminate","location":"Bendigo"}]	The 10:06 Southern Cross to Epsom will terminate early at Bendigo and no longer run to Epsom.
+10:06	Southern Cross	Epsom	[{"type":"terminate","location":"Bendigo"}]	The 10:06 Southern Cross to Epsom will terminate early at Bendigo and no longer run to Epsom
+12:17	Epsom	Southern Cross	[{"type":"originate","location":"Bendigo"}]	The 12:17 Epsom to Southern Cross will originate from Bendigo at 12:26 and not Epsom.
+04:48	Southern Cross	Geelong	[{"type":"terminate","location":"Wyndham Vale"}]	The 04:48 Southern Cross to Geelong will terminate early at Wyndham Vale and no longer run to Geelong.
+05:06	Geelong	Southern Cross	[{"type":"originate","location":"Wyndham Vale"}]	The 05:06 Geelong to Southern Cross will originate from Wyndham Vale at 05:35 and not Geelong.
+07:20	Melton	Southern Cross	[{"type":"originate","location":"Caroline Springs"}]	The 07:20 Melton to Southern Cross will originate from Caroline Springs at 07:31 and not Melton.
+19:53	Seymour	Southern Cross	[{"type":"terminate","location":"Craigieburn"}]	The 19:53 Seymour to Southern Cross will terminate at Craigieburn and no longer run to Southern Cross.
+05:16	Shepparton	Southern Cross	[{"type":"terminate","location":"Seymour"}]	The 05:16 Shepparton to Southern Cross will terminate early at Seymour and no longer run to Southern Cross.
+10:06	Southern Cross	Epsom	[{"type":"terminate","location":"Bendigo"}]	The 10:06 Southern Cross to Epsom will terminate early at Bendigo and no longer run to Epsom.
+12:17	Bendigo	Southern Cross	[{"type":"originate","location":"Bendigo"}]	The 12:17 Bendigo to Southern Cross will originate from Bendigo at 12:26 and not Epsom.
+12:36	Southern Cross	Shepparton	[{"type":"terminate","location":"Seymour"}]	The 12:36 Southern Cross to Shepparton will terminate early at Seymour and no longer run to Shepparton.
+16:08	Shepparton	Southern Cross	[{"type":"originate","location":"Seymour"}]	The 16:08 Shepparton to Southern Cross will originate from Seymour at 17:16 and not Shepparton.
+13:16	Southern Cross	Wendouree	[{"type":"terminate","location":"Ballarat"}]	The 13:16 Southern Cross to Wendouree will terminate early at Ballarat and no longer run to Wendouree.
+16:40	Wendouree	Southern Cross	[{"type":"originate","location":"Ballarat"}]	The 16:40 Wendouree to Southern Cross will originate from Ballarat at 16:44 and not Wendouree.
+16:39	Southern Cross	Wendouree	[{"type":"terminate","location":"Ballarat"}]	The 16:39 Southern Cross to Wendouree will terminate at Ballarat and no longer run to Wendouree.
+12:57	Shepparton	Southern Cross	[{"type":"originate","location":"Seymour"}]	The 12:57 Shepparton to Southern Cross will originate from Seymour at 14:05 and not Shepparton.
+10:06	Southern Cross	Bendigo	[{"type":"terminate","location":"Bendigo"}]	The 10:06 Southern Cross to Bendigo will terminate early at Bendigo and no longer run to Epsom.
+12:17	Epsom	Southern Cross	[{"type":"originate","location":"Bendigo"}]	The 12 :17 Epsom to Southern Cross will originate from Bendigo at 12:26 and not Epsom.
+13:06	Southern Cross	Epsom	[{"type":"terminate","location":"Bendigo"}]	The 13:06 Southern Cross to Epsom will terminate at Bendigo.
+15:17	Epsom	Southern Cross	[{"type":"originate","location":"Bendigo"}]	The 15:17 Epsom to Southen Cross will originate from Bendigo at 15:26 and not Epsom.
+16:39	Southern Cross	Wendouree	[{"type":"terminate","location":"Ballarat"}]	The 16:39 Southern Cross to Wendouree will terminate at Ballarat and no longer run to Wendouree.
+16:29	Southern Cross	Epsom	[{"type":"terminate","location":"Bendigo"}]	The 16:29 Southern Cross to Epsom will terminate at Bendigo and no longer run to Epsom.
+18:50	Epsom	Southern Cross	[{"type":"originate","location":"Bendigo"}]	The 18:50 Epsom to Southern Cross will originate from Bendigo at 19:01 and not Epsom.
+06:14	Bairnsdale	Southern Cross	[{"type":"terminate","location":"Yarragon"}]	The 06:14 Bairnsdale to Southern Cross will terminate early at Yarragon and no longer run to Southern Cross.
+09:56	Southern Cross	Wendouree	[{"type":"terminate","location":"Caroline Springs"}]	The 09:56 Southern Cross to Wendouree will terminate early at Caroline Springs and no longer run to Wendouree.
+17:20	Traralgon	Southern Cross	[{"type":"terminate","location":"Flinders Street"}]	The 17:20 Traralgon to Southern Cross will terminate at Flinders Street and no longer Southern Cross
+18:18	Southern Cross	Ararat	[{"type":"terminate","location":"Ballarat"}]	The 18:18 Southern Cross to Ararat will terminate at Ballarat and no longer run to Ararat.
+16:17	Southern Cross	Wendouree	[{"type":"terminate","location":"Ballarat"}]	The 16:17 Southern Cross to Wendouree will terminate at Ballarat and no longer run to Wendouree.
+21:07	Southern Cross	Eaglehawk	[{"type":"terminate","location":"Bendigo"}]	The 21:07 Southern Cross to Eaglehawk will terminate at Bendigo and no longer run to Eaglehawk.
+20:35	Southern Cross	Geelong	[{"type":"terminate","location":"Sunshine"}]	The 20:35 Southern Cross to Geelong will terminate at Sunshine and no longer Geelong
+18:33	Southern Cross	Bairnsdale	[{"type":"terminate","location":"Sale"}]	The 18:33 Southern Cross to Bairnsdale will terminate early at Sale and no longer Bairnsdale
+14:14	Wendouree	Southern Cross	[{"type":"originate","location":"Ballarat"}]	The 14:14 Wendouree to Southern Cross will originate from Ballarat at 14:20 and not Wendouree.
+16:52	Southern Cross	Eaglehawk	[{"type":"terminate","location":"Bendigo"}]	The 16:52 Southern Cross to Eaglehawk will terminate early at Bendigo and no longer run to Eaglehawk.
+16:49	Southern Cross	South Geelong	[{"type":"terminate","location":"Geelong"}]	The 16:49 Southern Cross to South Geelong will terminate at Geelong and no longer run to South Geelong.
+18:07	South Geelong	Southern Cross	[{"type":"originate","location":"Geelong"}]	The 18:07 South Geelong to Southern Cross will originate from Geelong at 18:12 and not South Geelong.
+17:53	Southern Cross	Waurn Ponds	[{"type":"terminate","location":"Geelong"}]	17:53 Southern Cross to Waurn Ponds will terminate at Geelong and not Waurn Ponds.
+18:56	Southern Cross	South Geelong	[{"type":"terminate","location":"Geelong"}]	The 18:56 Southern Cross to South Geelong will terminate at Geelong and not South Geelong.
+05:36	Eaglehawk	Southern Cross	[{"type":"originate","location":"Bendigo"}]	The 05:36 Eaglehawk to Southern Cross will originate from Bendigo
+06:54	Swan Hill	Southern Cross	[{"type":"originate","location":"Bendigo"}]	The 06:54 Swan Hill to Southern Cross will originate at Bendigo at 09:20 and not Swan Hill.
+13:50	Southern Cross	South Geelong	[{"type":"terminate","location":"Geelong"}]	The 13:50 Southern Cross to South Geelong will terminate at Geelong and no longer run to South Geelong
+17:18	Southern Cross	Wendouree	[{"type":"terminate","location":"Ballarat"}]	The 17:18 Southern Cross to Wendouree will terminate at Ballarat and no longer run to Wendouree
+19:12	Southern Cross	Warrnambool	[{"type":"terminate","location":"Waurn Ponds"}]	The 19:12 Southern Cross to Warrnambool will terminate early at Waurn Ponds and no longer run to Warnambool
+06:12	Warrnambool	Southern Cross	[{"type":"originate","location":"Geelong"}]	The 06:12 Warrnambool to Southern Cross will originate at Geelong at 08:39
+06:12	Warrnambool	Southern Cross	[{"type":"originate","location":"Geelong"}]	The 06:12 Warrnambool to Southern Cross will originate at Geelong at 08:39
+14:58	Waurn Ponds	Southern Cross	[{"type":"originate","location":"Marshall"}]	The 14:58 Waurn Ponds to Southern Cross will originate from Marshall at 15:03
+16:49	Southern Cross	South Geelong	[{"type":"terminate","location":"Geelong"}]	The 16:49 Southern Cross to South Geelong will terminate early at Geelong
+18:07	South Geelong	Southern Cross	[{"type":"originate","location":"Geelong"}]	The 18:07 South Geelong to Southern Cross will originate from Geelong at 18:12
+18:07	South Geelong	Southern Cross	[{"type":"originate","location":"Geelong"}]	The 18:07 South Geelong to Southern Cross will originate from Geelong at 18:12
+18:07	South Geelong	Southern Cross	[{"type":"originate","location":"Geelong"}]	The 18:07 South Geelong to Southern Cross will originate from Geelong at 18:12
+16:29	Southern Cross	Epsom	[{"type":"terminate","location":"Bendigo"}]	The 16:29 Southern Cross to Epsom will terminate at Bendigo and no longer run to Epsom.
+15:30	Southern Cross	Waurn Ponds	[{"type":"terminate","location":"Geelong"}]	The 15.30 Southern Cross to Waurn Ponds will terminate at Geelong and no longer run to Waurn Ponds.
+20:07	Wendouree	Southern Cross	[{"type":"originate","location":"Bacchus March"}]	The 20:07 Wendouree to Southern cross will originate from Bacchus March at 20:54 and not Wendouree
+09:58	Wendouree	Southern Cross	[{"type":"originate","location":"Ballarat"}]	The 09:58 Wendouree to Southern Cross will originate from Ballarat at 10:04 and not Wendouree.
+07:39	Flinders Street	Traralgon	[{"type":"terminate","location":"Morwell"}]	The 07:39 Flinders Street to Traralgon will terminate at Morwell and no longer run to Traralgon.
+10:23	Traralgon	Southern Cross	[{"type":"originate","location":"Morwell"}]	The 10:23 Traralgon to Southern Cross will originate from Morwell at 10:31 and not Traralgon.
+10:10	Southern Cross	Marshall	[{"type":"terminate","location":"Geelong"}]	The 10:10 Southern Cross to Marshall will terminate at Geelong and no longer run to Marshall.
+11:49	Marshall	Southern Cross	[{"type":"originate","location":"Geelong"}]	The 11:49 Marshall to Southern Cross will originate from Geelong at 11:58 and not Marshall.
+10:36	Southern Cross	Wendouree	[{"type":"terminate","location":"Ballarat"}]	The 10:36 Southern Cross to Wendouree will terminate at Ballarat and no longer run to Wendouree.
+13:50	Southern Cross	South Geelong	[{"type":"terminate","location":"Geelong"}]	The 13:50 Southern Cross to South Geelong will terminate at Geelong and no longer run to South Geelong.
+15:25	South Geelong	Southern Cross	[{"type":"originate","location":"Geelong"}]	The 15:25 South Geelong to Southern Cross will originate from Geelong at 15:30 and not South Geelong.
+15:24	Southern Cross	Traralgon	[{"type":"terminate","location":"Morwell"}]	The 15:24 Southern Cross to Traralgon will terminate at Morwell and no longer run to Traralgon.
+18:07	Traralgon	Southern Cross	[{"type":"originate","location":"Morwell"}]	The 18:07 Traralgon to Southern Cross will originate from Morwell at 18:15 and not Traralgon.
+18:48	Southern Cross	Wendouree	[{"type":"terminate","location":"Ballarat"}]	The 18:48 Southern Cross to Wendouree will terminate at Ballarat
+20:47	Wendouree	Southern Cross	[{"type":"originate","location":"Ballarat"}]	The 20:47 Wendouree to Southern Cross will now originate out of Ballarat at 20:54
+17:18	Southern Cross	Wendouree	[{"type":"terminate","location":"Ballarat"}]	The 17:18 Southern Cross to Wendouree will terminate early at Ballarat and no longer run to Wendouree
+05:36	Eaglehawk	Southern Cross	[{"type":"originate","location":"Bendigo"}]	The 05:36 Eaglehawk to Southern Cross will originate from Bendigo
+11:06	Southern Cross	Eaglehawk	[{"type":"terminate","location":"Bendigo"}]	The 11:06 Southern Cross to Eaglehawk will terminate at Bendigo and no longer run to Eaglehawk.
+13:16	Eaglehawk	Southern Cross	[{"type":"originate","location":"Bendigo"}]	The 13:16 Eaglehawk to Southern Cross will originate from Bendigo at 13:26 and not Eaglehawk.
+16:52	Southern Cross	Eaglehawk	[{"type":"terminate","location":"Bendigo"}]	The 16:52 Southern Cross to Eaglehawk will terminate at Bendigo and no longer run to Eaglehawk
+17:50	Epsom	Southern Cross	[{"type":"terminate","location":"Bendigo"}]	The 17:50 Epsom to Southern Cross is cancelled between Epsom and Bendigo today.
+17:26	Southern Cross	Epsom	[{"type":"terminate","location":"Bendigo"}]	The 17:26 Southern Cross to Epsom is cancelled between Bendigo and Epsom tonight.
+17:26	Southern Cross	Epsom	[{"type":"terminate","location":"Bendigo"}]	The 17:26 Southern Cross to Epsom will terminate at Bendigo and no longer run to Epsom
+21:07	Southern Cross	Epsom	[{"type":"terminate","location":"Bendigo"}]	The 21:07 Southern Cross to Espom will terminate early at Bendigo and no longer run to Espom
+07:39	Flinders Street	Traralgon	[{"type":"terminate","location":"Morwell"}]	07:39 Flinders Street to Traralgon will terminate at Morwell and no longer run to Traralgon.
+10:27	Traralgon	Southern Cross	[{"type":"originate","location":"Morwell"}]	The 10:27 Traralgon to Southern Cross will originate from Morwell at 10:31 and not Traralgon.
+06:10	Bairnsdale	Southern Cross	[{"type":"terminate","location":"Flinders Street"}]	The 06:10 Bairnsdale to Southern Cross will terminate at Flinders Street and no longer run to Southern Cross.
+06:10	Bairnsdale	Southern Cross	[{"type":"terminate","location":"Flinders Street"}]	The 06:10 Bairnsdale to Southern Cross will terminate at Flinders Street and no longer run to Southern Cross.
+06:14	Bairnsdale	Southern Cross	[{"type":"terminate","location":"Traralgon"}]	The 06:14 Bairnsdale to Southern Cross will terminate at Traralgon and no longer run to Southern Cross.
+11:06	Southern Cross	Eaglehawk	[{"type":"terminate","location":"Bendigo"}]	The 11:06 Southern Cross to Eaglehawk will terminate at Bendigo and no longer run to Eaglehawk.
+06:48	Southern Cross	South Geelong	[{"type":"terminate","location":"Corio"}]	The 06 : 48 Southern Cross to South Geelong will terminate at Corio and no longer run to South Geelong.
+07:05	Southern Cross	South Geelong	[{"type":"terminate","location":"Lara"}]	The 07:05 Southern Cross to South Geelong will terminate at Lara and no longer run to South Geelong.
+07:29	Southern Cross	Waurn Ponds	[{"type":"terminate","location":"Lara"}]	The 07:29 Southern Cross to Waurn Ponds will terminate at Lara and no longer run to Geelong.
+07:50	Southern Cross	South Geelong	[{"type":"terminate","location":"Lara"}]	The 07:50 Southern Cross to South Geelong will terminate at Lara and no longer run to South Geelong.
+08:45	South Geelong	Southern Cross	[{"type":"originate","location":"Lara"}]	The 08:45 South Gelong to Southern Cross will originate from Lara at 09:03 and not South Geelong.
+08:45	South Geelong	Southern Cross	[{"type":"originate","location":"Lara"}]	The 08:45 South Geelong to Southern Cross will originate from Lara at 09:25 and not South Geelong.
+04:21	Traralgon	Southern Cross	[{"type":"terminate","location":"Caulfield"}]	The 04:21 Traralgon to Southern Cross will terminate at Caulfield and no longer run to Southern Cross.
+05:15	Traralgon	Flinders Street	[{"type":"terminate","location":"Springvale"}]	The 05:15 Traralgon to Flinders Street will terminate at Springvale and no longer run to Flinders Street.
+06:10	Bairnsdale	Southern Cross	[{"type":"terminate","location":"Traralgon"}]	The 06:10 Bairnsdale to Southern Cross will terminate at Traralgon and no longer run to Southern Cross.
+05:43	Traralgon	Southern Cross	[{"type":"terminate","location":"Springvale"}]	The 05:43 Traralgon to Southern Cross will terminate at Springvale and no longer run to Southern Cross.
+12:50	Shepparton	Southern Cross	[{"type":"terminate","location":"Kilmore East"}]	The 12:50 Shepparton to Southern Cross will terminate early at Kilmore East and no longer run to Southern Cross.
+18:33	Southern Cross	Bairnsdale	[{"type":"terminate","location":"Carnegie"}]	The 18:33 Southern Cross to Bairnsdale will terminate at Carnegie and no longer run to Bairnsdale. Customers can board the 18:45 Southern Cross to Traralgon service instead.
+05:15	Traralgon	Flinders Street	[{"type":"terminate","location":"Springvale"}]	The 05:15 Traralgon to Flinders Street will originate late from Warragul and terminate at Pakenham today.

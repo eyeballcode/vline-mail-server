@@ -1108,3 +1108,5 @@ REDUCTION	The 14:36 Southern Cross to Seymour service will run at a reduced capa
 CHANGED	The 12:50 Shepparton to Southern Cross will terminate early at Kilmore East and no longer run to Southern Cross.
 NO_BUFFET	The 18:33 Southern Cross to Bairnsdale service will operate without Cafe Bar facilities between Southern Cross & Warragul today.
 CHANGED	The 18:33 Southern Cross - Bairnsdale service will terminate at Carnegie and no longer run to Bairnsdale due to a police operation.
+CANCELLED	The 11:52 SCS - Seymour service will not run due to a train fault. Customers travelling to Seymour may consider the following 12:05 SCS - Alburv service. Customers travelling between Southern Cross and Seymour mav speak with station staff for alternate transport.
+CHANGED	The 17:26 Southern Cross to Epsom is cancelled between Bendigo and Epsom tonight.
