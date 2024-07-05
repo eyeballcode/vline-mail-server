@@ -183,4 +183,4 @@
 06:10	Bairnsdale	Southern Cross	[{"type":"terminate","changePoint":"Traralgon"}]	The 06:10 Bairnsdale to Southern Cross will terminate at Traralgon and no longer run to Southern Cross.
 05:43	Traralgon	Southern Cross	[{"type":"terminate","changePoint":"Springvale"}]	The 05:43 Traralgon to Southern Cross will terminate at Springvale and no longer run to Southern Cross.
 12:50	Shepparton	Southern Cross	[{"type":"terminate","changePoint":"Kilmore East"}]	The 12:50 Shepparton to Southern Cross will terminate early at Kilmore East and no longer run to Southern Cross.
-18:33	Southern Cross	Bairnsdale	[{"type":"terminate","changePoint":"Carnegie"}]	The 18:33 Southern Cross to Bairnsdale will terminate at Carnegie and no longer run to Bairnsdale
+18:33	Southern Cross	Bairnsdale	[{"type":"terminate","changePoint":"Carnegie"}]	The 18:33 Southern Cross to Bairnsdale will terminate at Carnegie and no longer run to Bairnsdale. Customers can board the 18:45 Southern Cross to Traralgon service instead.
