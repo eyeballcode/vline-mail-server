@@ -81,7 +81,7 @@
 07:09	Maryborough	Southern Cross	[{"type":"originate","location":"Ballarat"}]	The 07:09 Maryborough to Southern Cross will originate from Ballarat at 08:19 and not Maryborough.
 05:16	Shepparton	Southern Cross	[{"type":"terminate","location":"Seymour"}]	The 05:16 Shepparton to Southern Cross will terminate at Seymour.
 06:16	Ararat	Southern Cross	[{"type":"terminate","location":"Wendouree"}]	The 06:16 Ararat to Southern Cross will terminate early at Wendouree and no longer Southern Cross
-13:06	Southern Cross	Epsom	[{"type":"terminate","location":"Bendigo"}]	The 13:06 Southern Cross to Epsom is delayed 20 minutes and will terminate at Bendigo today.
+13:06	Southern Cross	Epsom	[{"type":"terminate","location":"Bendigo"},{"type":"delay","delayType":"minutes","value":20}]	The 13:06 Southern Cross to Epsom is delayed 20 minutes and will terminate at Bendigo today.
 15:17	Epsom	Southern Cross	[{"type":"originate","location":"Bendigo"}]	The 15:17 Epsom to Southern Cross will originate from Bendigo at 15:26 and not Epsom.
 07:09	Maryborough	Southern Cross	[{"type":"originate","location":"Ballarat"}]	The 07:09 Maryborough to Southern Cross will originate from Ballarat at 08:20 and not Maryborough.
 22:56	Southern Cross	Wendouree	[{"type":"terminate","location":"Cobblebank"}]	The 22:56 Southern Cross to Wendouree will terminate early at Cobblebank and no longer run to Wendouree.
