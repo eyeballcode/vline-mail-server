@@ -8,6 +8,7 @@ import vlineStations from './training-messages/vline-stations.json' assert { typ
 import lineStops from './training-messages/line-stops.json' assert { type: 'json' }
 import identifyService, { removeServiceData } from '../lib/parsers/identify-service.mjs'
 import identifyDelay from '../lib/parsers/identify-delay.mjs'
+import VLineMailServer from '../lib/index.mjs'
 
 const __filename = url.fileURLToPath(import.meta.url)
 const __dirname = path.dirname(__filename)
@@ -15,6 +16,28 @@ const __dirname = path.dirname(__filename)
 const sampleMessages = (await fs.readFile(path.join(__dirname, 'training-messages', 'delays.txt'))).toString().split('\n')
 
 describe('The service delay function', () => {
+  it('Correctly identifies the origin, destination and departure time on the test data', () => {
+    sampleMessages.forEach(message => {
+      let [classification, value, text] = message.split('\t')
+      let processedText = VLineMailServer.processMessage(text)
+      let serviceData = identifyService(processedText, { vlineStations })
+      let changeText = removeServiceData(processedText, serviceData)
+
+      // In practice we could match the trip first (but this hacky method works too 🤷)
+      let line = Object.keys(lineStops).find(line => {
+        let stops = lineStops[line]
+        return stops.includes(serviceData.origin) && stops.includes(serviceData.destination)
+      })
+
+      let delay = identifyDelay(changeText, {
+        ...serviceData,
+        line
+      }, { vlineStations, lineStops })
+
+      expect(delay[0].value.toString(), text).to.deep.equal(value)
+    })
+  })
+
   it('Should identify the service delay in minutes', () => {
     let text = 'The 07:54 Southern Cross to Bairnsdale service is delayed 30 minutes.'
     let serviceData = identifyService(text, { vlineStations })
