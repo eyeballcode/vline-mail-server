@@ -65,5 +65,18 @@ describe('The service delay function', () => {
     expect(changes[0].delayType).to.equal('held')
     expect(changes[0].value).to.equal('Shepparton')
   })
+
+  it('Should be able to handle typos in the location name', () => {
+    let text = 'The 05:09 Shepparton to Southern Cross service is being held at Roxburgh Pakr due to a police operation.'
+    let serviceData = identifyService(text, { vlineStations })
+    let changeText = removeServiceData(text, serviceData)
+
+    let changes = identifyDelay(changeText, {
+      ...serviceData,
+      line: 'Shepparton'
+    }, { lineStops })
+
+    expect(changes[0].value).to.equal('Roxburgh Park')
+  })
 })
 
