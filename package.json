@@ -15,6 +15,8 @@
   "dependencies": {
     "cheerio": "^1.0.0-rc.12",
     "fastest-levenshtein": "^1.0.16",
-    "node-mailin": "github:eyeballcode/node-mailin"
+    "mailparser": "^3.7.1",
+    "memory-streams": "^0.1.3",
+    "smtp-server": "^3.13.4"
   }
 }
