@@ -7,11 +7,11 @@ import url from 'url'
 const __filename = url.fileURLToPath(import.meta.url)
 const __dirname = path.dirname(__filename)
 
-const sampleAlteration = await fs.readFile(path.join(__dirname, 'sample-emails', 'alteration.html'))
-const sampleCancellation = await fs.readFile(path.join(__dirname, 'sample-emails', 'cancellation.html'))
-const sampleDelay = await fs.readFile(path.join(__dirname, 'sample-emails', 'delay.html'))
-const sampleWorks = await fs.readFile(path.join(__dirname, 'sample-emails', 'works-alert.html'))
-const sampleExtraBracket = await fs.readFile(path.join(__dirname, 'sample-emails', 'extra-bracket.html'))
+const sampleAlteration = (await fs.readFile(path.join(__dirname, 'sample-emails', 'alteration.html'))).toString()
+const sampleCancellation = (await fs.readFile(path.join(__dirname, 'sample-emails', 'cancellation.html'))).toString()
+const sampleDelay = (await fs.readFile(path.join(__dirname, 'sample-emails', 'delay.html'))).toString()
+const sampleWorks = (await fs.readFile(path.join(__dirname, 'sample-emails', 'works-alert.html'))).toString()
+const sampleExtraBracket = (await fs.readFile(path.join(__dirname, 'sample-emails', 'extra-bracket.html'))).toString()
 
 describe('The V/Line Inform Mail Server', () => {
   it('Should validate emails sent to it based on the To address', () => {
@@ -21,12 +21,12 @@ describe('The V/Line Inform Mail Server', () => {
 
     server.setAddressValidator(address => address === 'test@example.com')
     
-    server.onValidateRecipient(null, 'not-test@example.com', callback)
+    server.onValidateRecipient({ address: 'not-test@example.com' }, null, callback)
     expect(response).to.not.be.null
     expect(response.responseCode).to.equal(550)
     expect(response.message).to.equal('5.1.1 <not-test@example.com>: Requested action not taken: mailbox unavailable')
 
-    server.onValidateRecipient(null, 'test@example.com', callback)
+    server.onValidateRecipient({ address: 'test@example.com' }, null, callback)
     expect(response).to.be.undefined
   })
 
