@@ -7,11 +7,11 @@ import url from 'url'
 const __filename = url.fileURLToPath(import.meta.url)
 const __dirname = path.dirname(__filename)
 
-const sampleAlteration = (await fs.readFile(path.join(__dirname, 'sample-emails', 'alteration.html'))).toString()
-const sampleCancellation = (await fs.readFile(path.join(__dirname, 'sample-emails', 'cancellation.html'))).toString()
-const sampleDelay = (await fs.readFile(path.join(__dirname, 'sample-emails', 'delay.html'))).toString()
-const sampleWorks = (await fs.readFile(path.join(__dirname, 'sample-emails', 'works-alert.html'))).toString()
-const sampleExtraBracket = (await fs.readFile(path.join(__dirname, 'sample-emails', 'extra-bracket.html'))).toString()
+const sampleAlteration = (await fs.readFile(path.join(__dirname, 'sample-emails-data', 'alteration.html'))).toString()
+const sampleCancellation = (await fs.readFile(path.join(__dirname, 'sample-emails-data', 'cancellation.html'))).toString()
+const sampleDelay = (await fs.readFile(path.join(__dirname, 'sample-emails-data', 'delay.html'))).toString()
+const sampleWorks = (await fs.readFile(path.join(__dirname, 'sample-emails-data', 'works-alert.html'))).toString()
+const sampleExtraBracket = (await fs.readFile(path.join(__dirname, 'sample-emails-data', 'extra-bracket.html'))).toString()
 
 describe('The V/Line Inform Mail Server', () => {
   it('Should validate emails sent to it based on the To address', () => {

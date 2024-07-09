@@ -1,0 +1,142 @@
+Delivered-To: vline@example.com
+Received: by 2002:a05:7208:458f:b0:89:3c71:bba8 with SMTP id dh15csp1091384rbb;
+        Mon, 8 Jul 2024 22:49:10 -0700 (PDT)
+X-Google-Smtp-Source: AGHT+IG3gsxZhMWPCor0iQ9m2xJXb33s4+BgsN3iWGM0vM6jHlUHV0Jqbn6EAMRHe8zhZ8EbSmbv
+X-Received: by 2002:a05:6a20:9145:b0:1c0:e85b:4e00 with SMTP id adf61e73a8af0-1c2984f1c40mr1681094637.5.1720504150112;
+        Mon, 08 Jul 2024 22:49:10 -0700 (PDT)
+ARC-Seal: i=1; a=rsa-sha256; t=1720504150; cv=none;
+        d=google.com; s=arc-20160816;
+        b=Z48RTNIID+jMD05syEtvGEmpGcERUrMFNhkvhQ+sDjyXrbYFXHdXZqaPkj+T69RkXD
+         592Mf0Ynv8bb/8sHh9HTowAmE8jdAEI55zPe5p/NAijdGh4kl31dHoXyucA7nqYiWbeL
+         8n6fz+Yv99sSwuY675yTEkdNzvkFU6qFYPW1MSf42rIxB4YIfQmqAPBsCxFJyK7VHRCG
+         Xf4QCV1kcrT03HMrMTqJCsuqxWlnr1qwr1S1As38eE43bNUdHrQsGcKxGN7NJK/85RNP
+         bGa+L6YeAQu+3z3seA1TqbJsehku+qBdy+SujyQF6rBPyUt0MmDy6n7sJFHhqmrVfBOh
+         T/pw==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20160816;
+        h=feedback-id:mime-version:subject:message-id:to:reply-to:from:date
+         :dkim-filter:dkim-signature:dkim-signature;
+        bh=/bCjJnhxRO5X3+4TIpTF2RZdVZkEz7IAmR8yZHK0iJg=;
+        fh=fICT1TGciSL0b6pSvLaVgnEczb35GsYVVDiPxHWer0o=;
+        b=I+NlYkb6vBLjm9vd0RUqHLcNPvV8wovU3PWQKo/oX184HlRD9h480A7raz2/6KLTTB
+         OdDKk+Ay1iZBr5SuWP3FKZvmcG1Gh0IUDa2SS7UfiFD6OmbTmB0a725L257LRf+GOc4Q
+         +IrcsGlfM6UZk879hJitdAGH7GsneXoJvAXUJHwy1cffeuIZ6S1vlBscGt1NimxyQ1ee
+         LfPOt+VhKy3MZ/0i4RTEzegLbV2KO2NCDhFseWVh8D+ItZDr3Z23kd5EG7HnoCiLRAeI
+         BrJ9z4lnB0sVQVzg4p05DK3gAYkr5raOIYU9eHgXpOeUNmOrnD1I/2qOtKddpSlej6+X
+         J3WQ==;
+        dara=google.com
+ARC-Authentication-Results: i=1; mx.google.com;
+       dkim=pass header.i=@inform.vline.com.au header.s=kt5yj536iik23tnz34d6tn7zpsi4lnwl header.b=Ps2LDrEv;
+       dkim=pass header.i=@amazonses.com header.s=c4g6esh62r66f7jpbbidkgju554h65ib header.b=WpcxqGgd;
+       spf=pass (google.com: domain of 010801909609de8b-4b0c6dcb-a304-4915-9415-c02c6e7e5606-000000@ap-southeast-2.amazonses.com designates 69.169.235.97 as permitted sender) smtp.mailfrom=010801909609de8b-4b0c6dcb-a304-4915-9415-c02c6e7e5606-000000@ap-southeast-2.amazonses.com;
+       dmarc=pass (p=REJECT sp=REJECT dis=NONE) header.from=vline.com.au
+Return-Path: <010801909609de8b-4b0c6dcb-a304-4915-9415-c02c6e7e5606-000000@ap-southeast-2.amazonses.com>
+Received: from b235-97.smtp-out.ap-southeast-2.amazonses.com (b235-97.smtp-out.ap-southeast-2.amazonses.com. [69.169.235.97])
+        by mx.google.com with ESMTPS id d9443c01a7336-1fbb6ac7e11si12168745ad.467.2024.07.08.22.49.09
+        for <vline@example.com>
+        (version=TLS1_3 cipher=TLS_AES_128_GCM_SHA256 bits=128/128);
+        Mon, 08 Jul 2024 22:49:10 -0700 (PDT)
+Received-SPF: pass (google.com: domain of 010801909609de8b-4b0c6dcb-a304-4915-9415-c02c6e7e5606-000000@ap-southeast-2.amazonses.com designates 69.169.235.97 as permitted sender) client-ip=69.169.235.97;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@inform.vline.com.au header.s=kt5yj536iik23tnz34d6tn7zpsi4lnwl header.b=Ps2LDrEv;
+       dkim=pass header.i=@amazonses.com header.s=c4g6esh62r66f7jpbbidkgju554h65ib header.b=WpcxqGgd;
+       spf=pass (google.com: domain of 010801909609de8b-4b0c6dcb-a304-4915-9415-c02c6e7e5606-000000@ap-southeast-2.amazonses.com designates 69.169.235.97 as permitted sender) smtp.mailfrom=010801909609de8b-4b0c6dcb-a304-4915-9415-c02c6e7e5606-000000@ap-southeast-2.amazonses.com;
+       dmarc=pass (p=REJECT sp=REJECT dis=NONE) header.from=vline.com.au
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=kt5yj536iik23tnz34d6tn7zpsi4lnwl; d=inform.vline.com.au;
+	t=1720504147;
+	h=Date:From:Reply-To:To:Message-ID:Subject:MIME-Version:Content-Type;
+	bh=/bCjJnhxRO5X3+4TIpTF2RZdVZkEz7IAmR8yZHK0iJg=;
+	b=Ps2LDrEvmATaz25vMkRNXoL74G5BXlbbiE46sBQyKzpKA3wQPi9hWiOg99op2yWq
+	OIH2w2Jwl5ngrIIqRdDYC9ZSOF04aKH9p/hhIZ4bs3bRLf0FoDeO4XGLXRkTwZdy7Fl
+	jmdZ4j92ZNXYUL7MtRLu+MDFGWhggOhFoJ4VCnRg=
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=c4g6esh62r66f7jpbbidkgju554h65ib; d=amazonses.com; t=1720504147;
+	h=Date:From:Reply-To:To:Message-ID:Subject:MIME-Version:Content-Type:Feedback-ID;
+	bh=/bCjJnhxRO5X3+4TIpTF2RZdVZkEz7IAmR8yZHK0iJg=;
+	b=WpcxqGgdkLs0Idq2yhhT/2MUtuiYLoWGNOSVAwIwZFYvpc1S7EIkFgpG5uVlkI4K
+	fvVH/WS82s71/KIK8VZH/6KlE5/Z9tA51kGJ2Mc1Izl6h3aesUKttTNxliDCrU1UnxS
+	5D/tRLbC8RDCbGlE2o5/xXzOShXVaPIDgwL7XFEI=
+DKIM-Filter: OpenDKIM Filter v2.11.0 mail1.service.whispir.com 6DBE9163FCC
+Date: Tue, 9 Jul 2024 05:49:07 +0000
+From: VLine Inform <noreply@inform.vline.com.au>
+Reply-To: VLine Inform <xdk9f3uzfdy8wyfzuiiprvli@inform.vline.com.au>
+To: V/Line Inform <vline@example.com>
+Message-ID: <010801909609de8b-4b0c6dcb-a304-4915-9415-c02c6e7e5606-000000@ap-southeast-2.amazonses.com>
+Subject: Service Change - Geelong Line
+MIME-Version: 1.0
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_136059_475508857.1720504147434"
+Feedback-ID: ::1.ap-southeast-2.a9mjOVmlRmpHY6eFkewcNPsABuEACg1lnM5ClSgo004=:AmazonSES
+X-SES-Outgoing: 2024.07.09-69.169.235.97
+
+------=_Part_136059_475508857.1720504147434
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<table><tbody><tr><td width=3D"600"><table><tbody><tr><td><img width=3D"100=
+%" alt=3D"V/Line Travel Update" src=3D"https://cdn-au.whispir.com/public/re=
+sources/613ad87ff9d965255994f0265d15282d37.jpg"></td></tr></tbody></table><=
+br><p><span style=3D"font-size: 12.8px;">The 15:55 Southern Cross - Wyndham=
+ Vale service will not run today.</span><br style=3D"font-size: 12.8px;"><s=
+pan style=3D"font-size: 12.8px;">More information at <a href=3D"https://www=
+.vline.com.au/" target=3D"_top">vline.com.au</a></span></p><p><br></p><tabl=
+e><tbody><tr><td><img src=3D"https://cdn-au.whispir.com/public/resources/61=
+81ca4a9e4007bbe1a900b2d9e0dd74e4.jpg" alt=3D"VLine &amp; PTV Logo" width=3D=
+"100%"></td></tr></tbody></table><p><br></p><p>You are receiving this email=
+ because your email address is registered at&nbsp;<a href=3D"http://www.vli=
+ne.com.au/inform" target=3D"_top">vline.com.au/inform</a>.</p><p>To unsubsc=
+ribe or update your contact/journey details, visit&nbsp;<a href=3D"http://w=
+ww.vline.com.au/login" target=3D"_top">vline.com.au/login</a>.</p><p>For ge=
+neral travel information please call 1800 800 007 or visit&nbsp;<a href=3D"=
+http://www.vline.com.au/" target=3D"_top">vline.com.au</a>.</p><p>For weekl=
+y updates about planned service changes across the public transport network=
+, subscribe to&nbsp;<a href=3D"https://bit.ly/3fS7BxR" target=3D"_top">PTV'=
+s weekly travel update</a>.</p><p>Our privacy policy is available at&nbsp;<=
+a href=3D"http://www.vline.com.au/privacy" target=3D"_top">www.vline.com.au=
+/privacy</a>.&nbsp;</p><p>V/Line Corp ABN 91 273 289 190</p></td></tr></tbo=
+dy></table><br/><center style=3D"text-align: left; "><table><tbody><tr><td =
+width=3D"600"><table><tbody><tr><td width=3D"600"><table cellspacing=3D"0" =
+cellpadding=3D"0" style=3D"width: 600px; border: 0px none; background-color=
+: rgb(63, 68, 80);"><tbody><tr><td style=3D"padding: 0px;"><img src=3D"http=
+s://cdn-au.whispir.com/public/resources/6181ca4a9e4007bbe1a900b2d9e0dd74e4.=
+jpg" alt=3D"VLine &amp; PTV Logo" width=3D"100%" border=3D"0"></td></tr></t=
+body></table><font color=3D"#000000" face=3D"arial, helvetica, sans-serif">=
+<br></font><p style=3D"background-image: initial; background-position: init=
+ial; background-size: initial; background-repeat: initial; background-attac=
+hment: initial; background-origin: initial; background-clip: initial;"><spa=
+n style=3D"font-size: 10pt; color: black;">You are receiving this email bec=
+ause your email address is registered at&nbsp;</span><span style=3D"font-si=
+ze: 10pt;"><a href=3D"http://www.vline.com.au/inform" target=3D"_top">vline=
+.com.au/inform</a>.<o:p></o:p></span></p><p style=3D"background-image: init=
+ial; background-position: initial; background-size: initial; background-rep=
+eat: initial; background-attachment: initial; background-origin: initial; b=
+ackground-clip: initial;"><span style=3D"font-size: 10pt; color: black;">To=
+ unsubscribe or update your contact/journey details, visit&nbsp;</span><spa=
+n style=3D"font-size: 10pt;"><a href=3D"http://www.vline.com.au/login" targ=
+et=3D"_top">vline.com.au/login</a>.<o:p></o:p></span></p><p style=3D"backgr=
+ound-image: initial; background-position: initial; background-size: initial=
+; background-repeat: initial; background-attachment: initial; background-or=
+igin: initial; background-clip: initial;"><span style=3D"font-size: 10pt; c=
+olor: black;">For general travel information please call 1800 800 007 or vi=
+sit&nbsp;<a href=3D"http://www.vline.com.au/" target=3D"_top">vline.com.au<=
+/a>.</span><span style=3D"font-size: 10pt;"><o:p></o:p></span></p><p style=
+=3D"background-image: initial; background-position: initial; background-siz=
+e: initial; background-repeat: initial; background-attachment: initial; bac=
+kground-origin: initial; background-clip: initial;"><span style=3D"font-siz=
+e: 10pt; color: black;">For weekly updates about planned service changes ac=
+ross the public transport network, subscribe to&nbsp;<a href=3D"https://bit=
+.ly/3fS7BxR" target=3D"_top">PTV's weekly travel update</a>.</span><span st=
+yle=3D"font-size: 10pt;"><o:p></o:p></span></p><p style=3D"background-image=
+: initial; background-position: initial; background-size: initial; backgrou=
+nd-repeat: initial; background-attachment: initial; background-origin: init=
+ial; background-clip: initial;"><span style=3D"font-size: 10pt;">Our privac=
+y policy is available at&nbsp;<a href=3D"http://www.vline.com.au/privacy" t=
+arget=3D"_top">www.vline.com.au/privacy</a>.&nbsp;</span></p><p class=3D"Ms=
+oNormal" style=3D"line-height: normal; background-image: initial; backgroun=
+d-position: initial; background-size: initial; background-repeat: initial; =
+background-attachment: initial; background-origin: initial; background-clip=
+: initial;"><span style=3D"font-size: 10pt; color: black;">V/Line Corp ABN =
+91 273 289 190</span></p></td></tr></tbody></table></td></tr></tbody></tabl=
+e>
+</center>
+------=_Part_136059_475508857.1720504147434--
