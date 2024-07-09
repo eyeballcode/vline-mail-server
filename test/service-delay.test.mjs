@@ -20,19 +20,10 @@ describe('The service delay function', () => {
     sampleMessages.forEach(message => {
       let [classification, value, text] = message.split('\t')
       let processedText = VLineMailServer.processMessage(text)
-      let serviceData = identifyService(processedText, { vlineStations })
+      let serviceData = identifyService(processedText, { vlineStations, lineStops })
       let changeText = removeServiceData(processedText, serviceData)
 
-      // In practice we could match the trip first (but this hacky method works too 🤷)
-      let line = Object.keys(lineStops).find(line => {
-        let stops = lineStops[line]
-        return stops.includes(serviceData.origin) && stops.includes(serviceData.destination)
-      })
-
-      let delay = identifyDelay(changeText, {
-        ...serviceData,
-        line
-      }, { vlineStations, lineStops })
+      let delay = identifyDelay(changeText, serviceData, { vlineStations, lineStops })
 
       expect(delay[0].value.toString(), text).to.deep.equal(value)
     })
@@ -40,14 +31,11 @@ describe('The service delay function', () => {
 
   it('Should identify the service delay in minutes', () => {
     let text = 'The 07:54 Southern Cross to Bairnsdale service is delayed 30 minutes.'
-    let serviceData = identifyService(text, { vlineStations })
+    let serviceData = identifyService(text, { vlineStations, lineStops })
     let changeText = removeServiceData(text, serviceData)
     expect(changeText).to.equal('is delayed 30 minutes.')
 
-    let changes = identifyDelay(changeText, {
-      ...serviceData,
-      line: 'Bairnsdale'
-    }, { lineStops })
+    let changes = identifyDelay(changeText, serviceData, { lineStops })
 
     expect(changes.length).to.equal(1)
     expect(changes[0].type).to.equal('delay')
@@ -57,14 +45,11 @@ describe('The service delay function', () => {
 
   it('Should identify a service being held at or near a location', () => {
     let text = 'The 05:09 Shepparton to Southern Cross service is being held at Roxburgh Park due to a police operation.'
-    let serviceData = identifyService(text, { vlineStations })
+    let serviceData = identifyService(text, { vlineStations, lineStops })
     let changeText = removeServiceData(text, serviceData)
     expect(changeText).to.equal('is being held at Roxburgh Park due to a police operation.')
 
-    let changes = identifyDelay(changeText, {
-      ...serviceData,
-      line: 'Shepparton'
-    }, { lineStops })
+    let changes = identifyDelay(changeText, serviceData, { lineStops })
 
     expect(changes.length).to.equal(1)
     expect(changes[0].type).to.equal('delay')
@@ -74,14 +59,11 @@ describe('The service delay function', () => {
 
   it('Should identify a service being delayed on departure', () => {
     let text = 'The 05:09 Shepparton to Southern Cross service will be delayed on departure'
-    let serviceData = identifyService(text, { vlineStations })
+    let serviceData = identifyService(text, { vlineStations, lineStops })
     let changeText = removeServiceData(text, serviceData)
     expect(changeText).to.equal('will be delayed on departure')
 
-    let changes = identifyDelay(changeText, {
-      ...serviceData,
-      line: 'Shepparton'
-    }, { lineStops })
+    let changes = identifyDelay(changeText, serviceData, { lineStops })
 
     expect(changes.length).to.equal(1)
     expect(changes[0].type).to.equal('delay')
@@ -91,13 +73,10 @@ describe('The service delay function', () => {
 
   it('Should be able to handle typos in the location name', () => {
     let text = 'The 05:09 Shepparton to Southern Cross service is being held at Roxburgh Pakr due to a police operation.'
-    let serviceData = identifyService(text, { vlineStations })
+    let serviceData = identifyService(text, { vlineStations, lineStops })
     let changeText = removeServiceData(text, serviceData)
 
-    let changes = identifyDelay(changeText, {
-      ...serviceData,
-      line: 'Shepparton'
-    }, { lineStops })
+    let changes = identifyDelay(changeText, serviceData, { lineStops })
 
     expect(changes[0].value).to.equal('Roxburgh Park')
   })

@@ -18,19 +18,10 @@ describe('The service change function', () => {
   it('Correctly identifies the origin, destination and departure time on the test data', () => {
     sampleMessages.forEach(message => {
       let [departureTime, origin, destination, knownChanges, text] = message.split('\t')
-      let serviceData = identifyService(text, { vlineStations })
+      let serviceData = identifyService(text, { vlineStations, lineStops })
       let changeText = removeServiceData(text, serviceData)
 
-      // In practice we could match the trip first (but this hacky method works too 🤷)
-      let line = Object.keys(lineStops).find(line => {
-        let stops = lineStops[line]
-        return stops.includes(origin) && stops.includes(destination)
-      })
-
-      let changes = identifyChanges(changeText, {
-        ...serviceData,
-        line
-      }, { vlineStations, lineStops })
+      let changes = identifyChanges(changeText, serviceData, { vlineStations, lineStops })
 
       expect(changes, text).to.deep.equal(JSON.parse(knownChanges))
     })
@@ -38,14 +29,11 @@ describe('The service change function', () => {
 
   it('Should identify the service change type', () => {
     let text = 'The 07:50 Southern Cross to South Geelong will terminate at Lara and no longer run to South Geelong.'
-    let serviceData = identifyService(text, { vlineStations })
+    let serviceData = identifyService(text, { vlineStations, lineStops })
     let changeText = removeServiceData(text, serviceData)
     expect(changeText).to.equal('will terminate at Lara and no longer run to South Geelong.')
 
-    let changes = identifyChanges(changeText, {
-      ...serviceData,
-      line: 'Warrnambool'
-    }, { vlineStations, lineStops })
+    let changes = identifyChanges(changeText, serviceData, { vlineStations, lineStops })
 
     expect(changes.length).to.equal(1)
     expect(changes[0].type).to.equal('terminate')
