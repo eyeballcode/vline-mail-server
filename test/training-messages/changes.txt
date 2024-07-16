@@ -186,3 +186,4 @@
 05:15	Traralgon	Flinders Street	[{"type":"originate","location":"Warragul"},{"type":"terminate","location":"Westall"}]	The 05:15 Traralgon to Flinders Street will originate late from Warragul and terminate at Westall today.
 17:50	Epsom	Southern Cross	[{"type":"originate","location":"Bendigo"}]	The 17:50 Epsom to Southern Cross is cancelled between Epsom and Bendigo today.
 17:26	Southern Cross	Epsom	[{"type":"terminate","location":"Bendigo"}]	The 17:26 Southern Cross to Epsom is cancelled between Bendigo and Epsom tonight.
+17:33	Southern Cross	Seymour	[{"type":"terminate","location":"Moonee Ponds"}]	The 17:33 Southern Cross to Seymour service will terminate at Moonee Ponds and no longer run to Seymour.
