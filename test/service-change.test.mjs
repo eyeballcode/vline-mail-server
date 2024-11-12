@@ -4,8 +4,8 @@ import url from 'url'
 
 import { expect } from 'chai'
 
-import vlineStations from './training-messages/vline-stations.json' assert { type: 'json' }
-import lineStops from './training-messages/line-stops.json' assert { type: 'json' }
+import vlineStations from './training-messages/vline-stations.json' with { type: 'json' }
+import lineStops from './training-messages/line-stops.json' with { type: 'json' }
 import identifyChanges from '../lib/parsers/service-change.mjs'
 import identifyService, { removeServiceData } from '../lib/parsers/identify-service.mjs'
 

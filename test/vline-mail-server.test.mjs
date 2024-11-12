@@ -5,8 +5,8 @@ import path from 'path'
 import url from 'url'
 import { createReadStream } from 'fs'
 
-import vlineStations from './training-messages/vline-stations.json' assert { type: 'json' }
-import lineStops from './training-messages/line-stops.json' assert { type: 'json' }
+import vlineStations from './training-messages/vline-stations.json' with { type: 'json' }
+import lineStops from './training-messages/line-stops.json' with { type: 'json' }
 
 const __filename = url.fileURLToPath(import.meta.url)
 const __dirname = path.dirname(__filename)
