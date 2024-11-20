@@ -57,4 +57,24 @@ describe('The additional stop function', () => {
       time: null
     }])
   })
+
+  it('Should identify when multiple stops are added with times', () => {
+    let text = 'The 06:38 Wendouree to Southern Cross service will make an additional stop at Melton at 07:36, Cobblebank at 07:40, and Caroline Springs at 07:49 today.'
+    let serviceData = identifyService(text, { vlineStations, lineStops })
+    let changeText = removeServiceData(text, serviceData)
+    expect(changeText).to.equal('will make an additional stop at Melton at 07:36, Cobblebank at 07:40, and Caroline Springs at 07:49 today.')
+
+    let changes = identifyAddStop(changeText, serviceData, { vlineStations, lineStops })
+
+    expect(changes).to.deep.equal([{
+      location: 'Melton',
+      time: '07:36'
+    }, {
+      location: 'Cobblebank',
+      time: '07:40'
+    }, {
+      location: 'Caroline Springs',
+      time: '07:49'
+    }])
+  })
 })
