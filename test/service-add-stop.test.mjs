@@ -27,7 +27,21 @@ describe('The additional stop function', () => {
     }])
   })
 
-  it('Should identify when 2 stops are being skipped', () => {
+  it('Should identify when 1 stop is being added with a time', () => {
+    let text = 'The 06:13 Ararat to Southern Cross service will make an additional stop at Melton at 08:17 today.'
+    let serviceData = identifyService(text, { vlineStations, lineStops })
+    let changeText = removeServiceData(text, serviceData)
+    expect(changeText).to.equal('will make an additional stop at Melton at 08:17 today.')
+
+    let changes = identifyAddStop(changeText, serviceData, { vlineStations, lineStops })
+
+    expect(changes).to.deep.equal([{
+      location: 'Melton',
+      time: '08:17'
+    }])
+  })
+
+  it('Should identify when 2 stops are added', () => {
     let text = 'The 12:18 Waurn Ponds to Southern Cross service will make an additional stop at Corio & Little River today.'
     let serviceData = identifyService(text, { vlineStations, lineStops })
     let changeText = removeServiceData(text, serviceData)
