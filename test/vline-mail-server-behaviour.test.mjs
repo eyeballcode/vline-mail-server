@@ -96,7 +96,7 @@ describe('The V/Line Inform Mail Server\'s Behaviour', () => {
       expect(VLineMailServer.standardiseMessage('Seymour to North Melbourne')).to.equal('Seymour to North Melbourne')
     })
 
-    it('Should replace Flinders St with an optional colon with just Flinders Street', () => {
+    it('Should replace Flinders St with an optional full stop with just Flinders Street', () => {
       expect(VLineMailServer.standardiseMessage('Flinders St to Traralgon')).to.equal('Flinders Street to Traralgon')
       expect(VLineMailServer.standardiseMessage('Flinders St. to Bairnsdale')).to.equal('Flinders Street to Bairnsdale')
       expect(VLineMailServer.standardiseMessage('Morwell to Flinders Street')).to.equal('Morwell to Flinders Street')
