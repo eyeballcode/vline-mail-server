@@ -14,7 +14,7 @@ const __dirname = path.dirname(__filename)
 
 describe('The service non stopping function', () => {
   it('Should identify when 1 stop is being skipped', () => {
-    let text = 'The 13:35 Swan Hill - Southern Cross service will not stop at Kangaroo Flat today.'
+    let text = 'The 13:35 Swan Hill to Southern Cross service will not stop at Kangaroo Flat today.'
     let serviceData = identifyService(text, { vlineStations, lineStops })
     let changeText = removeServiceData(text, serviceData)
     expect(changeText).to.equal('will not stop at Kangaroo Flat today.')
@@ -26,10 +26,10 @@ describe('The service non stopping function', () => {
   })
 
   it('Should identify when 2 stops are being skipped', () => {
-    let text = 'The 15:30 Southern Cross - Waurn Ponds service will not stop at Footscray and Sunshine today'
+    let text = 'The 15:30 Southern Cross to Waurn Ponds service will not stop at Footscray and Sunshine today'
     let serviceData = identifyService(text, { vlineStations, lineStops })
     let changeText = removeServiceData(text, serviceData)
-    expect(changeText).to.equal('will not stop at Footscray and Sunshine today.')
+    expect(changeText).to.equal('will not stop at Footscray and Sunshine today')
 
     let changes = identifyNonStop(changeText, serviceData, { vlineStations, lineStops })
 
