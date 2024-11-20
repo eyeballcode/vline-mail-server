@@ -77,4 +77,33 @@ describe('The additional stop function', () => {
       time: '07:49'
     }])
   })
+
+  it('Should identify when multiple stops are added with times on a non-standard message', () => {
+    let text = 'The 17:44 Melton to Southern Cross additional football train will now make additional stops at Cobblebank (17:46), Rockbank (17:48) and Caroline Springs (17:51) and then run express to Southern Cross.'
+    let serviceData = identifyService(text, { vlineStations, lineStops })
+    let changeText = removeServiceData(text, serviceData)
+
+    expect(serviceData).to.deep.equal({
+      departureTime: '17:44',
+      origin: 'Melton',
+      destination: 'Southern Cross',
+      line: 'Ararat',
+      matchedText: '17:44 Melton to Southern Cross additional football train'
+    })
+
+    expect(changeText).to.equal('will now make additional stops at Cobblebank (17:46), Rockbank (17:48) and Caroline Springs (17:51) and then run express to Southern Cross.')
+
+    let changes = identifyAddStop(changeText, serviceData, { vlineStations, lineStops })
+
+    expect(changes).to.deep.equal([{
+      location: 'Cobblebank',
+      time: '17:46'
+    }, {
+      location: 'Rockbank',
+      time: '17:48'
+    }, {
+      location: 'Caroline Springs',
+      time: '17:51'
+    }])
+  })
 })
