@@ -37,4 +37,18 @@ describe('The service non stopping function', () => {
     expect(changes[0].location).to.equal('Footscray')
     expect(changes[1].location).to.equal('Sunshine')
   })
+
+  it('Should identify when 3 or more stops are being skipped', () => {
+    let text = 'The 18:47 Wendouree to Southern Cross will not stop at Ardeer, Sunshine and Footscray today.'
+    let serviceData = identifyService(text, { vlineStations, lineStops })
+    let changeText = removeServiceData(text, serviceData)
+    expect(changeText).to.equal('will not stop at Ardeer, Sunshine and Footscray today.')
+
+    let changes = identifyNonStop(changeText, serviceData, { vlineStations, lineStops })
+
+    expect(changes.length).to.equal(3)
+    expect(changes[0].location).to.equal('Ardeer')
+    expect(changes[1].location).to.equal('Sunshine')
+    expect(changes[2].location).to.equal('Footscray')
+  })
 })
