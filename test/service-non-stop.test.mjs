@@ -8,6 +8,7 @@ import vlineStations from './training-messages/vline-stations.json' with { type:
 import lineStops from './training-messages/line-stops.json' with { type: 'json' }
 import identifyNonStop from '../lib/parsers/identify-non-stop.mjs'
 import identifyService, { removeServiceData } from '../lib/parsers/identify-service.mjs'
+import getMessageType from '../lib/message-classification.mjs'
 
 const __filename = url.fileURLToPath(import.meta.url)
 const __dirname = path.dirname(__filename)
@@ -53,7 +54,9 @@ describe('The service non stopping function', () => {
   })
 
   it('Should accept sentences in the continuous form', () => {
-    let text = 'The 18:48 Southern Cross - Wendouree service is not stopping at Footscray and Sunshine.'
+    let text = 'The 18:48 Southern Cross to Wendouree service is not stopping at Footscray and Sunshine.'
+
+    expect(getMessageType('', text)).to.equal('NON_STOP')
 
     let serviceData = identifyService(text, { vlineStations, lineStops })
     let changeText = removeServiceData(text, serviceData)
