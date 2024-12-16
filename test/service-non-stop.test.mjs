@@ -51,4 +51,18 @@ describe('The service non stopping function', () => {
     expect(changes[1].location).to.equal('Sunshine')
     expect(changes[2].location).to.equal('Footscray')
   })
+
+  it('Should accept sentences in the continuous form', () => {
+    let text = 'The 18:48 Southern Cross - Wendouree service is not stopping at Footscray and Sunshine.'
+
+    let serviceData = identifyService(text, { vlineStations, lineStops })
+    let changeText = removeServiceData(text, serviceData)
+    expect(changeText).to.equal('is not stopping at Footscray and Sunshine.')
+
+    let changes = identifyNonStop(changeText, serviceData, { vlineStations, lineStops })
+
+    expect(changes.length).to.equal(2)
+    expect(changes[0].location).to.equal('Footscray')
+    expect(changes[1].location).to.equal('Sunshine')
+  })
 })
